@@ -11,7 +11,7 @@ my_streamlit_app/
 ├── .env
 ├── .gitignore
 │
-├── pages/                  # Multi-page Streamlit apps
+├── pages/                  # Multi-page Streamlit
 │   ├── 1_Dashboard.py
 │   ├── 2_Analysis.py
 │   ├── 3_Chatbot.py
