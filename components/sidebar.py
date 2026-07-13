@@ -7,14 +7,14 @@ def render_sidebar():
         st.divider()
 
         for option in ["Home", "My Portfolio", "Chatbot"]:
-            st.button(option, use_container_width=True)
+            st.button(option, width='stretch')
 
         theme = st.radio(
             "Theme",
             ["Light", "Dark"]
         )
 
-        st.button("Refresh", use_container_width=True)
+        st.button("Refresh", width='stretch')
 
     return {
         "theme": theme,
