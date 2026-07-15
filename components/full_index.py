@@ -22,12 +22,13 @@ def full_index(ticker: str, index_name: str):
         prices = get_period_prices(df["Close"], 2)
         daily_return_card(prices)
 
-    col1, col2 = st.columns(2)
-    with col1:
-        with st.container(border=True, height=HEIGHT):
-            st.dataframe(df_metrics, height=HEIGHT, width='stretch')
+    with st.expander("Details"):
+        col1, col2 = st.columns(2)
+        with col1:
+            with st.container(border=True, height=HEIGHT):
+                st.dataframe(df_metrics, height=HEIGHT, width='stretch')
 
-    with col2:
-        with st.container(border=True, height=HEIGHT):
-            fig.update_layout(height=HEIGHT)
-            st.plotly_chart(fig, width='stretch')
+        with col2:
+            with st.container(border=True, height=HEIGHT):
+                fig.update_layout(height=HEIGHT)
+                st.plotly_chart(fig, width='stretch')
