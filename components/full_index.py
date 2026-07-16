@@ -2,6 +2,7 @@ import streamlit as st
 from components.df_index import df_index, get_period_prices
 from components.daily_chart import daily_chart
 from components.daily_return import daily_return_card
+from components.daily_metrics import daily_metrics
 from utils.load_data import load_data
 
 
@@ -24,7 +25,7 @@ def full_index(ticker: str, index_name: str):
         col1, col2 = st.columns(2)
         with col1:
             with st.container(border=True, height=HEIGHT):
-                st.dataframe(df_metrics, height=HEIGHT, width='stretch')
+                daily_metrics(df_daily)
 
         with col2:
             with st.container(border=True, height=HEIGHT):

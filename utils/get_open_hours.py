@@ -18,7 +18,6 @@ def get_open_hours(df: pd.DataFrame):
 
     # Previous full session
     session = df[df.index.normalize() == previous_day]
-    print(session)
     previous_open = session.index.min()
     previous_close = session.index.max()
 

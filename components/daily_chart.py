@@ -9,13 +9,11 @@ def daily_chart(
 ):
     df = df.copy()
 
-
-
     market_open, market_close = get_open_hours(df)
 
+    # Remove the timezone 
     df["Datetime"] = pd.to_datetime(df["Datetime"]).dt.tz_localize(None)
 
-    # Create complete trading session (1-minute intervals)
     trading_minutes = pd.DataFrame({
         "Datetime": pd.date_range(
             start=market_open,
@@ -25,8 +23,6 @@ def daily_chart(
     })
 
 
-
-    # Add existing prices, leave future minutes as NaN
     df = trading_minutes.merge(
         df[["Datetime", "Close"]],
         on="Datetime",
