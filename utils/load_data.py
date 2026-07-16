@@ -1,11 +1,11 @@
 import yfinance as yf
 import pandas as pd
 
-def load_data(ticker: str):
+def load_data(ticker: str, period: str, interval: str):
     df = yf.download(
         ticker,
-        period="5y",
-        interval="1d",
+        period=period,
+        interval=interval,
         auto_adjust=True,
         progress=False,
     )

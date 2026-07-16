@@ -1,6 +1,6 @@
 import streamlit as st
 from components.df_index import df_index, get_period_prices
-from components.fig_index import fig_index
+from components.daily_chart import daily_chart
 from components.daily_return import daily_return_card
 from utils.load_data import load_data
 
@@ -8,11 +8,9 @@ from utils.load_data import load_data
 HEIGHT = 500
 
 def full_index(ticker: str, index_name: str):
-    df = load_data(ticker)
-
+    df = load_data(ticker, "5y", "1d")
+    df_daily = load_data(ticker, "2d", "1m")
     df_metrics = df_index(df)
-
-    fig = fig_index(df)
 
     head1, head2 = st.columns(2)
     with head1:
@@ -30,5 +28,5 @@ def full_index(ticker: str, index_name: str):
 
         with col2:
             with st.container(border=True, height=HEIGHT):
-                fig.update_layout(height=HEIGHT)
-                st.plotly_chart(fig, width='stretch')
+                # fig.update_layout(height=HEIGHT)
+                daily_chart(df_daily)
