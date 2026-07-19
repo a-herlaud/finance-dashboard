@@ -8,7 +8,7 @@ from utils.load_data import load_data
 
 HEIGHT = 500
 
-def full_index(ticker: str, index_name: str):
+def daily_analysis(ticker: str, index_name: str):
     df = load_data(ticker, "5y", "1d")
     df_daily = load_data(ticker, "2d", "1m")
     df_metrics = df_index(df)

@@ -5,7 +5,7 @@ import streamlit as st
 def historical_chart(df: pd.DataFrame):
     fig = px.line(
         df,
-        x="Datetime",
+        x="Date",
         y="Close",
     )
 
