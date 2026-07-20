@@ -38,6 +38,11 @@ st.markdown(
     - an expandable details section,
     - daily intraday metrics,
     - and a one-minute price chart for the latest session.
+
+    Buttons are accessible for each index to:
+    - show a further historical analysis of the index,
+    - display the historical price chart of the index,
+    - display a treemap of the constituents in the index with their weight.
     """
 )
 

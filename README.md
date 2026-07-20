@@ -58,6 +58,13 @@ For each index:
 - renders daily metrics such as high, low, volume, and volatility,
 - and draws a one-minute intraday line chart.
 
+Buttons are accessible for each index to:
+
+- show a further historical analysis of the index,
+- display the historical price chart of the index,
+- display a treemap of the constituents in the index with their weight.
+
+
 ### Chatbot page: `pages/2_Chatbot.py`
 
 This page provides a simple conversational interface.
@@ -122,3 +129,13 @@ make up
 - Market data comes from Yahoo Finance through `yfinance`.
 - The chatbot only works if the Gemini API key is configured.
 - The app layout is designed for wide screens, which gives the charts and cards more room.
+
+## Further Improvements
+
+- Improve the scraping tool's modularity so it can easily support any new index
+- Improve the dashboard's fluidity by loading the data only once, storing it, and rendering it instantly
+- Add other features:
+  - A deeper, full analysis scope
+  - Support for more markets (Forex, Bonds, Single Stocks)
+  - A portfolio creation panel with common and historical methods, such as Markowitz
+  - An improved chatbot using RAG on financial resources
