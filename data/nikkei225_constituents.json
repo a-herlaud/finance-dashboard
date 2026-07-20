@@ -1,0 +1,1577 @@
+[
+  {
+    "symbol":"8306.T",
+    "name":"Mitsubishi UFJ Financial Group Inc.",
+    "sector":"Banking",
+    "marketCap":39164578164716.0,
+    "weight":0.0406867029
+  },
+  {
+    "symbol":"7203.T",
+    "name":"Toyota Motor Corp.",
+    "sector":"Automotive",
+    "marketCap":34334970760620.0,
+    "weight":0.0356693936
+  },
+  {
+    "symbol":"9984.T",
+    "name":"SoftBank Group Corp.",
+    "sector":"Communications",
+    "marketCap":30910962154224.0,
+    "weight":0.0321123115
+  },
+  {
+    "symbol":"8035.T",
+    "name":"Tokyo Electron Ltd.",
+    "sector":"Electric machinery",
+    "marketCap":29597792859600.0,
+    "weight":0.0307481061
+  },
+  {
+    "symbol":"285A.T",
+    "name":"Kioxia Holdings Corp.",
+    "sector":"Electric machinery",
+    "marketCap":28516805997570.0,
+    "weight":0.0296251069
+  },
+  {
+    "symbol":"8316.T",
+    "name":"Sumitomo Mitsui Financial Group Inc.",
+    "sector":"Banking",
+    "marketCap":25620457275985.0,
+    "weight":0.0266161921
+  },
+  {
+    "symbol":"9983.T",
+    "name":"Fast Retailing Co. Ltd.",
+    "sector":"Retail",
+    "marketCap":24192134732160.0,
+    "weight":0.025132358
+  },
+  {
+    "symbol":"6501.T",
+    "name":"Hitachi Ltd.",
+    "sector":"Electric machinery",
+    "marketCap":21152977621006.0,
+    "weight":0.0219750846
+  },
+  {
+    "symbol":"6758.T",
+    "name":"Sony Corp.",
+    "sector":"Electric machinery",
+    "marketCap":20377443382900.0,
+    "weight":0.0211694093
+  },
+  {
+    "symbol":"6857.T",
+    "name":"Advantest Corp.",
+    "sector":"Electric machinery",
+    "marketCap":19912698307450.0,
+    "weight":0.020686602
+  },
+  {
+    "symbol":"8411.T",
+    "name":"Mizuho Financial Group Inc.",
+    "sector":"Banking",
+    "marketCap":19320957899750.0,
+    "weight":0.0200718637
+  },
+  {
+    "symbol":"6098.T",
+    "name":"Recruit Holdings Co. Ltd.",
+    "sector":"Services",
+    "marketCap":17847636950580.0,
+    "weight":0.0185412824
+  },
+  {
+    "symbol":"6861.T",
+    "name":"Keyence Corp.",
+    "sector":"Electric machinery",
+    "marketCap":17190181639680.0,
+    "weight":0.0178582752
+  },
+  {
+    "symbol":"8058.T",
+    "name":"Mitsubishi Corp.",
+    "sector":"Trading companies",
+    "marketCap":16282684589937.0,
+    "weight":0.0169155084
+  },
+  {
+    "symbol":"8766.T",
+    "name":"Tokio Marine Holdings Inc.",
+    "sector":"Insurance",
+    "marketCap":14297660056534.0,
+    "weight":0.0148533362
+  },
+  {
+    "symbol":"6981.T",
+    "name":"Murata Manufacturing Co. Ltd.",
+    "sector":"Electric machinery",
+    "marketCap":13892447769696.0,
+    "weight":0.0144323754
+  },
+  {
+    "symbol":"4063.T",
+    "name":"Shin-Etsu Chemical Co. Ltd.",
+    "sector":"Chemicals",
+    "marketCap":13309835404477.0,
+    "weight":0.0138271199
+  },
+  {
+    "symbol":"8001.T",
+    "name":"Itochu Corp.",
+    "sector":"Trading companies",
+    "marketCap":13298308885115.0,
+    "weight":0.0138151454
+  },
+  {
+    "symbol":"8031.T",
+    "name":"Mitsui & Co. Ltd.",
+    "sector":"Trading companies",
+    "marketCap":13212985514274.0,
+    "weight":0.013726506
+  },
+  {
+    "symbol":"7011.T",
+    "name":"Mitsubishi Heavy Industries Ltd.",
+    "sector":"Machinery",
+    "marketCap":12368930580540.0,
+    "weight":0.012849647
+  },
+  {
+    "symbol":"9432.T",
+    "name":"Nippon Telegraph & Telephone Corp.",
+    "sector":"Communications",
+    "marketCap":12303110175541.365234375,
+    "weight":0.0127812685
+  },
+  {
+    "symbol":"4519.T",
+    "name":"Chugai Pharmaceutical Co. Ltd.",
+    "sector":"Pharmaceuticals",
+    "marketCap":12055214385200.0,
+    "weight":0.0125237383
+  },
+  {
+    "symbol":"2914.T",
+    "name":"Japan Tobacco Inc.",
+    "sector":"Foods",
+    "marketCap":11268194636424.0,
+    "weight":0.0117061311
+  },
+  {
+    "symbol":"6503.T",
+    "name":"Mitsubishi Electric Corp.",
+    "sector":"Electric machinery",
+    "marketCap":10989360117120.0,
+    "weight":0.0114164598
+  },
+  {
+    "symbol":"9433.T",
+    "name":"KDDI Corp.",
+    "sector":"Communications",
+    "marketCap":10919448208980.0,
+    "weight":0.0113438307
+  },
+  {
+    "symbol":"9434.T",
+    "name":"SoftBank Corp.",
+    "sector":"Communications",
+    "marketCap":10546281464701.5,
+    "weight":0.0109561609
+  },
+  {
+    "symbol":"6752.T",
+    "name":"Panasonic Corp.",
+    "sector":"Electric machinery",
+    "marketCap":9323355604860.0,
+    "weight":0.0096857063
+  },
+  {
+    "symbol":"4502.T",
+    "name":"Takeda Pharmaceutical Company Limited",
+    "sector":"Pharmaceuticals",
+    "marketCap":8750197885720.0,
+    "weight":0.0090902729
+  },
+  {
+    "symbol":"7741.T",
+    "name":"Hoya Corporation",
+    "sector":"Precision instruments",
+    "marketCap":8434883851425.0,
+    "weight":0.0087627042
+  },
+  {
+    "symbol":"7974.T",
+    "name":"Nintendo Co. Ltd.",
+    "sector":"Services",
+    "marketCap":8408732574270.0,
+    "weight":0.0087355366
+  },
+  {
+    "symbol":"8002.T",
+    "name":"Marubeni Corp.",
+    "sector":"Trading companies",
+    "marketCap":8114788738396.0,
+    "weight":0.0084301686
+  },
+  {
+    "symbol":"5803.T",
+    "name":"Fujikura Ltd.",
+    "sector":"Nonferrous metals",
+    "marketCap":7404108371712.0,
+    "weight":0.0076918678
+  },
+  {
+    "symbol":"8053.T",
+    "name":"Sumitomo Corp.",
+    "sector":"Trading companies",
+    "marketCap":7174614006752.0,
+    "weight":0.0074534542
+  },
+  {
+    "symbol":"6146.T",
+    "name":"Disco Corporation Ltd.",
+    "sector":"Precision instruments",
+    "marketCap":7026539225500.0,
+    "weight":0.0072996245
+  },
+  {
+    "symbol":"5802.T",
+    "name":"Sumitomo Electric Industries Ltd.",
+    "sector":"Nonferrous metals",
+    "marketCap":7016159195500.0,
+    "weight":0.007288841
+  },
+  {
+    "symbol":"6723.T",
+    "name":"Renesas Electronics",
+    "sector":"Electric machinery",
+    "marketCap":6934234465704.0,
+    "weight":0.0072037323
+  },
+  {
+    "symbol":"6367.T",
+    "name":"Daikin Industries Ltd.",
+    "sector":"Machinery",
+    "marketCap":6819234940000.0,
+    "weight":0.0070842634
+  },
+  {
+    "symbol":"8591.T",
+    "name":"Orix Co.",
+    "sector":"Other financial services",
+    "marketCap":6775119307837.0,
+    "weight":0.0070384332
+  },
+  {
+    "symbol":"6178.T",
+    "name":"Japan Post Holdings Co. Ltd.",
+    "sector":"Services",
+    "marketCap":6535912125312.0,
+    "weight":0.0067899293
+  },
+  {
+    "symbol":"8750.T",
+    "name":"Dai-ichi Life Insurance Company Limited",
+    "sector":"Insurance",
+    "marketCap":6479447173185.0,
+    "weight":0.0067312698
+  },
+  {
+    "symbol":"8725.T",
+    "name":"MS&AD Insurance Group Inc.",
+    "sector":"Insurance",
+    "marketCap":6461211984406.0,
+    "weight":0.0067123259
+  },
+  {
+    "symbol":"8015.T",
+    "name":"Toyota Tsusho Corp.",
+    "sector":"Trading companies",
+    "marketCap":6414895802336.0,
+    "weight":0.0066642097
+  },
+  {
+    "symbol":"6954.T",
+    "name":"FANUC Corp.",
+    "sector":"Electric machinery",
+    "marketCap":6193369307513.0,
+    "weight":0.0064340736
+  },
+  {
+    "symbol":"7267.T",
+    "name":"Honda Motor Co. Ltd.",
+    "sector":"Automotive",
+    "marketCap":5977057267155.5,
+    "weight":0.0062093546
+  },
+  {
+    "symbol":"8630.T",
+    "name":"Sompo Holdings Inc.",
+    "sector":"Insurance",
+    "marketCap":5904975614070.0,
+    "weight":0.0061344715
+  },
+  {
+    "symbol":"4578.T",
+    "name":"Otsuka Holdings Co. Ltd.",
+    "sector":"Pharmaceuticals",
+    "marketCap":5779327653000.0,
+    "weight":0.0060039403
+  },
+  {
+    "symbol":"6701.T",
+    "name":"NEC Corp.",
+    "sector":"Electric machinery",
+    "marketCap":5774901850018.0,
+    "weight":0.0059993424
+  },
+  {
+    "symbol":"6702.T",
+    "name":"Fujitsu Ltd.",
+    "sector":"Electric machinery",
+    "marketCap":5721295485930.0,
+    "weight":0.0059436527
+  },
+  {
+    "symbol":"6762.T",
+    "name":"TDK Corp.",
+    "sector":"Electric machinery",
+    "marketCap":5633721443000.0,
+    "weight":0.0058526751
+  },
+  {
+    "symbol":"6301.T",
+    "name":"Komatsu Ltd.",
+    "sector":"Machinery",
+    "marketCap":5572801205552.0,
+    "weight":0.0057893872
+  },
+  {
+    "symbol":"4568.T",
+    "name":"Daiichi Sankyo Company Limited",
+    "sector":"Pharmaceuticals",
+    "marketCap":5078652164930.0,
+    "weight":0.0052760331
+  },
+  {
+    "symbol":"8308.T",
+    "name":"Resona Holdings Inc.",
+    "sector":"Banking",
+    "marketCap":4989197553306.0,
+    "weight":0.0051831019
+  },
+  {
+    "symbol":"2802.T",
+    "name":"Ajinomoto Co. Inc.",
+    "sector":"Foods",
+    "marketCap":4957993682754.0,
+    "weight":0.0051506853
+  },
+  {
+    "symbol":"8802.T",
+    "name":"Mitsubishi Estate Co. Ltd.",
+    "sector":"Real estate",
+    "marketCap":4947266225952.0,
+    "weight":0.0051395409
+  },
+  {
+    "symbol":"6902.T",
+    "name":"Denso Corp.",
+    "sector":"Electric machinery",
+    "marketCap":4924028335468.0,
+    "weight":0.0051153999
+  },
+  {
+    "symbol":"3382.T",
+    "name":"Seven & I Holdings Co. Ltd.",
+    "sector":"Retail",
+    "marketCap":4808424963680.0,
+    "weight":0.0049953036
+  },
+  {
+    "symbol":"5108.T",
+    "name":"Bridgestone Corp.",
+    "sector":"Rubber",
+    "marketCap":4641285989307.0,
+    "weight":0.0048216688
+  },
+  {
+    "symbol":"6971.T",
+    "name":"Kyocera Corp.",
+    "sector":"Electric machinery",
+    "marketCap":4616865903664.0,
+    "weight":0.0047962996
+  },
+  {
+    "symbol":"4661.T",
+    "name":"Oriental Land Co. Ltd.",
+    "sector":"Services",
+    "marketCap":4475606443323.0,
+    "weight":0.0046495501
+  },
+  {
+    "symbol":"8604.T",
+    "name":"Nomura Holdings Inc.",
+    "sector":"Securities",
+    "marketCap":4442915077920.0,
+    "weight":0.0046155882
+  },
+  {
+    "symbol":"8309.T",
+    "name":"Sumitomo Mitsui Trust Holdings Inc.",
+    "sector":"Banking",
+    "marketCap":4439783067000.0,
+    "weight":0.0046123345
+  },
+  {
+    "symbol":"6273.T",
+    "name":"SMC Corporation",
+    "sector":"Machinery",
+    "marketCap":4352405500940.0,
+    "weight":0.004521561
+  },
+  {
+    "symbol":"4901.T",
+    "name":"Fujifilm Holdings Corp.",
+    "sector":"Chemicals",
+    "marketCap":4343629866051.0,
+    "weight":0.0045124443
+  },
+  {
+    "symbol":"8801.T",
+    "name":"Mitsui Fudosan Co. Ltd",
+    "sector":"Real estate",
+    "marketCap":4136506356061.0,
+    "weight":0.004297271
+  },
+  {
+    "symbol":"9020.T",
+    "name":"East Japan Railway Company",
+    "sector":"Railway\/bus",
+    "marketCap":4091744182392.0,
+    "weight":0.0042507691
+  },
+  {
+    "symbol":"7269.T",
+    "name":"Suzuki Motor Corp.",
+    "sector":"Automotive",
+    "marketCap":3955976125798.5,
+    "weight":0.0041097245
+  },
+  {
+    "symbol":"1605.T",
+    "name":"Inpex Corp.",
+    "sector":"Mining",
+    "marketCap":3952607737667.0,
+    "weight":0.0041062252
+  },
+  {
+    "symbol":"8267.T",
+    "name":"Aeon Co. Ltd.",
+    "sector":"Retail",
+    "marketCap":3859441646220.0,
+    "weight":0.0040094382
+  },
+  {
+    "symbol":"4503.T",
+    "name":"Astellas Pharma Inc.",
+    "sector":"Pharmaceuticals",
+    "marketCap":3853499846958.0,
+    "weight":0.0040032655
+  },
+  {
+    "symbol":"7751.T",
+    "name":"Canon Inc.",
+    "sector":"Electric machinery",
+    "marketCap":3793146911092.0,
+    "weight":0.0039405669
+  },
+  {
+    "symbol":"6920.T",
+    "name":"Lasertec",
+    "sector":"Electric machinery",
+    "marketCap":3754628891970.0,
+    "weight":0.0039005519
+  },
+  {
+    "symbol":"9022.T",
+    "name":"Central Japan Railway Company",
+    "sector":"Railway\/bus",
+    "marketCap":3581723251694.0,
+    "weight":0.0037209263
+  },
+  {
+    "symbol":"8830.T",
+    "name":"Sumitomo Realty & Development Co. Ltd.",
+    "sector":"Real estate",
+    "marketCap":3476491847300.0,
+    "weight":0.0036116051
+  },
+  {
+    "symbol":"4543.T",
+    "name":"Terumo Corp.",
+    "sector":"Precision instruments",
+    "marketCap":3344750795467.5,
+    "weight":0.003474744
+  },
+  {
+    "symbol":"5020.T",
+    "name":"Eneos Holdings",
+    "sector":"Petroleum",
+    "marketCap":3319430183973.0,
+    "weight":0.0034484393
+  },
+  {
+    "symbol":"7735.T",
+    "name":"SCREEN Holdings",
+    "sector":"Electric machinery",
+    "marketCap":3121840073300.0,
+    "weight":0.0032431699
+  },
+  {
+    "symbol":"4689.T",
+    "name":"LY Corporation",
+    "sector":"Services",
+    "marketCap":3068716715620.7841796875,
+    "weight":0.0031879819
+  },
+  {
+    "symbol":"5401.T",
+    "name":"Nippon Steel Corp.",
+    "sector":"Steel",
+    "marketCap":3060517632363.33203125,
+    "weight":0.0031794641
+  },
+  {
+    "symbol":"6326.T",
+    "name":"Kubota Corp.",
+    "sector":"Machinery",
+    "marketCap":3018321235560.0,
+    "weight":0.0031356278
+  },
+  {
+    "symbol":"4452.T",
+    "name":"Kao Corp.",
+    "sector":"Chemicals",
+    "marketCap":2992554961928.0,
+    "weight":0.0031088601
+  },
+  {
+    "symbol":"4307.T",
+    "name":"Nomura Research Institute Ltd.",
+    "sector":"Services",
+    "marketCap":2845482806484.0,
+    "weight":0.002956072
+  },
+  {
+    "symbol":"6594.T",
+    "name":"Nidec",
+    "sector":"Electric machinery",
+    "marketCap":2845141010470.0,
+    "weight":0.0029557169
+  },
+  {
+    "symbol":"1925.T",
+    "name":"Daiwa House Industry Co. Ltd.",
+    "sector":"Construction",
+    "marketCap":2837848389290.0,
+    "weight":0.0029481409
+  },
+  {
+    "symbol":"7013.T",
+    "name":"IHI Corp.",
+    "sector":"Machinery",
+    "marketCap":2826921781012.0,
+    "weight":0.0029367896
+  },
+  {
+    "symbol":"9735.T",
+    "name":"Secom Co. Ltd.",
+    "sector":"Services",
+    "marketCap":2704339416405.0,
+    "weight":0.0028094431
+  },
+  {
+    "symbol":"7832.T",
+    "name":"Bandai Namco Holdings Inc.",
+    "sector":"Other manufacturing",
+    "marketCap":2686682019007.0,
+    "weight":0.0027910995
+  },
+  {
+    "symbol":"7532.T",
+    "name":"Pan Pacific International Holdings Corp.",
+    "sector":"Retail",
+    "marketCap":2657646275375.0,
+    "weight":0.0027609353
+  },
+  {
+    "symbol":"9503.T",
+    "name":"The Kansai Electric Power Co. Inc.",
+    "sector":"Electric power",
+    "marketCap":2558988285840.0,
+    "weight":0.0026584429
+  },
+  {
+    "symbol":"9766.T",
+    "name":"Konami Corp.",
+    "sector":"Services",
+    "marketCap":2558628616625.0,
+    "weight":0.0026580693
+  },
+  {
+    "symbol":"1812.T",
+    "name":"Kajima Corp.",
+    "sector":"Construction",
+    "marketCap":2548218951732.0,
+    "weight":0.0026472551
+  },
+  {
+    "symbol":"4004.T",
+    "name":"Resonac Corp.",
+    "sector":"Chemicals",
+    "marketCap":2517480804930.0,
+    "weight":0.0026153223
+  },
+  {
+    "symbol":"8601.T",
+    "name":"Daiwa Securities Group Inc.",
+    "sector":"Securities",
+    "marketCap":2469510689812.5,
+    "weight":0.0025654878
+  },
+  {
+    "symbol":"3407.T",
+    "name":"Asahi Kasei Corp.",
+    "sector":"Chemicals",
+    "marketCap":2462941294028.0,
+    "weight":0.0025586631
+  },
+  {
+    "symbol":"6361.T",
+    "name":"Ebara Corp.",
+    "sector":"Machinery",
+    "marketCap":2455822715544.0,
+    "weight":0.0025512679
+  },
+  {
+    "symbol":"4507.T",
+    "name":"Shionogi & Co. Ltd.",
+    "sector":"Pharmaceuticals",
+    "marketCap":2447405356812.0,
+    "weight":0.0025425234
+  },
+  {
+    "symbol":"2502.T",
+    "name":"Asahi Group Holdings Ltd.",
+    "sector":"Foods",
+    "marketCap":2344975724056.0,
+    "weight":0.0024361128
+  },
+  {
+    "symbol":"2503.T",
+    "name":"Kirin Holdings Co Ltd",
+    "sector":"Foods",
+    "marketCap":2322363842771.0,
+    "weight":0.0024126221
+  },
+  {
+    "symbol":"9101.T",
+    "name":"Nippon Yusen K.K.",
+    "sector":"Marine transport",
+    "marketCap":2302691346252.0,
+    "weight":0.0023921851
+  },
+  {
+    "symbol":"8795.T",
+    "name":"T&D Holdings Inc.",
+    "sector":"Insurance",
+    "marketCap":2299996918397.0,
+    "weight":0.0023893859
+  },
+  {
+    "symbol":"1928.T",
+    "name":"Sekisui House Ltd.",
+    "sector":"Construction",
+    "marketCap":2298652689114.0,
+    "weight":0.0023879894
+  },
+  {
+    "symbol":"5801.T",
+    "name":"The Furukawa Electric Co. Ltd.",
+    "sector":"Nonferrous metals",
+    "marketCap":2294810639100.0,
+    "weight":0.0023839981
+  },
+  {
+    "symbol":"7453.T",
+    "name":"Muji Co. Ltd",
+    "sector":"Retail",
+    "marketCap":2260797695628.0,
+    "weight":0.0023486632
+  },
+  {
+    "symbol":"1802.T",
+    "name":"Obayashi Corp.",
+    "sector":"Construction",
+    "marketCap":2205248216912.0,
+    "weight":0.0022909548
+  },
+  {
+    "symbol":"8697.T",
+    "name":"Japan Exchange Group Inc.",
+    "sector":"Other financial services",
+    "marketCap":2185344010458.0,
+    "weight":0.002270277
+  },
+  {
+    "symbol":"7012.T",
+    "name":"Kawasaki Heavy Industries Ltd.",
+    "sector":"Shipbuilding",
+    "marketCap":2176966272270.0,
+    "weight":0.0022615737
+  },
+  {
+    "symbol":"1801.T",
+    "name":"Taisei Corp.",
+    "sector":"Construction",
+    "marketCap":2174541647460.0,
+    "weight":0.0022590548
+  },
+  {
+    "symbol":"9502.T",
+    "name":"Chubu Electric Power Co. Inc.",
+    "sector":"Electric power",
+    "marketCap":2162691699294.0,
+    "weight":0.0022467443
+  },
+  {
+    "symbol":"6988.T",
+    "name":"Nitto Denko",
+    "sector":"Chemicals",
+    "marketCap":2140122478500.0,
+    "weight":0.002223298
+  },
+  {
+    "symbol":"9532.T",
+    "name":"Osaka Gas Co. Ltd.",
+    "sector":"Gas",
+    "marketCap":2041013301039.0,
+    "weight":0.0021203369
+  },
+  {
+    "symbol":"9531.T",
+    "name":"Tokyo Gas Co. Ltd.",
+    "sector":"Gas",
+    "marketCap":2011633622622.0,
+    "weight":0.0020898154
+  },
+  {
+    "symbol":"7186.T",
+    "name":"Yokohama Financial Group",
+    "sector":"Banking",
+    "marketCap":1993990604502.0,
+    "weight":0.0020714867
+  },
+  {
+    "symbol":"9104.T",
+    "name":"Mitsui O.S.K. Lines Ltd.",
+    "sector":"Marine transport",
+    "marketCap":1927342121564.0,
+    "weight":0.002002248
+  },
+  {
+    "symbol":"7733.T",
+    "name":"Olympus Corp.",
+    "sector":"Precision instruments",
+    "marketCap":1882785013518.0,
+    "weight":0.0019559591
+  },
+  {
+    "symbol":"5713.T",
+    "name":"Sumitomo Metal Mining Co. Ltd.",
+    "sector":"Nonferrous metals",
+    "marketCap":1824074249340.0,
+    "weight":0.0018949666
+  },
+  {
+    "symbol":"3659.T",
+    "name":"Nexon Co. Ltd.",
+    "sector":"Services",
+    "marketCap":1801914649404.0,
+    "weight":0.0018719458
+  },
+  {
+    "symbol":"7270.T",
+    "name":"Subaru Corp.",
+    "sector":"Automotive",
+    "marketCap":1785394778188.0,
+    "weight":0.0018547838
+  },
+  {
+    "symbol":"6504.T",
+    "name":"Fuji Electric Co. Ltd.",
+    "sector":"Electric machinery",
+    "marketCap":1767956096200.0,
+    "weight":0.0018366674
+  },
+  {
+    "symbol":"8331.T",
+    "name":"The Chiba Bank Ltd.",
+    "sector":"Banking",
+    "marketCap":1752757026392.0,
+    "weight":0.0018208776
+  },
+  {
+    "symbol":"6963.T",
+    "name":"Rohm Co. Ltd.",
+    "sector":"Electric machinery",
+    "marketCap":1749124897639.0,
+    "weight":0.0018171043
+  },
+  {
+    "symbol":"4755.T",
+    "name":"Rakuten Inc.",
+    "sector":"Services",
+    "marketCap":1736995746595.4926757812,
+    "weight":0.0018045038
+  },
+  {
+    "symbol":"5706.T",
+    "name":"Mitsui Mining & Smelting Co. Ltd.",
+    "sector":"Nonferrous metals",
+    "marketCap":1715224873920.0,
+    "weight":0.0017818868
+  },
+  {
+    "symbol":"5333.T",
+    "name":"NGK Insulators Ltd.",
+    "sector":"Glass & ceramics",
+    "marketCap":1689589390810.0,
+    "weight":0.001755255
+  },
+  {
+    "symbol":"3402.T",
+    "name":"Toray Industries Inc.",
+    "sector":"Textiles & apparel",
+    "marketCap":1673750910528.0,
+    "weight":0.001738801
+  },
+  {
+    "symbol":"5831.T",
+    "name":"Shizuoka Financial Group",
+    "sector":"Banking",
+    "marketCap":1670173143992.0,
+    "weight":0.0017350841
+  },
+  {
+    "symbol":"9107.T",
+    "name":"Kawasaki Kisen Kaisha Ltd.",
+    "sector":"Marine transport",
+    "marketCap":1649553000101.5,
+    "weight":0.0017136626
+  },
+  {
+    "symbol":"1803.T",
+    "name":"Shimizu Corp.",
+    "sector":"Construction",
+    "marketCap":1641969087147.5,
+    "weight":0.0017057839
+  },
+  {
+    "symbol":"7202.T",
+    "name":"Isuzu Motors Ltd.",
+    "sector":"Automotive",
+    "marketCap":1596795434379.0,
+    "weight":0.0016588546
+  },
+  {
+    "symbol":"4188.T",
+    "name":"Mitsubishi Chemical Holdings Corp.",
+    "sector":"Chemicals",
+    "marketCap":1586783401744.0,
+    "weight":0.0016484535
+  },
+  {
+    "symbol":"2801.T",
+    "name":"Kikkoman Corp.",
+    "sector":"Foods",
+    "marketCap":1544538407579.0,
+    "weight":0.0016045666
+  },
+  {
+    "symbol":"6479.T",
+    "name":"MinebeaMitsumi Inc.",
+    "sector":"Electric machinery",
+    "marketCap":1534496478099.0,
+    "weight":0.0015941344
+  },
+  {
+    "symbol":"5019.T",
+    "name":"Idemitsu Kosan Co. Ltd",
+    "sector":"Petroleum",
+    "marketCap":1493141775890.0,
+    "weight":0.0015511725
+  },
+  {
+    "symbol":"4151.T",
+    "name":"Kyowa Hakko Kirin Co. Ltd.",
+    "sector":"Pharmaceuticals",
+    "marketCap":1389595806162.0,
+    "weight":0.0014436022
+  },
+  {
+    "symbol":"9843.T",
+    "name":"Nitori Holdings Co. Ltd.",
+    "sector":"Retail",
+    "marketCap":1389475748242.0,
+    "weight":0.0014434775
+  },
+  {
+    "symbol":"6976.T",
+    "name":"Taiyo Yuden Co. Ltd.",
+    "sector":"Electric machinery",
+    "marketCap":1380996074605.0,
+    "weight":0.0014346683
+  },
+  {
+    "symbol":"6841.T",
+    "name":"Yokogawa Electric Corp.",
+    "sector":"Electric machinery",
+    "marketCap":1370102335416.0,
+    "weight":0.0014233511
+  },
+  {
+    "symbol":"3436.T",
+    "name":"SUMCO Corp.",
+    "sector":"Nonferrous metals",
+    "marketCap":1368777546994.0,
+    "weight":0.0014219749
+  },
+  {
+    "symbol":"9021.T",
+    "name":"West Japan Railway Company",
+    "sector":"Railway\/bus",
+    "marketCap":1363203564837.0,
+    "weight":0.0014161842
+  },
+  {
+    "symbol":"3099.T",
+    "name":"Isetan Mitsukoshi Holdings Ltd.",
+    "sector":"Retail",
+    "marketCap":1358395949730.0,
+    "weight":0.0014111898
+  },
+  {
+    "symbol":"7912.T",
+    "name":"Dai Nippon Printing Co. Ltd.",
+    "sector":"Other manufacturing",
+    "marketCap":1340839253891.0,
+    "weight":0.0013929507
+  },
+  {
+    "symbol":"8354.T",
+    "name":"Fukuoka Financial Group Inc.",
+    "sector":"Banking",
+    "marketCap":1338044524650.0,
+    "weight":0.0013900474
+  },
+  {
+    "symbol":"6506.T",
+    "name":"Yaskawa Electric Corporation Limited",
+    "sector":"Electric machinery",
+    "marketCap":1326926478244.0,
+    "weight":0.0013784973
+  },
+  {
+    "symbol":"9202.T",
+    "name":"ANA Holdings Inc.",
+    "sector":"Air transport",
+    "marketCap":1318432473798.0,
+    "weight":0.0013696731
+  },
+  {
+    "symbol":"5201.T",
+    "name":"AGC Inc.",
+    "sector":"Glass & ceramics",
+    "marketCap":1303035920055.0,
+    "weight":0.0013536782
+  },
+  {
+    "symbol":"9147.T",
+    "name":"Nippon Express Holdings Inc.",
+    "sector":"Land transport",
+    "marketCap":1299879495750.0,
+    "weight":0.0013503991
+  },
+  {
+    "symbol":"2413.T",
+    "name":"M3 Inc.",
+    "sector":"Services",
+    "marketCap":1280797519459.0,
+    "weight":0.0013305755
+  },
+  {
+    "symbol":"7911.T",
+    "name":"Toppan Printing Co. Ltd.",
+    "sector":"Other manufacturing",
+    "marketCap":1266370504980.0,
+    "weight":0.0013155878
+  },
+  {
+    "symbol":"4523.T",
+    "name":"Eisai Co. Ltd.",
+    "sector":"Pharmaceuticals",
+    "marketCap":1255950231150.0,
+    "weight":0.0013047625
+  },
+  {
+    "symbol":"9201.T",
+    "name":"Japan Airlines Co. Ltd.",
+    "sector":"Air transport",
+    "marketCap":1248219666936.0,
+    "weight":0.0012967315
+  },
+  {
+    "symbol":"7272.T",
+    "name":"Yamaha Motor Company Ltd.",
+    "sector":"Automotive",
+    "marketCap":1235776496341.5,
+    "weight":0.0012838047
+  },
+  {
+    "symbol":"5332.T",
+    "name":"Toto Ltd.",
+    "sector":"Glass & ceramics",
+    "marketCap":1225066574047.0,
+    "weight":0.0012726786
+  },
+  {
+    "symbol":"4911.T",
+    "name":"Shiseido Co. Ltd.",
+    "sector":"Chemicals",
+    "marketCap":1222832851740.0,
+    "weight":0.001270358
+  },
+  {
+    "symbol":"5101.T",
+    "name":"The Yokohama Rubber Co. Ltd.",
+    "sector":"Rubber",
+    "marketCap":1193045590395.0,
+    "weight":0.0012394131
+  },
+  {
+    "symbol":"9602.T",
+    "name":"Toho Co. Ltd.",
+    "sector":"Services",
+    "marketCap":1189547304660.0,
+    "weight":0.0012357789
+  },
+  {
+    "symbol":"7201.T",
+    "name":"Nissan Motor Co. Ltd.",
+    "sector":"Automotive",
+    "marketCap":1151358721155.5493164062,
+    "weight":0.0011961061
+  },
+  {
+    "symbol":"6305.T",
+    "name":"Hitachi Construction Machinery Co. Ltd.",
+    "sector":"Machinery",
+    "marketCap":1087932302892.0,
+    "weight":0.0011302146
+  },
+  {
+    "symbol":"5411.T",
+    "name":"JFE Holdings Inc.",
+    "sector":"Steel",
+    "marketCap":1079841399805.0,
+    "weight":0.0011218093
+  },
+  {
+    "symbol":"2768.T",
+    "name":"Sojitz Corp.",
+    "sector":"Trading companies",
+    "marketCap":1055281542352.0,
+    "weight":0.0010962949
+  },
+  {
+    "symbol":"3092.T",
+    "name":"ZOZO Co. Ltd",
+    "sector":"Retail",
+    "marketCap":1051983500083.0,
+    "weight":0.0010928687
+  },
+  {
+    "symbol":"6645.T",
+    "name":"Omron Corp.",
+    "sector":"Electric machinery",
+    "marketCap":1043905463364.0,
+    "weight":0.0010844767
+  },
+  {
+    "symbol":"2269.T",
+    "name":"Meiji Holdings Company Limited",
+    "sector":"Foods",
+    "marketCap":1033440656272.0,
+    "weight":0.0010736052
+  },
+  {
+    "symbol":"4021.T",
+    "name":"Nissan Chemical Industries Ltd.",
+    "sector":"Chemicals",
+    "marketCap":1015586084664.0,
+    "weight":0.0010550567
+  },
+  {
+    "symbol":"9005.T",
+    "name":"Tokyu Corp.",
+    "sector":"Railway\/bus",
+    "marketCap":1009949422448.0,
+    "weight":0.0010492009
+  },
+  {
+    "symbol":"6532.T",
+    "name":"Baycurrent Inc.",
+    "sector":"Services",
+    "marketCap":967863680256.0,
+    "weight":0.0010054795
+  },
+  {
+    "symbol":"3289.T",
+    "name":"Tokyu Land Corp.",
+    "sector":"Real estate",
+    "marketCap":944729178123.5,
+    "weight":0.0009814459
+  },
+  {
+    "symbol":"4324.T",
+    "name":"Dentsu Inc.",
+    "sector":"Services",
+    "marketCap":910109760630.0,
+    "weight":0.000945481
+  },
+  {
+    "symbol":"6724.T",
+    "name":"Seiko Epson Corp.",
+    "sector":"Electric machinery",
+    "marketCap":901523477438.5,
+    "weight":0.000936561
+  },
+  {
+    "symbol":"4005.T",
+    "name":"Sumitomo Chemical Co. Ltd.",
+    "sector":"Chemicals",
+    "marketCap":864844304929.7336425781,
+    "weight":0.0008984563
+  },
+  {
+    "symbol":"6113.T",
+    "name":"Amada Co. Ltd.",
+    "sector":"Machinery",
+    "marketCap":854317897560.0,
+    "weight":0.0008875208
+  },
+  {
+    "symbol":"7752.T",
+    "name":"Ricoh Co. Ltd.",
+    "sector":"Electric machinery",
+    "marketCap":847784138884.0,
+    "weight":0.0008807331
+  },
+  {
+    "symbol":"4704.T",
+    "name":"Trend Micro Inc.",
+    "sector":"Services",
+    "marketCap":840892337280.0,
+    "weight":0.0008735735
+  },
+  {
+    "symbol":"4042.T",
+    "name":"Tosoh Corp.",
+    "sector":"Chemicals",
+    "marketCap":836230722936.0,
+    "weight":0.0008687307
+  },
+  {
+    "symbol":"543A.T",
+    "name":"Archion Corp.",
+    "sector":"Automotive",
+    "marketCap":813191875260.0,
+    "weight":0.0008447964
+  },
+  {
+    "symbol":"9501.T",
+    "name":"Tokyo Electric Power Company Holdings Incorporated",
+    "sector":"Electric power",
+    "marketCap":811928866792.3170166016,
+    "weight":0.0008434843
+  },
+  {
+    "symbol":"3086.T",
+    "name":"J. Front Retailing Co. Ltd.",
+    "sector":"Retail",
+    "marketCap":803382951888.0,
+    "weight":0.0008346063
+  },
+  {
+    "symbol":"2501.T",
+    "name":"Sapporo Holdings Ltd.",
+    "sector":"Foods",
+    "marketCap":797225984065.0,
+    "weight":0.00082821
+  },
+  {
+    "symbol":"4183.T",
+    "name":"Mitsui Chemicals Inc.",
+    "sector":"Chemicals",
+    "marketCap":766727499279.0,
+    "weight":0.0007965262
+  },
+  {
+    "symbol":"5406.T",
+    "name":"Kobe Steel Ltd.",
+    "sector":"Steel",
+    "marketCap":764806165822.0,
+    "weight":0.0007945302
+  },
+  {
+    "symbol":"4385.T",
+    "name":"Mercari Inc.",
+    "sector":"Services",
+    "marketCap":762657292544.0,
+    "weight":0.0007922978
+  },
+  {
+    "symbol":"4751.T",
+    "name":"CyberAgent Inc.",
+    "sector":"Services",
+    "marketCap":752281459960.5,
+    "weight":0.0007815188
+  },
+  {
+    "symbol":"1808.T",
+    "name":"Haseko Corp.",
+    "sector":"Construction",
+    "marketCap":744312425625.0,
+    "weight":0.00077324
+  },
+  {
+    "symbol":"8233.T",
+    "name":"Takashimaya Co. Ltd.",
+    "sector":"Retail",
+    "marketCap":726822219200.0,
+    "weight":0.00075507
+  },
+  {
+    "symbol":"7731.T",
+    "name":"Nikon Corp.",
+    "sector":"Precision instruments",
+    "marketCap":724222753455.5,
+    "weight":0.0007523695
+  },
+  {
+    "symbol":"7261.T",
+    "name":"Mazda Motor Corp.",
+    "sector":"Automotive",
+    "marketCap":717196780410.0,
+    "weight":0.0007450705
+  },
+  {
+    "symbol":"3861.T",
+    "name":"Oji Holdings Corporation",
+    "sector":"Pulp & paper",
+    "marketCap":711063863162.2705078125,
+    "weight":0.0007386992
+  },
+  {
+    "symbol":"8804.T",
+    "name":"Tokyo Tatemono Co. Ltd.",
+    "sector":"Real estate",
+    "marketCap":707773815301.0,
+    "weight":0.0007352813
+  },
+  {
+    "symbol":"8253.T",
+    "name":"Credit Saison Co. Ltd.",
+    "sector":"Other financial services",
+    "marketCap":656362772230.0,
+    "weight":0.0006818722
+  },
+  {
+    "symbol":"6473.T",
+    "name":"JTEKT Corp.",
+    "sector":"Machinery",
+    "marketCap":649237765245.5,
+    "weight":0.0006744703
+  },
+  {
+    "symbol":"9064.T",
+    "name":"Yamato Holdings Co. Ltd.",
+    "sector":"Land transport",
+    "marketCap":634303151683.0,
+    "weight":0.0006589552
+  },
+  {
+    "symbol":"9009.T",
+    "name":"Keisei Electric Railway Co. Ltd.",
+    "sector":"Railway\/bus",
+    "marketCap":611720448033.0,
+    "weight":0.0006354949
+  },
+  {
+    "symbol":"9007.T",
+    "name":"Odakyu Electric Railway Co. Ltd.",
+    "sector":"Railway\/bus",
+    "marketCap":604764874812.0,
+    "weight":0.000628269
+  },
+  {
+    "symbol":"6302.T",
+    "name":"Sumitomo Heavy Industries Ltd.",
+    "sector":"Machinery",
+    "marketCap":597769852124.0,
+    "weight":0.0006210021
+  },
+  {
+    "symbol":"9001.T",
+    "name":"Tobu Railway Co. Ltd.",
+    "sector":"Railway\/bus",
+    "marketCap":597152745954.0,
+    "weight":0.000620361
+  },
+  {
+    "symbol":"1721.T",
+    "name":"Comsys Holdings Corp.",
+    "sector":"Construction",
+    "marketCap":595502349120.0,
+    "weight":0.0006186464
+  },
+  {
+    "symbol":"2282.T",
+    "name":"NH Foods Ltd.",
+    "sector":"Foods",
+    "marketCap":589368766608.0,
+    "weight":0.0006122745
+  },
+  {
+    "symbol":"2002.T",
+    "name":"Nisshin Seifun Group Inc.",
+    "sector":"Foods",
+    "marketCap":574470013275.0,
+    "weight":0.0005967967
+  },
+  {
+    "symbol":"4506.T",
+    "name":"Sumitomo Dainippon Pharma Co. Ltd.",
+    "sector":"Pharmaceuticals",
+    "marketCap":565676268573.0,
+    "weight":0.0005876612
+  },
+  {
+    "symbol":"5631.T",
+    "name":"The Japan Steel Works Ltd.",
+    "sector":"Machinery",
+    "marketCap":539935063965.0,
+    "weight":0.0005609195
+  },
+  {
+    "symbol":"7951.T",
+    "name":"Yamaha Corporation",
+    "sector":"Other manufacturing",
+    "marketCap":539313668056.0,
+    "weight":0.000560274
+  },
+  {
+    "symbol":"6471.T",
+    "name":"NSK Ltd.",
+    "sector":"Machinery",
+    "marketCap":537029776647.5,
+    "weight":0.0005579013
+  },
+  {
+    "symbol":"2871.T",
+    "name":"Nichirei Corp.",
+    "sector":"Foods",
+    "marketCap":535193256963.0,
+    "weight":0.0005559935
+  },
+  {
+    "symbol":"3405.T",
+    "name":"Kuraray Co. Ltd.",
+    "sector":"Chemicals",
+    "marketCap":534501147648.0,
+    "weight":0.0005552744
+  },
+  {
+    "symbol":"1963.T",
+    "name":"JGC Corporation",
+    "sector":"Construction",
+    "marketCap":532555239198.0,
+    "weight":0.0005532529
+  },
+  {
+    "symbol":"8252.T",
+    "name":"Marui Group Co. Ltd.",
+    "sector":"Retail",
+    "marketCap":529697379588.0,
+    "weight":0.000550284
+  },
+  {
+    "symbol":"5711.T",
+    "name":"Mitsubishi Materials Corp.",
+    "sector":"Nonferrous metals",
+    "marketCap":518789440770.0,
+    "weight":0.0005389521
+  },
+  {
+    "symbol":"7211.T",
+    "name":"Mitsubishi Motors Corp.",
+    "sector":"Automotive",
+    "marketCap":509109349781.7435302734,
+    "weight":0.0005288958
+  },
+  {
+    "symbol":"5714.T",
+    "name":"Dowa Holdings Co. Ltd.",
+    "sector":"Nonferrous metals",
+    "marketCap":469992367962.0,
+    "weight":0.0004882585
+  },
+  {
+    "symbol":"9008.T",
+    "name":"Keio Corp.",
+    "sector":"Railway\/bus",
+    "marketCap":460086432857.6583251953,
+    "weight":0.0004779676
+  },
+  {
+    "symbol":"5233.T",
+    "name":"Taiheiyo Cement Corp.",
+    "sector":"Glass & ceramics",
+    "marketCap":427220314659.0,
+    "weight":0.0004438242
+  },
+  {
+    "symbol":"5214.T",
+    "name":"Nippon Electric Glass Co. Ltd.",
+    "sector":"Glass & ceramics",
+    "marketCap":410860143920.0,
+    "weight":0.0004268282
+  },
+  {
+    "symbol":"6753.T",
+    "name":"Sharp Corporation",
+    "sector":"Electric machinery",
+    "marketCap":407310061773.7932739258,
+    "weight":0.0004231401
+  },
+  {
+    "symbol":"6770.T",
+    "name":"Alps Alpine Co. Ltd.",
+    "sector":"Electric machinery",
+    "marketCap":401643426743.5,
+    "weight":0.0004172532
+  },
+  {
+    "symbol":"8304.T",
+    "name":"Aozora Bank Ltd.",
+    "sector":"Banking",
+    "marketCap":398952642108.0,
+    "weight":0.0004144579
+  },
+  {
+    "symbol":"6526.T",
+    "name":"Socionext Inc.",
+    "sector":"Electric machinery",
+    "marketCap":397205182176.0,
+    "weight":0.0004126425
+  },
+  {
+    "symbol":"1332.T",
+    "name":"Nissui Corporation",
+    "sector":"Fishery",
+    "marketCap":385913402402.5,
+    "weight":0.0004009119
+  },
+  {
+    "symbol":"5301.T",
+    "name":"Tokai Carbon Co. Ltd.",
+    "sector":"Glass & ceramics",
+    "marketCap":344919254791.5,
+    "weight":0.0003583245
+  },
+  {
+    "symbol":"3401.T",
+    "name":"Teijin Ltd.",
+    "sector":"Textiles & apparel",
+    "marketCap":325738500527.0,
+    "weight":0.0003383983
+  },
+  {
+    "symbol":"4043.T",
+    "name":"Tokuyama Corporation",
+    "sector":"Chemicals",
+    "marketCap":324544630293.0,
+    "weight":0.000337158
+  },
+  {
+    "symbol":"4208.T",
+    "name":"Ube Industries Ltd.",
+    "sector":"Chemicals",
+    "marketCap":311641775936.0,
+    "weight":0.0003237537
+  },
+  {
+    "symbol":"4061.T",
+    "name":"Denka Co. Ltd.",
+    "sector":"Chemicals",
+    "marketCap":310146570972.0,
+    "weight":0.0003222004
+  },
+  {
+    "symbol":"4902.T",
+    "name":"Konica Minolta Holdings Inc.",
+    "sector":"Precision instruments",
+    "marketCap":302786354733.6157836914,
+    "weight":0.0003145541
+  },
+  {
+    "symbol":"6103.T",
+    "name":"Okuma Holdings Inc.",
+    "sector":"Machinery",
+    "marketCap":281226001350.0,
+    "weight":0.0002921558
+  },
+  {
+    "symbol":"2432.T",
+    "name":"Dena Co. Ltd.",
+    "sector":"Services",
+    "marketCap":226142952210.0,
+    "weight":0.000234932
+  },
+  {
+    "symbol":"6472.T",
+    "name":"NTN Corp.",
+    "sector":"Machinery",
+    "marketCap":218362150856.0432128906,
+    "weight":0.0002268488
+  },
+  {
+    "symbol":"7004.T",
+    "name":"Kanadevia Corp.",
+    "sector":"Machinery",
+    "marketCap":197334462129.0,
+    "weight":0.0002050038
+  },
+  {
+    "symbol":"3697.T",
+    "name":"SHIFT Inc.",
+    "sector":"Services",
+    "marketCap":190016843527.5590820312,
+    "weight":0.0001974018
+  }
+]

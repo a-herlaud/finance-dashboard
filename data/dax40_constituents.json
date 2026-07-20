@@ -1,0 +1,282 @@
+[
+  {
+    "symbol":"SIE.DE",
+    "name":"Siemens",
+    "sector":"Industrials",
+    "marketCap":202737177371.9678955078,
+    "weight":0.0986866803
+  },
+  {
+    "symbol":"SAP.DE",
+    "name":"SAP",
+    "sector":"Technology",
+    "marketCap":161963792563.8029785156,
+    "weight":0.0788393585
+  },
+  {
+    "symbol":"ALV.DE",
+    "name":"Allianz",
+    "sector":"Financial Services",
+    "marketCap":160400161268.020324707,
+    "weight":0.0780782274
+  },
+  {
+    "symbol":"AIR.PA",
+    "name":"Airbus",
+    "sector":"Aerospace & Defence",
+    "marketCap":151620141679.859161377,
+    "weight":0.0738043641
+  },
+  {
+    "symbol":"DTE.DE",
+    "name":"Deutsche Telekom",
+    "sector":"Telecommunication",
+    "marketCap":131062028096.0236358643,
+    "weight":0.0637972603
+  },
+  {
+    "symbol":"ENR.DE",
+    "name":"Siemens Energy",
+    "sector":"Energy technology",
+    "marketCap":129754406467.5,
+    "weight":0.0631607473
+  },
+  {
+    "symbol":"IFX.DE",
+    "name":"Infineon Technologies",
+    "sector":"Technology",
+    "marketCap":82375282590.8583526611,
+    "weight":0.04009794
+  },
+  {
+    "symbol":"MUV2.DE",
+    "name":"Munich Re",
+    "sector":"Financial Services",
+    "marketCap":66207484492.6695556641,
+    "weight":0.0322279167
+  },
+  {
+    "symbol":"DHL.DE",
+    "name":"Deutsche Post",
+    "sector":"Logistics",
+    "marketCap":63349165619.570350647,
+    "weight":0.0308365685
+  },
+  {
+    "symbol":"MRK.DE",
+    "name":"Merck",
+    "sector":"Pharmaceuticals",
+    "marketCap":59347180210.5,
+    "weight":0.028888516
+  },
+  {
+    "symbol":"DBK.DE",
+    "name":"Deutsche Bank",
+    "sector":"Financial Services",
+    "marketCap":58743689450.942199707,
+    "weight":0.0285947539
+  },
+  {
+    "symbol":"EOAN.DE",
+    "name":"E.ON",
+    "sector":"Utilities",
+    "marketCap":50223356558.5017547607,
+    "weight":0.0244472987
+  },
+  {
+    "symbol":"BAYN.DE",
+    "name":"Bayer",
+    "sector":"Pharmaceuticals",
+    "marketCap":47018817164.1440734863,
+    "weight":0.0228874202
+  },
+  {
+    "symbol":"DB1.DE",
+    "name":"Deutsche B\u00f6rse",
+    "sector":"Financial Services",
+    "marketCap":46437013425.0,
+    "weight":0.0226042148
+  },
+  {
+    "symbol":"RHM.DE",
+    "name":"Rheinmetall",
+    "sector":"Aerospace & Defence",
+    "marketCap":45885775696.5797119141,
+    "weight":0.0223358879
+  },
+  {
+    "symbol":"MBG.DE",
+    "name":"Mercedes-Benz Group",
+    "sector":"Automotive",
+    "marketCap":43390992090.7099761963,
+    "weight":0.0211214984
+  },
+  {
+    "symbol":"BAS.DE",
+    "name":"BASF",
+    "sector":"Chemicals",
+    "marketCap":42518358052.6078338623,
+    "weight":0.020696725
+  },
+  {
+    "symbol":"RWE.DE",
+    "name":"RWE",
+    "sector":"Utilities",
+    "marketCap":41158412748.2426681519,
+    "weight":0.0200347424
+  },
+  {
+    "symbol":"CBK.DE",
+    "name":"Commerzbank",
+    "sector":"Financial Services",
+    "marketCap":40363031724.8958740234,
+    "weight":0.0196475736
+  },
+  {
+    "symbol":"SHL.DE",
+    "name":"Siemens Healthineers",
+    "sector":"Medical Equipment",
+    "marketCap":39619645458.162109375,
+    "weight":0.0192857143
+  },
+  {
+    "symbol":"VOW3.DE",
+    "name":"Volkswagen Group",
+    "sector":"Automotive",
+    "marketCap":36674763276.8780822754,
+    "weight":0.0178522296
+  },
+  {
+    "symbol":"BMW.DE",
+    "name":"BMW",
+    "sector":"Automotive",
+    "marketCap":35145297692.6554641724,
+    "weight":0.0171077293
+  },
+  {
+    "symbol":"DTG.DE",
+    "name":"Daimler Truck",
+    "sector":"Automotive",
+    "marketCap":32614256000.9372558594,
+    "weight":0.0158756904
+  },
+  {
+    "symbol":"ADS.DE",
+    "name":"Adidas",
+    "sector":"Apparel",
+    "marketCap":32339579562.0520019531,
+    "weight":0.0157419857
+  },
+  {
+    "symbol":"HEI.DE",
+    "name":"Heidelberg Materials",
+    "sector":"Construction Materials",
+    "marketCap":30890340058.3030700684,
+    "weight":0.0150365372
+  },
+  {
+    "symbol":"HNR1.DE",
+    "name":"Hannover Re",
+    "sector":"Insurance",
+    "marketCap":30704031052.4664916992,
+    "weight":0.0149458473
+  },
+  {
+    "symbol":"HEN3.DE",
+    "name":"Henkel",
+    "sector":"Consumer Goods",
+    "marketCap":30145571581.4633331299,
+    "weight":0.0146740052
+  },
+  {
+    "symbol":"FRE.DE",
+    "name":"Fresenius",
+    "sector":"Healthcare",
+    "marketCap":24044598581.6413078308,
+    "weight":0.0117042254
+  },
+  {
+    "symbol":"MTX.DE",
+    "name":"MTU Aero Engines",
+    "sector":"Aerospace & Defence",
+    "marketCap":18146555492.6606140137,
+    "weight":0.0088332261
+  },
+  {
+    "symbol":"VNA.DE",
+    "name":"Vonovia",
+    "sector":"Real Estate",
+    "marketCap":17698151003.3776702881,
+    "weight":0.0086149555
+  },
+  {
+    "symbol":"BEI.DE",
+    "name":"Beiersdorf",
+    "sector":"Consumer goods",
+    "marketCap":17197819166.4184112549,
+    "weight":0.0083714083
+  },
+  {
+    "symbol":"CON.DE",
+    "name":"Continental",
+    "sector":"Automotive",
+    "marketCap":14324429051.7928390503,
+    "weight":0.0069727238
+  },
+  {
+    "symbol":"SY1.DE",
+    "name":"Symrise",
+    "sector":"Chemicals",
+    "marketCap":12339076756.4998168945,
+    "weight":0.0060063109
+  },
+  {
+    "symbol":"FME.DE",
+    "name":"Fresenius Medical Care",
+    "sector":"Healthcare",
+    "marketCap":11371026475.1797103882,
+    "weight":0.0055350916
+  },
+  {
+    "symbol":"G1A.DE",
+    "name":"GEA Group",
+    "sector":"Mechanical Engineering",
+    "marketCap":9784379757.984375,
+    "weight":0.0047627572
+  },
+  {
+    "symbol":"BNR.DE",
+    "name":"Brenntag",
+    "sector":"Distribution",
+    "marketCap":8547614132.5572967529,
+    "weight":0.004160735
+  },
+  {
+    "symbol":"PAH3.DE",
+    "name":"Porsche SE",
+    "sector":"Automotive",
+    "marketCap":8412687289.7148132324,
+    "weight":0.0040950564
+  },
+  {
+    "symbol":"QIA.DE",
+    "name":"Qiagen",
+    "sector":"Biotech",
+    "marketCap":7390968561.1724853516,
+    "weight":0.0035977129
+  },
+  {
+    "symbol":"ZAL.DE",
+    "name":"Zalando",
+    "sector":"E-Commerce",
+    "marketCap":7285123622.4392795563,
+    "weight":0.0035461906
+  },
+  {
+    "symbol":"G24.DE",
+    "name":"Scout24",
+    "sector":"E-Commerce",
+    "marketCap":5119801004.7032623291,
+    "weight":0.0024921732
+  }
+]

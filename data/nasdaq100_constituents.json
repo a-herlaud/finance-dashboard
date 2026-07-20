@@ -1,0 +1,826 @@
+[
+  {
+    "symbol":"NVDA",
+    "name":"Nvidia",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":4912260950866.69921875,
+    "weight":0.110729211
+  },
+  {
+    "symbol":"AAPL",
+    "name":"Apple Inc.",
+    "sector":"Technology",
+    "subSector":"Computer Hardware",
+    "marketCap":4901758048008.7890625,
+    "weight":0.1104924609
+  },
+  {
+    "symbol":"GOOGL",
+    "name":"Alphabet Inc. (Class A)",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":4231486149881.857421875,
+    "weight":0.0953835978
+  },
+  {
+    "symbol":"GOOG",
+    "name":"Alphabet Inc. (Class C)",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":4223554551826.603515625,
+    "weight":0.0952048085
+  },
+  {
+    "symbol":"MSFT",
+    "name":"Microsoft",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":2925466209536.7607421875,
+    "weight":0.0659440874
+  },
+  {
+    "symbol":"AMZN",
+    "name":"Amazon",
+    "sector":"Consumer Discretionary",
+    "subSector":"Catalog\/Specialty Distribution",
+    "marketCap":2659480119902.9501953125,
+    "weight":0.05994839
+  },
+  {
+    "symbol":"AVGO",
+    "name":"Broadcom",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":1764253400940.8168945312,
+    "weight":0.0397687316
+  },
+  {
+    "symbol":"META",
+    "name":"Meta Platforms",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":1639846863406.330078125,
+    "weight":0.0369644347
+  },
+  {
+    "symbol":"SPCX",
+    "name":"SpaceX",
+    "sector":"Telecommunications",
+    "subSector":"Telecommunications Services",
+    "marketCap":1633467454935.9196777344,
+    "weight":0.036820634
+  },
+  {
+    "symbol":"TSLA",
+    "name":"Tesla, Inc.",
+    "sector":"Consumer Discretionary",
+    "subSector":"Automobiles & Parts",
+    "marketCap":1430329865277.7683105469,
+    "weight":0.0322416295
+  },
+  {
+    "symbol":"MU",
+    "name":"Micron Technology",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":958798329327.9875488281,
+    "weight":0.0216126512
+  },
+  {
+    "symbol":"WMT",
+    "name":"Walmart",
+    "sector":"Consumer Discretionary",
+    "subSector":"Department\/Specialty Retail Stores",
+    "marketCap":909130945666.9088134766,
+    "weight":0.0204930791
+  },
+  {
+    "symbol":"AMD",
+    "name":"Advanced Micro Devices",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":808386588714.4743652344,
+    "weight":0.0182221608
+  },
+  {
+    "symbol":"ASML",
+    "name":"ASML Holding",
+    "sector":"Technology",
+    "subSector":"Industrial Machinery",
+    "marketCap":671245461120.60546875,
+    "weight":0.0151308086
+  },
+  {
+    "symbol":"INTC",
+    "name":"Intel",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":477671044601.4404296875,
+    "weight":0.0107673714
+  },
+  {
+    "symbol":"CSCO",
+    "name":"Cisco",
+    "sector":"Telecommunications",
+    "subSector":"Computer Communications Equipment",
+    "marketCap":441204206022.7432250977,
+    "weight":0.009945358
+  },
+  {
+    "symbol":"AMAT",
+    "name":"Applied Materials",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":420528530371.6473388672,
+    "weight":0.0094792994
+  },
+  {
+    "symbol":"COST",
+    "name":"Costco",
+    "sector":"Consumer Discretionary",
+    "subSector":"Department\/Specialty Retail Stores",
+    "marketCap":417255900154.0561523438,
+    "weight":0.0094055298
+  },
+  {
+    "symbol":"LRCX",
+    "name":"Lam Research",
+    "sector":"Technology",
+    "subSector":"Industrial Machinery",
+    "marketCap":391793853434.6313476562,
+    "weight":0.0088315797
+  },
+  {
+    "symbol":"PLTR",
+    "name":"Palantir Technologies",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":317356171220.8848876953,
+    "weight":0.0071536506
+  },
+  {
+    "symbol":"PANW",
+    "name":"Palo Alto Networks",
+    "sector":"Technology",
+    "subSector":"Computer Peripheral Equipment",
+    "marketCap":292324194030.76171875,
+    "weight":0.0065893949
+  },
+  {
+    "symbol":"NFLX",
+    "name":"Netflix, Inc.",
+    "sector":"Consumer Discretionary",
+    "subSector":"Consumer Electronics",
+    "marketCap":290334545655.2626953125,
+    "weight":0.0065445455
+  },
+  {
+    "symbol":"ARM",
+    "name":"Arm Holdings",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":284304543030.7776489258,
+    "weight":0.0064086208
+  },
+  {
+    "symbol":"KLAC",
+    "name":"KLA Corporation",
+    "sector":"Technology",
+    "subSector":"Electronic Components",
+    "marketCap":277910050927.5,
+    "weight":0.00626448
+  },
+  {
+    "symbol":"TXN",
+    "name":"Texas Instruments",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":258484544501.241973877,
+    "weight":0.005826602
+  },
+  {
+    "symbol":"LIN",
+    "name":"Linde plc",
+    "sector":"Basic Materials",
+    "subSector":"Major Chemicals",
+    "marketCap":237285872892.8686523438,
+    "weight":0.0053487544
+  },
+  {
+    "symbol":"TMUS",
+    "name":"T-Mobile US",
+    "sector":"Telecommunications",
+    "subSector":"Telecommunications Services",
+    "marketCap":208248645766.0059204102,
+    "weight":0.0046942148
+  },
+  {
+    "symbol":"CRWD",
+    "name":"CrowdStrike",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":206788096446.8884277344,
+    "weight":0.004661292
+  },
+  {
+    "symbol":"SNDK",
+    "name":"Sandisk",
+    "sector":"Technology",
+    "subSector":"Electronic Components",
+    "marketCap":200634957979.5202636719,
+    "weight":0.0045225917
+  },
+  {
+    "symbol":"AMGN",
+    "name":"Amgen",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":197689748295.2250366211,
+    "weight":0.0044562026
+  },
+  {
+    "symbol":"PEP",
+    "name":"PepsiCo",
+    "sector":"Consumer Staples",
+    "subSector":"Soft Drinks",
+    "marketCap":187153923768.4504394531,
+    "weight":0.0042187104
+  },
+  {
+    "symbol":"ADI",
+    "name":"Analog Devices",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":182832984199.3359375,
+    "weight":0.0041213104
+  },
+  {
+    "symbol":"QCOM",
+    "name":"Qualcomm",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":181056118713.37890625,
+    "weight":0.0040812574
+  },
+  {
+    "symbol":"STX",
+    "name":"Seagate Technology",
+    "sector":"Technology",
+    "subSector":"Electronic Components",
+    "marketCap":176616201816.9453125,
+    "weight":0.0039811754
+  },
+  {
+    "symbol":"MRVL",
+    "name":"Marvell Technology",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":169348675157.8283081055,
+    "weight":0.0038173553
+  },
+  {
+    "symbol":"GILD",
+    "name":"Gilead Sciences",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":166718001165.1317749023,
+    "weight":0.0037580562
+  },
+  {
+    "symbol":"WDC",
+    "name":"Western Digital",
+    "sector":"Technology",
+    "subSector":"Electronic Components",
+    "marketCap":164489206976.5745544434,
+    "weight":0.0037078161
+  },
+  {
+    "symbol":"SHOP",
+    "name":"Shopify",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":160338200319.9379272461,
+    "weight":0.0036142466
+  },
+  {
+    "symbol":"APP",
+    "name":"AppLovin",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":142619767115.9169616699,
+    "weight":0.0032148484
+  },
+  {
+    "symbol":"BKNG",
+    "name":"Booking Holdings",
+    "sector":"Consumer Discretionary",
+    "subSector":"Transportation Services",
+    "marketCap":140779908577.1008300781,
+    "weight":0.0031733754
+  },
+  {
+    "symbol":"VRTX",
+    "name":"Vertex Pharmaceuticals",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":123260599216.9446716309,
+    "weight":0.0027784658
+  },
+  {
+    "symbol":"ISRG",
+    "name":"Intuitive Surgical",
+    "sector":"Health Care",
+    "subSector":"Industrial Specialties",
+    "marketCap":122334933639.2445678711,
+    "weight":0.0027576
+  },
+  {
+    "symbol":"SBUX",
+    "name":"Starbucks",
+    "sector":"Consumer Discretionary",
+    "subSector":"Restaurants",
+    "marketCap":120226950565.3381347656,
+    "weight":0.0027100831
+  },
+  {
+    "symbol":"PDD",
+    "name":"PDD Holdings",
+    "sector":"Technology",
+    "subSector":"EDP Services",
+    "marketCap":119764577443.9077453613,
+    "weight":0.0026996606
+  },
+  {
+    "symbol":"FTNT",
+    "name":"Fortinet",
+    "sector":"Technology",
+    "subSector":"Computer Peripheral Equipment",
+    "marketCap":118403306916.68309021,
+    "weight":0.0026689756
+  },
+  {
+    "symbol":"ADP",
+    "name":"Automatic Data Processing",
+    "sector":"Industrials",
+    "subSector":"Diversified Commercial Services",
+    "marketCap":102040171873.9891052246,
+    "weight":0.0023001277
+  },
+  {
+    "symbol":"MAR",
+    "name":"Marriott International",
+    "sector":"Consumer Discretionary",
+    "subSector":"Hotels\/Resorts",
+    "marketCap":96573318712.4357910156,
+    "weight":0.0021768973
+  },
+  {
+    "symbol":"MNST",
+    "name":"Monster Beverage",
+    "sector":"Consumer Staples",
+    "subSector":"Soft Drinks",
+    "marketCap":95355790725.0,
+    "weight":0.0021494525
+  },
+  {
+    "symbol":"ADBE",
+    "name":"Adobe Inc.",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":94306875000.0,
+    "weight":0.0021258085
+  },
+  {
+    "symbol":"CSX",
+    "name":"CSX Corporation",
+    "sector":"Industrials",
+    "subSector":"Railroads",
+    "marketCap":94300546942.0,
+    "weight":0.0021256658
+  },
+  {
+    "symbol":"DDOG",
+    "name":"Datadog",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":92083342161.4534301758,
+    "weight":0.0020756869
+  },
+  {
+    "symbol":"MELI",
+    "name":"Mercado Libre",
+    "sector":"Consumer Discretionary",
+    "subSector":"Catalog\/Specialty Distribution",
+    "marketCap":91960127134.4338378906,
+    "weight":0.0020729095
+  },
+  {
+    "symbol":"CDNS",
+    "name":"Cadence Design Systems",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":91049615719.7265625,
+    "weight":0.0020523853
+  },
+  {
+    "symbol":"CEG",
+    "name":"Constellation Energy",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":90128977852.6722259521,
+    "weight":0.0020316328
+  },
+  {
+    "symbol":"ABNB",
+    "name":"Airbnb",
+    "sector":"Consumer Discretionary",
+    "subSector":"Diversified Commercial Services",
+    "marketCap":86639846123.8134002686,
+    "weight":0.0019529829
+  },
+  {
+    "symbol":"CMCSA",
+    "name":"Comcast",
+    "sector":"Telecommunications",
+    "subSector":"Cable & Other Pay Television Services",
+    "marketCap":84983320641.5029296875,
+    "weight":0.0019156425
+  },
+  {
+    "symbol":"CTAS",
+    "name":"Cintas",
+    "sector":"Industrials",
+    "subSector":"Garments & Clothing",
+    "marketCap":81810052928.8482666016,
+    "weight":0.0018441127
+  },
+  {
+    "symbol":"DASH",
+    "name":"DoorDash",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":80233245203.1383972168,
+    "weight":0.0018085692
+  },
+  {
+    "symbol":"INTU",
+    "name":"Intuit",
+    "sector":"Technology",
+    "subSector":"Computer Software",
+    "marketCap":79623884328.2775878906,
+    "weight":0.0017948334
+  },
+  {
+    "symbol":"MDLZ",
+    "name":"Mondelez International",
+    "sector":"Consumer Staples",
+    "subSector":"Packaged Foods",
+    "marketCap":78302635726.0,
+    "weight":0.0017650506
+  },
+  {
+    "symbol":"ROST",
+    "name":"Ross Stores",
+    "sector":"Consumer Discretionary",
+    "subSector":"Clothing\/Shoe\/Accessory Stores",
+    "marketCap":74889552156.6415405273,
+    "weight":0.0016881149
+  },
+  {
+    "symbol":"SNPS",
+    "name":"Synopsys",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":73581674777.2605895996,
+    "weight":0.0016586335
+  },
+  {
+    "symbol":"AEP",
+    "name":"American Electric Power",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":71898038596.3846435547,
+    "weight":0.001620682
+  },
+  {
+    "symbol":"ORLY",
+    "name":"O'Reilly Automotive",
+    "sector":"Consumer Discretionary",
+    "subSector":"Specialty Retailers",
+    "marketCap":71310935076.9877166748,
+    "weight":0.0016074479
+  },
+  {
+    "symbol":"HON",
+    "name":"Honeywell Technologies",
+    "sector":"Industrials",
+    "subSector":"Diversified Industrials",
+    "marketCap":71292313659.80909729,
+    "weight":0.0016070282
+  },
+  {
+    "symbol":"REGN",
+    "name":"Regeneron Pharmaceuticals",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":70943524820.0346679688,
+    "weight":0.001599166
+  },
+  {
+    "symbol":"WBD",
+    "name":"Warner Bros. Discovery",
+    "sector":"Consumer Discretionary",
+    "subSector":"Entertainment",
+    "marketCap":67366765286.8128509521,
+    "weight":0.0015185408
+  },
+  {
+    "symbol":"NXPI",
+    "name":"NXP Semiconductors",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":67291116377.6777648926,
+    "weight":0.0015168356
+  },
+  {
+    "symbol":"HONA",
+    "name":"Honeywell Aerospace",
+    "sector":"Industrials",
+    "subSector":"Aerospace",
+    "marketCap":67073960840.0573730469,
+    "weight":0.0015119406
+  },
+  {
+    "symbol":"PCAR",
+    "name":"Paccar",
+    "sector":"Consumer Discretionary",
+    "subSector":"Motor Vehicles",
+    "marketCap":66417320493.7018890381,
+    "weight":0.001497139
+  },
+  {
+    "symbol":"MPWR",
+    "name":"Monolithic Power Systems",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":64457598304.0,
+    "weight":0.0014529641
+  },
+  {
+    "symbol":"LITE",
+    "name":"Lumentum",
+    "sector":"Technology",
+    "subSector":"Communication Equipment",
+    "marketCap":57013396569.82421875,
+    "weight":0.0012851615
+  },
+  {
+    "symbol":"BKR",
+    "name":"Baker Hughes",
+    "sector":"Energy",
+    "subSector":"Oil Equipment & Services",
+    "marketCap":55506244354.0383453369,
+    "weight":0.0012511881
+  },
+  {
+    "symbol":"FANG",
+    "name":"Diamondback Energy",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Production",
+    "marketCap":55008000206.6798858643,
+    "weight":0.001239957
+  },
+  {
+    "symbol":"EA",
+    "name":"Electronic Arts",
+    "sector":"Consumer Discretionary",
+    "subSector":"Miscellaneous Amusement & Recreation Services",
+    "marketCap":52381983477.1343994141,
+    "weight":0.0011807629
+  },
+  {
+    "symbol":"FAST",
+    "name":"Fastenal",
+    "sector":"Industrials",
+    "subSector":"Construction & Materials",
+    "marketCap":52199666521.8065795898,
+    "weight":0.0011766533
+  },
+  {
+    "symbol":"ALAB",
+    "name":"Astera Labs",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":52042877602.2271728516,
+    "weight":0.001173119
+  },
+  {
+    "symbol":"TER",
+    "name":"Teradyne",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":50462929049.2219238281,
+    "weight":0.0011375048
+  },
+  {
+    "symbol":"PYPL",
+    "name":"PayPal",
+    "sector":"Industrials",
+    "subSector":"Diversified Commercial Services",
+    "marketCap":49891887895.4675445557,
+    "weight":0.0011246327
+  },
+  {
+    "symbol":"XEL",
+    "name":"Xcel Energy",
+    "sector":"Utilities",
+    "subSector":"Conventional Electricity",
+    "marketCap":49173711145.5685424805,
+    "weight":0.001108444
+  },
+  {
+    "symbol":"ODFL",
+    "name":"Old Dominion Freight Line",
+    "sector":"Industrials",
+    "subSector":"Trucking",
+    "marketCap":48631302535.117401123,
+    "weight":0.0010962174
+  },
+  {
+    "symbol":"EXC",
+    "name":"Exelon",
+    "sector":"Utilities",
+    "subSector":"Power Generation",
+    "marketCap":47333606931.4991073608,
+    "weight":0.0010669655
+  },
+  {
+    "symbol":"CCEP",
+    "name":"Coca-Cola Europacific Partners",
+    "sector":"Consumer Staples",
+    "subSector":"Soft Drinks",
+    "marketCap":46543742139.5249023438,
+    "weight":0.0010491608
+  },
+  {
+    "symbol":"ADSK",
+    "name":"Autodesk",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":46103566844.578338623,
+    "weight":0.0010392387
+  },
+  {
+    "symbol":"FER",
+    "name":"Ferrovial",
+    "sector":"Industrials",
+    "subSector":"Military, Government, Technical",
+    "marketCap":45504132099.5198059082,
+    "weight":0.0010257266
+  },
+  {
+    "symbol":"NBIS",
+    "name":"Nebius Group",
+    "sector":"Technology",
+    "subSector":"Computer Services",
+    "marketCap":45120249760.3787536621,
+    "weight":0.0010170733
+  },
+  {
+    "symbol":"IDXX",
+    "name":"Idexx Laboratories",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":44761368010.2654418945,
+    "weight":0.0010089836
+  },
+  {
+    "symbol":"MCHP",
+    "name":"Microchip Technology",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":43961957138.0609893799,
+    "weight":0.0009909638
+  },
+  {
+    "symbol":"TTWO",
+    "name":"Take-Two Interactive",
+    "sector":"Consumer Discretionary",
+    "subSector":"Miscellaneous Amusement & Recreation Services",
+    "marketCap":43943584438.9767456055,
+    "weight":0.0009905497
+  },
+  {
+    "symbol":"RKLB",
+    "name":"Rocket Lab",
+    "sector":"Industrials",
+    "subSector":"Aerospace",
+    "marketCap":42250243900.6158828735,
+    "weight":0.0009523794
+  },
+  {
+    "symbol":"KDP",
+    "name":"Keurig Dr Pepper",
+    "sector":"Consumer Staples",
+    "subSector":"Soft Drinks",
+    "marketCap":42054893041.0050964355,
+    "weight":0.0009479759
+  },
+  {
+    "symbol":"TRI",
+    "name":"Thomson Reuters",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":41995034787.1891937256,
+    "weight":0.0009466266
+  },
+  {
+    "symbol":"AXON",
+    "name":"Axon Enterprise",
+    "sector":"Industrials",
+    "subSector":"Ordnance & Accessories",
+    "marketCap":41129627753.1687927246,
+    "weight":0.0009271192
+  },
+  {
+    "symbol":"PAYX",
+    "name":"Paychex",
+    "sector":"Industrials",
+    "subSector":"Diversified Commercial Services",
+    "marketCap":40677083782.958984375,
+    "weight":0.0009169182
+  },
+  {
+    "symbol":"CRWV",
+    "name":"CoreWeave",
+    "sector":"Technology",
+    "subSector":"Computer Services",
+    "marketCap":39941204531.1754302979,
+    "weight":0.0009003304
+  },
+  {
+    "symbol":"ROP",
+    "name":"Roper Technologies",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":36647131225.5416259766,
+    "weight":0.0008260774
+  },
+  {
+    "symbol":"WDAY",
+    "name":"Workday, Inc.",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":35756819988.1387023926,
+    "weight":0.0008060086
+  },
+  {
+    "symbol":"ALNY",
+    "name":"Alnylam Pharmaceuticals",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":35710608063.2892150879,
+    "weight":0.0008049669
+  },
+  {
+    "symbol":"MSTR",
+    "name":"MicroStrategy",
+    "sector":"Technology",
+    "subSector":"Software",
+    "marketCap":34391405515.6856765747,
+    "weight":0.0007752302
+  },
+  {
+    "symbol":"KHC",
+    "name":"Kraft Heinz",
+    "sector":"Consumer Staples",
+    "subSector":"Packaged Foods",
+    "marketCap":30687924276.2958030701,
+    "weight":0.0006917486
+  },
+  {
+    "symbol":"DXCM",
+    "name":"DexCom",
+    "sector":"Health Care",
+    "subSector":"Medical\/Dental Instruments",
+    "marketCap":29577164275.8454360962,
+    "weight":0.0006667105
+  },
+  {
+    "symbol":"GEHC",
+    "name":"GE HealthCare",
+    "sector":"Health Care",
+    "subSector":"Medical Electronics",
+    "marketCap":28690024804.1980438232,
+    "weight":0.0006467132
+  },
+  {
+    "symbol":"CPRT",
+    "name":"Copart",
+    "sector":"Consumer Discretionary",
+    "subSector":"Retail",
+    "marketCap":26596945180.6367797852,
+    "weight":0.0005995322
+  }
+]

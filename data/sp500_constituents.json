@@ -1,0 +1,4026 @@
+[
+  {
+    "symbol":"NVDA",
+    "name":"Nvidia",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":4918074123916.6259765625,
+    "weight":0.0681795339
+  },
+  {
+    "symbol":"AAPL",
+    "name":"Apple Inc.",
+    "sector":"Information Technology",
+    "subSector":"Technology Hardware, Storage & Peripherals",
+    "marketCap":4901170876489.013671875,
+    "weight":0.0679452033
+  },
+  {
+    "symbol":"GOOGL",
+    "name":"Alphabet Inc. (Class A)",
+    "sector":"Communication Services",
+    "subSector":"Interactive Media & Services",
+    "marketCap":4205738899328.2973632812,
+    "weight":0.0583043913
+  },
+  {
+    "symbol":"GOOG",
+    "name":"Alphabet Inc. (Class C)",
+    "sector":"Communication Services",
+    "subSector":"Interactive Media & Services",
+    "marketCap":4199515467866.7543945312,
+    "weight":0.0582181155
+  },
+  {
+    "symbol":"MSFT",
+    "name":"Microsoft",
+    "sector":"Information Technology",
+    "subSector":"Systems Software",
+    "marketCap":2927434626850.4458007812,
+    "weight":0.0405831883
+  },
+  {
+    "symbol":"AMZN",
+    "name":"Amazon",
+    "sector":"Consumer Discretionary",
+    "subSector":"Broadline Retail",
+    "marketCap":2660986108658.3715820312,
+    "weight":0.0368893978
+  },
+  {
+    "symbol":"AVGO",
+    "name":"Broadcom",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":1769653300926.291015625,
+    "weight":0.0245328017
+  },
+  {
+    "symbol":"META",
+    "name":"Meta Platforms",
+    "sector":"Communication Services",
+    "subSector":"Interactive Media & Services",
+    "marketCap":1640265647475.5874023438,
+    "weight":0.0227390935
+  },
+  {
+    "symbol":"TSLA",
+    "name":"Tesla, Inc.",
+    "sector":"Consumer Discretionary",
+    "subSector":"Automobile Manufacturers",
+    "marketCap":1430013296999.8234863281,
+    "weight":0.0198243535
+  },
+  {
+    "symbol":"BRK.B",
+    "name":"Berkshire Hathaway",
+    "sector":"Financials",
+    "subSector":"Multi-Sector Holdings",
+    "marketCap":1058540703858.7818603516,
+    "weight":0.0146746084
+  },
+  {
+    "symbol":"LLY",
+    "name":"Lilly (Eli)",
+    "sector":"Health Care",
+    "subSector":"Pharmaceuticals",
+    "marketCap":1046182047854.6669921875,
+    "weight":0.0145032797
+  },
+  {
+    "symbol":"MU",
+    "name":"Micron Technology",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":981905669080.5275878906,
+    "weight":0.0136122127
+  },
+  {
+    "symbol":"WMT",
+    "name":"Walmart",
+    "sector":"Consumer Staples",
+    "subSector":"Consumer Staples Merchandise Retail",
+    "marketCap":911399027369.4400634766,
+    "weight":0.0126347752
+  },
+  {
+    "symbol":"JPM",
+    "name":"JPMorgan Chase",
+    "sector":"Financials",
+    "subSector":"Diversified Banks",
+    "marketCap":909994874285.888671875,
+    "weight":0.0126153093
+  },
+  {
+    "symbol":"AMD",
+    "name":"Advanced Micro Devices",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":806397253944.4150390625,
+    "weight":0.0111791298
+  },
+  {
+    "symbol":"V",
+    "name":"Visa Inc.",
+    "sector":"Financials",
+    "subSector":"Transaction & Payment Processing Services",
+    "marketCap":680881330392.5354003906,
+    "weight":0.0094390956
+  },
+  {
+    "symbol":"XOM",
+    "name":"ExxonMobil",
+    "sector":"Energy",
+    "subSector":"Integrated Oil & Gas",
+    "marketCap":612291599830.3898925781,
+    "weight":0.0084882324
+  },
+  {
+    "symbol":"JNJ",
+    "name":"Johnson & Johnson",
+    "sector":"Health Care",
+    "subSector":"Pharmaceuticals",
+    "marketCap":608714155832.9084472656,
+    "weight":0.0084386381
+  },
+  {
+    "symbol":"INTC",
+    "name":"Intel",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":479531675384.521484375,
+    "weight":0.0066477742
+  },
+  {
+    "symbol":"MA",
+    "name":"Mastercard",
+    "sector":"Financials",
+    "subSector":"Transaction & Payment Processing Services",
+    "marketCap":478398800141.0885620117,
+    "weight":0.0066320691
+  },
+  {
+    "symbol":"ABBV",
+    "name":"AbbVie",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":451927923821.5776367188,
+    "weight":0.0062651018
+  },
+  {
+    "symbol":"CSCO",
+    "name":"Cisco",
+    "sector":"Information Technology",
+    "subSector":"Communications Equipment",
+    "marketCap":443332584350.3344116211,
+    "weight":0.0061459442
+  },
+  {
+    "symbol":"BAC",
+    "name":"Bank of America",
+    "sector":"Financials",
+    "subSector":"Diversified Banks",
+    "marketCap":429113623554.2705688477,
+    "weight":0.0059488259
+  },
+  {
+    "symbol":"AMAT",
+    "name":"Applied Materials",
+    "sector":"Information Technology",
+    "subSector":"Semiconductor Materials & Equipment",
+    "marketCap":421580536308.2849121094,
+    "weight":0.0058443943
+  },
+  {
+    "symbol":"COST",
+    "name":"Costco",
+    "sector":"Consumer Staples",
+    "subSector":"Consumer Staples Merchandise Retail",
+    "marketCap":416450985042.0842285156,
+    "weight":0.0057732831
+  },
+  {
+    "symbol":"CAT",
+    "name":"Caterpillar Inc.",
+    "sector":"Industrials",
+    "subSector":"Construction Machinery & Heavy Transportation Equipment",
+    "marketCap":406845503379.2378540039,
+    "weight":0.0056401217
+  },
+  {
+    "symbol":"UNH",
+    "name":"UnitedHealth Group",
+    "sector":"Health Care",
+    "subSector":"Managed Health Care",
+    "marketCap":393081220501.6358642578,
+    "weight":0.0054493067
+  },
+  {
+    "symbol":"LRCX",
+    "name":"Lam Research",
+    "sector":"Information Technology",
+    "subSector":"Semiconductor Materials & Equipment",
+    "marketCap":389367804721.5576171875,
+    "weight":0.0053978274
+  },
+  {
+    "symbol":"CVX",
+    "name":"Chevron Corporation",
+    "sector":"Energy",
+    "subSector":"Integrated Oil & Gas",
+    "marketCap":371731704522.0521240234,
+    "weight":0.0051533372
+  },
+  {
+    "symbol":"GE",
+    "name":"GE Aerospace",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":364969426073.0764770508,
+    "weight":0.0050595914
+  },
+  {
+    "symbol":"ORCL",
+    "name":"Oracle Corporation",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":363414626352.1499633789,
+    "weight":0.0050380371
+  },
+  {
+    "symbol":"KO",
+    "name":"Coca-Cola Company (The)",
+    "sector":"Consumer Staples",
+    "subSector":"Soft Drinks & Non-alcoholic Beverages",
+    "marketCap":350652317067.0,
+    "weight":0.0048611125
+  },
+  {
+    "symbol":"PG",
+    "name":"Procter & Gamble",
+    "sector":"Consumer Staples",
+    "subSector":"Personal Care Products",
+    "marketCap":348474822845.059753418,
+    "weight":0.0048309258
+  },
+  {
+    "symbol":"HD",
+    "name":"Home Depot (The)",
+    "sector":"Consumer Discretionary",
+    "subSector":"Home Improvement Retail",
+    "marketCap":338765402257.3562011719,
+    "weight":0.0046963235
+  },
+  {
+    "symbol":"MS",
+    "name":"Morgan Stanley",
+    "sector":"Financials",
+    "subSector":"Investment Banking & Brokerage",
+    "marketCap":338168632324.21875,
+    "weight":0.0046880505
+  },
+  {
+    "symbol":"PLTR",
+    "name":"Palantir Technologies",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":317691793434.4617919922,
+    "weight":0.0044041789
+  },
+  {
+    "symbol":"GS",
+    "name":"Goldman Sachs",
+    "sector":"Financials",
+    "subSector":"Investment Banking & Brokerage",
+    "marketCap":315607776244.2366943359,
+    "weight":0.0043752881
+  },
+  {
+    "symbol":"MRK",
+    "name":"Merck & Co.",
+    "sector":"Health Care",
+    "subSector":"Pharmaceuticals",
+    "marketCap":314618588380.8891601562,
+    "weight":0.0043615749
+  },
+  {
+    "symbol":"PM",
+    "name":"Philip Morris International",
+    "sector":"Consumer Staples",
+    "subSector":"Tobacco",
+    "marketCap":298682216296.1711425781,
+    "weight":0.0041406481
+  },
+  {
+    "symbol":"NFLX",
+    "name":"Netflix",
+    "sector":"Communication Services",
+    "subSector":"Movies & Entertainment",
+    "marketCap":291387245287.2626953125,
+    "weight":0.0040395175
+  },
+  {
+    "symbol":"PANW",
+    "name":"Palo Alto Networks",
+    "sector":"Information Technology",
+    "subSector":"Systems Software",
+    "marketCap":290376356964.111328125,
+    "weight":0.0040255035
+  },
+  {
+    "symbol":"GEV",
+    "name":"GE Vernova",
+    "sector":"Industrials",
+    "subSector":"Heavy Electrical Equipment",
+    "marketCap":282987675261.8688964844,
+    "weight":0.0039230738
+  },
+  {
+    "symbol":"KLAC",
+    "name":"KLA Corporation",
+    "sector":"Information Technology",
+    "subSector":"Semiconductor Materials & Equipment",
+    "marketCap":277374473307.6773071289,
+    "weight":0.0038452577
+  },
+  {
+    "symbol":"WFC",
+    "name":"Wells Fargo",
+    "sector":"Financials",
+    "subSector":"Diversified Banks",
+    "marketCap":264601393224.3858032227,
+    "weight":0.0036681838
+  },
+  {
+    "symbol":"RTX",
+    "name":"RTX Corporation",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":261364322172.091003418,
+    "weight":0.0036233081
+  },
+  {
+    "symbol":"TXN",
+    "name":"Texas Instruments",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":258662019261.205657959,
+    "weight":0.0035858459
+  },
+  {
+    "symbol":"DELL",
+    "name":"Dell Technologies",
+    "sector":"Information Technology",
+    "subSector":"Technology Hardware, Storage & Peripherals",
+    "marketCap":258518355519.4080810547,
+    "weight":0.0035838543
+  },
+  {
+    "symbol":"AXP",
+    "name":"American Express",
+    "sector":"Financials",
+    "subSector":"Consumer Finance",
+    "marketCap":241802848202.0120849609,
+    "weight":0.0033521263
+  },
+  {
+    "symbol":"LIN",
+    "name":"Linde plc",
+    "sector":"Materials",
+    "subSector":"Industrial Gases",
+    "marketCap":238178228034.2761230469,
+    "weight":0.003301878
+  },
+  {
+    "symbol":"C",
+    "name":"Citigroup",
+    "sector":"Financials",
+    "subSector":"Diversified Banks",
+    "marketCap":217072340142.822265625,
+    "weight":0.0030092859
+  },
+  {
+    "symbol":"ANET",
+    "name":"Arista Networks",
+    "sector":"Information Technology",
+    "subSector":"Communications Equipment",
+    "marketCap":212044125673.8396606445,
+    "weight":0.0029395795
+  },
+  {
+    "symbol":"SNDK",
+    "name":"Sandisk",
+    "sector":"Information Technology",
+    "subSector":"Technology Hardware, Storage & Peripherals",
+    "marketCap":208893185503.673828125,
+    "weight":0.0028958978
+  },
+  {
+    "symbol":"TMUS",
+    "name":"T-Mobile US",
+    "sector":"Communication Services",
+    "subSector":"Wireless Telecommunication Services",
+    "marketCap":207859067920.4940795898,
+    "weight":0.0028815618
+  },
+  {
+    "symbol":"CRWD",
+    "name":"CrowdStrike",
+    "sector":"Information Technology",
+    "subSector":"Systems Software",
+    "marketCap":207383769424.7424316406,
+    "weight":0.0028749727
+  },
+  {
+    "symbol":"IBM",
+    "name":"IBM",
+    "sector":"Information Technology",
+    "subSector":"IT Consulting & Other Services",
+    "marketCap":198564863105.5395507812,
+    "weight":0.0027527157
+  },
+  {
+    "symbol":"TMO",
+    "name":"Thermo Fisher Scientific",
+    "sector":"Health Care",
+    "subSector":"Life Sciences Tools & Services",
+    "marketCap":198304644338.7420654297,
+    "weight":0.0027491083
+  },
+  {
+    "symbol":"AMGN",
+    "name":"Amgen",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":195833150515.0178833008,
+    "weight":0.0027148458
+  },
+  {
+    "symbol":"MCD",
+    "name":"McDonald's",
+    "sector":"Consumer Discretionary",
+    "subSector":"Restaurants",
+    "marketCap":190042558972.6086120605,
+    "weight":0.0026345705
+  },
+  {
+    "symbol":"PEP",
+    "name":"PepsiCo",
+    "sector":"Consumer Staples",
+    "subSector":"Soft Drinks & Non-alcoholic Beverages",
+    "marketCap":186894591040.1756591797,
+    "weight":0.0025909301
+  },
+  {
+    "symbol":"APH",
+    "name":"Amphenol",
+    "sector":"Information Technology",
+    "subSector":"Electronic Components",
+    "marketCap":185962243211.4530944824,
+    "weight":0.0025780049
+  },
+  {
+    "symbol":"NEE",
+    "name":"NextEra Energy",
+    "sector":"Utilities",
+    "subSector":"Multi-Utilities",
+    "marketCap":185471214373.2744140625,
+    "weight":0.0025711977
+  },
+  {
+    "symbol":"VZ",
+    "name":"Verizon",
+    "sector":"Communication Services",
+    "subSector":"Integrated Telecommunication Services",
+    "marketCap":182346649954.0232849121,
+    "weight":0.0025278817
+  },
+  {
+    "symbol":"ADI",
+    "name":"Analog Devices",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":182075567419.66796875,
+    "weight":0.0025241237
+  },
+  {
+    "symbol":"QCOM",
+    "name":"Qualcomm",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":178795284210.205078125,
+    "weight":0.0024786489
+  },
+  {
+    "symbol":"UNP",
+    "name":"Union Pacific Corporation",
+    "sector":"Industrials",
+    "subSector":"Rail Transportation",
+    "marketCap":178066474815.1833190918,
+    "weight":0.0024685454
+  },
+  {
+    "symbol":"SCHW",
+    "name":"Charles Schwab Corporation",
+    "sector":"Financials",
+    "subSector":"Investment Banking & Brokerage",
+    "marketCap":177374426643.735748291,
+    "weight":0.0024589515
+  },
+  {
+    "symbol":"STX",
+    "name":"Seagate Technology",
+    "sector":"Information Technology",
+    "subSector":"Technology Hardware, Storage & Peripherals",
+    "marketCap":175997341295.140625,
+    "weight":0.0024398609
+  },
+  {
+    "symbol":"ABT",
+    "name":"Abbott Laboratories",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":174094219426.7080993652,
+    "weight":0.0024134778
+  },
+  {
+    "symbol":"WELL",
+    "name":"Welltower",
+    "sector":"Real Estate",
+    "subSector":"Health Care REITs",
+    "marketCap":171551332654.9919128418,
+    "weight":0.0023782256
+  },
+  {
+    "symbol":"TJX",
+    "name":"TJX Companies",
+    "sector":"Consumer Discretionary",
+    "subSector":"Apparel Retail",
+    "marketCap":170356480034.4989318848,
+    "weight":0.0023616613
+  },
+  {
+    "symbol":"MRVL",
+    "name":"Marvell Technology",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":169528194998.7811279297,
+    "weight":0.0023501788
+  },
+  {
+    "symbol":"BA",
+    "name":"Boeing",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":169185442430.0875244141,
+    "weight":0.0023454272
+  },
+  {
+    "symbol":"DIS",
+    "name":"Walt Disney Company (The)",
+    "sector":"Communication Services",
+    "subSector":"Movies & Entertainment",
+    "marketCap":168754180714.2612304688,
+    "weight":0.0023394486
+  },
+  {
+    "symbol":"GILD",
+    "name":"Gilead Sciences",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":167220835448.5135498047,
+    "weight":0.0023181917
+  },
+  {
+    "symbol":"BLK",
+    "name":"BlackRock",
+    "sector":"Financials",
+    "subSector":"Asset Management & Custody Banks",
+    "marketCap":166119411095.7836914062,
+    "weight":0.0023029226
+  },
+  {
+    "symbol":"WDC",
+    "name":"Western Digital",
+    "sector":"Information Technology",
+    "subSector":"Technology Hardware, Storage & Peripherals",
+    "marketCap":165082060662.6491088867,
+    "weight":0.0022885417
+  },
+  {
+    "symbol":"DE",
+    "name":"Deere & Company",
+    "sector":"Industrials",
+    "subSector":"Agricultural & Farm Machinery",
+    "marketCap":161332372530.8055419922,
+    "weight":0.0022365596
+  },
+  {
+    "symbol":"ETN",
+    "name":"Eaton Corporation",
+    "sector":"Industrials",
+    "subSector":"Electrical Components & Equipment",
+    "marketCap":155347183843.994140625,
+    "weight":0.0021535866
+  },
+  {
+    "symbol":"BX",
+    "name":"Blackstone Inc.",
+    "sector":"Financials",
+    "subSector":"Asset Management & Custody Banks",
+    "marketCap":154683366644.009765625,
+    "weight":0.0021443841
+  },
+  {
+    "symbol":"T",
+    "name":"AT&T",
+    "sector":"Communication Services",
+    "subSector":"Integrated Telecommunication Services",
+    "marketCap":151647500375.0368347168,
+    "weight":0.0021022977
+  },
+  {
+    "symbol":"UBER",
+    "name":"Uber",
+    "sector":"Industrials",
+    "subSector":"Passenger Ground Transportation",
+    "marketCap":147804845576.3610229492,
+    "weight":0.0020490268
+  },
+  {
+    "symbol":"DHR",
+    "name":"Danaher Corporation",
+    "sector":"Health Care",
+    "subSector":"Life Sciences Tools & Services",
+    "marketCap":144371049471.5376586914,
+    "weight":0.0020014239
+  },
+  {
+    "symbol":"PFE",
+    "name":"Pfizer",
+    "sector":"Health Care",
+    "subSector":"Pharmaceuticals",
+    "marketCap":142856571139.8165588379,
+    "weight":0.0019804286
+  },
+  {
+    "symbol":"APP",
+    "name":"AppLovin",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":142035297142.399810791,
+    "weight":0.0019690432
+  },
+  {
+    "symbol":"BKNG",
+    "name":"Booking Holdings",
+    "sector":"Consumer Discretionary",
+    "subSector":"Hotels, Resorts & Cruise Lines",
+    "marketCap":140380846655.5090942383,
+    "weight":0.0019461075
+  },
+  {
+    "symbol":"CRM",
+    "name":"Salesforce",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":139991664001.46484375,
+    "weight":0.0019407122
+  },
+  {
+    "symbol":"COP",
+    "name":"ConocoPhillips",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Exploration & Production",
+    "marketCap":139116995633.6806030273,
+    "weight":0.0019285866
+  },
+  {
+    "symbol":"PLD",
+    "name":"Prologis",
+    "sector":"Real Estate",
+    "subSector":"Industrial REITs",
+    "marketCap":139011601490.5395507812,
+    "weight":0.0019271255
+  },
+  {
+    "symbol":"CVS",
+    "name":"CVS Health",
+    "sector":"Health Care",
+    "subSector":"Health Care Services",
+    "marketCap":136396631065.2105712891,
+    "weight":0.001890874
+  },
+  {
+    "symbol":"CB",
+    "name":"Chubb Limited",
+    "sector":"Financials",
+    "subSector":"Property & Casualty Insurance",
+    "marketCap":136142779594.7563476562,
+    "weight":0.0018873549
+  },
+  {
+    "symbol":"SPGI",
+    "name":"S&P Global",
+    "sector":"Financials",
+    "subSector":"Financial Exchanges & Data",
+    "marketCap":133158555664.0625,
+    "weight":0.0018459844
+  },
+  {
+    "symbol":"GLW",
+    "name":"Corning Inc.",
+    "sector":"Information Technology",
+    "subSector":"Electronic Components",
+    "marketCap":132761986156.8752288818,
+    "weight":0.0018404868
+  },
+  {
+    "symbol":"COF",
+    "name":"Capital One",
+    "sector":"Financials",
+    "subSector":"Consumer Finance",
+    "marketCap":128008850031.7422637939,
+    "weight":0.0017745938
+  },
+  {
+    "symbol":"BMY",
+    "name":"Bristol Myers Squibb",
+    "sector":"Health Care",
+    "subSector":"Pharmaceuticals",
+    "marketCap":124106883152.3784484863,
+    "weight":0.0017205006
+  },
+  {
+    "symbol":"MO",
+    "name":"Altria",
+    "sector":"Consumer Staples",
+    "subSector":"Tobacco",
+    "marketCap":123855829842.2878265381,
+    "weight":0.0017170202
+  },
+  {
+    "symbol":"ISRG",
+    "name":"Intuitive Surgical",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":123689600024.9792480469,
+    "weight":0.0017147158
+  },
+  {
+    "symbol":"VRTX",
+    "name":"Vertex Pharmaceuticals",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":122803752564.5553283691,
+    "weight":0.0017024352
+  },
+  {
+    "symbol":"SYK",
+    "name":"Stryker Corporation",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":122491426462.512878418,
+    "weight":0.0016981054
+  },
+  {
+    "symbol":"PGR",
+    "name":"Progressive Corporation",
+    "sector":"Financials",
+    "subSector":"Property & Casualty Insurance",
+    "marketCap":120867245645.1416015625,
+    "weight":0.0016755893
+  },
+  {
+    "symbol":"PH",
+    "name":"Parker Hannifin",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":120483109565.0119018555,
+    "weight":0.001670264
+  },
+  {
+    "symbol":"SBUX",
+    "name":"Starbucks",
+    "sector":"Consumer Discretionary",
+    "subSector":"Restaurants",
+    "marketCap":120061697891.2353515625,
+    "weight":0.001664422
+  },
+  {
+    "symbol":"FTNT",
+    "name":"Fortinet",
+    "sector":"Information Technology",
+    "subSector":"Systems Software",
+    "marketCap":118674383243.9683685303,
+    "weight":0.0016451895
+  },
+  {
+    "symbol":"LMT",
+    "name":"Lockheed Martin",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":117616999336.5065917969,
+    "weight":0.001630531
+  },
+  {
+    "symbol":"LOW",
+    "name":"Lowe's",
+    "sector":"Consumer Discretionary",
+    "subSector":"Home Improvement Retail",
+    "marketCap":117487426712.0361328125,
+    "weight":0.0016287347
+  },
+  {
+    "symbol":"VRT",
+    "name":"Vertiv",
+    "sector":"Industrials",
+    "subSector":"Electrical Components & Equipment",
+    "marketCap":111952352229.1801757812,
+    "weight":0.0015520017
+  },
+  {
+    "symbol":"HWM",
+    "name":"Howmet Aerospace",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":108905256774.594909668,
+    "weight":0.0015097596
+  },
+  {
+    "symbol":"BNY",
+    "name":"BNY Mellon",
+    "sector":"Financials",
+    "subSector":"Asset Management & Custody Banks",
+    "marketCap":107960555379.7922515869,
+    "weight":0.0014966632
+  },
+  {
+    "symbol":"SO",
+    "name":"Southern Company",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":107747441010.9899597168,
+    "weight":0.0014937087
+  },
+  {
+    "symbol":"NOW",
+    "name":"ServiceNow",
+    "sector":"Information Technology",
+    "subSector":"Systems Software",
+    "marketCap":106709542306.2438964844,
+    "weight":0.0014793203
+  },
+  {
+    "symbol":"MDT",
+    "name":"Medtronic",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":106358950149.4345092773,
+    "weight":0.00147446
+  },
+  {
+    "symbol":"TT",
+    "name":"Trane Technologies",
+    "sector":"Industrials",
+    "subSector":"Building Products",
+    "marketCap":103702650647.625,
+    "weight":0.0014376356
+  },
+  {
+    "symbol":"ADP",
+    "name":"Automatic Data Processing",
+    "sector":"Industrials",
+    "subSector":"Human Resource & Employment Services",
+    "marketCap":101744366309.503112793,
+    "weight":0.0014104878
+  },
+  {
+    "symbol":"PNC",
+    "name":"PNC Financial Services",
+    "sector":"Financials",
+    "subSector":"Diversified Banks",
+    "marketCap":100625807922.36328125,
+    "weight":0.0013949811
+  },
+  {
+    "symbol":"EQIX",
+    "name":"Equinix",
+    "sector":"Real Estate",
+    "subSector":"Data Center REITs",
+    "marketCap":100399472424.9072265625,
+    "weight":0.0013918434
+  },
+  {
+    "symbol":"UPS",
+    "name":"United Parcel Service",
+    "sector":"Industrials",
+    "subSector":"Air Freight & Logistics",
+    "marketCap":100190242440.3419799805,
+    "weight":0.0013889429
+  },
+  {
+    "symbol":"GD",
+    "name":"General Dynamics",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":99698147201.1598205566,
+    "weight":0.0013821209
+  },
+  {
+    "symbol":"USB",
+    "name":"U.S. Bancorp",
+    "sector":"Financials",
+    "subSector":"Diversified Banks",
+    "marketCap":98838079330.0549926758,
+    "weight":0.0013701978
+  },
+  {
+    "symbol":"MCK",
+    "name":"McKesson Corporation",
+    "sector":"Health Care",
+    "subSector":"Health Care Distributors",
+    "marketCap":98517406655.1379394531,
+    "weight":0.0013657523
+  },
+  {
+    "symbol":"DUK",
+    "name":"Duke Energy",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":97597652309.5410766602,
+    "weight":0.0013530017
+  },
+  {
+    "symbol":"MAR",
+    "name":"Marriott International",
+    "sector":"Consumer Discretionary",
+    "subSector":"Hotels, Resorts & Cruise Lines",
+    "marketCap":95951017424.7821044922,
+    "weight":0.0013301743
+  },
+  {
+    "symbol":"NEM",
+    "name":"Newmont",
+    "sector":"Materials",
+    "subSector":"Gold",
+    "marketCap":95823538377.1787414551,
+    "weight":0.001328407
+  },
+  {
+    "symbol":"WM",
+    "name":"Waste Management",
+    "sector":"Industrials",
+    "subSector":"Environmental & Facilities Services",
+    "marketCap":95715582940.2238769531,
+    "weight":0.0013269104
+  },
+  {
+    "symbol":"MNST",
+    "name":"Monster Beverage",
+    "sector":"Consumer Staples",
+    "subSector":"Soft Drinks & Non-alcoholic Beverages",
+    "marketCap":95199305845.827331543,
+    "weight":0.0013197532
+  },
+  {
+    "symbol":"PWR",
+    "name":"Quanta Services",
+    "sector":"Industrials",
+    "subSector":"Construction & Engineering",
+    "marketCap":94916048376.3422851562,
+    "weight":0.0013158264
+  },
+  {
+    "symbol":"ADBE",
+    "name":"Adobe Inc.",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":94648725242.6147460938,
+    "weight":0.0013121205
+  },
+  {
+    "symbol":"CSX",
+    "name":"CSX Corporation",
+    "sector":"Industrials",
+    "subSector":"Rail Transportation",
+    "marketCap":93659486768.4440917969,
+    "weight":0.0012984067
+  },
+  {
+    "symbol":"DDOG",
+    "name":"Datadog",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":91798578355.4705810547,
+    "weight":0.0012726088
+  },
+  {
+    "symbol":"VLO",
+    "name":"Valero Energy",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Refining & Marketing",
+    "marketCap":90971294971.4729003906,
+    "weight":0.0012611401
+  },
+  {
+    "symbol":"MPC",
+    "name":"Marathon Petroleum",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Refining & Marketing",
+    "marketCap":90888628654.5024108887,
+    "weight":0.0012599941
+  },
+  {
+    "symbol":"HOOD",
+    "name":"Robinhood Markets",
+    "sector":"Financials",
+    "subSector":"Investment Banking & Brokerage",
+    "marketCap":90640335413.0856628418,
+    "weight":0.001256552
+  },
+  {
+    "symbol":"CEG",
+    "name":"Constellation Energy",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":90312885173.4694519043,
+    "weight":0.0012520125
+  },
+  {
+    "symbol":"KKR",
+    "name":"KKR & Co.",
+    "sector":"Financials",
+    "subSector":"Asset Management & Custody Banks",
+    "marketCap":90308062049.8344573975,
+    "weight":0.0012519457
+  },
+  {
+    "symbol":"CDNS",
+    "name":"Cadence Design Systems",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":89724321859.86328125,
+    "weight":0.0012438532
+  },
+  {
+    "symbol":"CMI",
+    "name":"Cummins",
+    "sector":"Industrials",
+    "subSector":"Construction Machinery & Heavy Transportation Equipment",
+    "marketCap":89151978765.5715942383,
+    "weight":0.0012359188
+  },
+  {
+    "symbol":"WMB",
+    "name":"Williams Companies",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Storage & Transportation",
+    "marketCap":89119886929.6150512695,
+    "weight":0.0012354739
+  },
+  {
+    "symbol":"MCO",
+    "name":"Moody's Corporation",
+    "sector":"Financials",
+    "subSector":"Financial Exchanges & Data",
+    "marketCap":88872752147.5142211914,
+    "weight":0.0012320479
+  },
+  {
+    "symbol":"CME",
+    "name":"CME Group",
+    "sector":"Financials",
+    "subSector":"Financial Exchanges & Data",
+    "marketCap":88195268968.3865661621,
+    "weight":0.0012226559
+  },
+  {
+    "symbol":"ACN",
+    "name":"Accenture",
+    "sector":"Information Technology",
+    "subSector":"IT Consulting & Other Services",
+    "marketCap":87981972986.476776123,
+    "weight":0.001219699
+  },
+  {
+    "symbol":"MRSH",
+    "name":"Marsh McLennan",
+    "sector":"Financials",
+    "subSector":"Insurance Brokers",
+    "marketCap":87743206507.0991821289,
+    "weight":0.0012163889
+  },
+  {
+    "symbol":"ABNB",
+    "name":"Airbnb",
+    "sector":"Consumer Discretionary",
+    "subSector":"Hotels, Resorts & Cruise Lines",
+    "marketCap":86515215161.4365997314,
+    "weight":0.0011993652
+  },
+  {
+    "symbol":"JCI",
+    "name":"Johnson Controls",
+    "sector":"Industrials",
+    "subSector":"Building Products",
+    "marketCap":85837165675.6100463867,
+    "weight":0.0011899654
+  },
+  {
+    "symbol":"CMCSA",
+    "name":"Comcast",
+    "sector":"Communication Services",
+    "subSector":"Cable & Satellite",
+    "marketCap":85036901889.5426330566,
+    "weight":0.0011788713
+  },
+  {
+    "symbol":"FCX",
+    "name":"Freeport-McMoRan",
+    "sector":"Materials",
+    "subSector":"Copper",
+    "marketCap":84140377143.6161804199,
+    "weight":0.0011664427
+  },
+  {
+    "symbol":"MMM",
+    "name":"3M",
+    "sector":"Industrials",
+    "subSector":"Industrial Conglomerates",
+    "marketCap":83972329021.0,
+    "weight":0.001164113
+  },
+  {
+    "symbol":"HCA",
+    "name":"HCA Healthcare",
+    "sector":"Health Care",
+    "subSector":"Health Care Facilities",
+    "marketCap":83219875539.404296875,
+    "weight":0.0011536817
+  },
+  {
+    "symbol":"PSX",
+    "name":"Phillips 66",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Refining & Marketing",
+    "marketCap":82712895849.5565795898,
+    "weight":0.0011466535
+  },
+  {
+    "symbol":"SHW",
+    "name":"Sherwin-Williams",
+    "sector":"Materials",
+    "subSector":"Specialty Chemicals",
+    "marketCap":81600631095.5748596191,
+    "weight":0.0011312341
+  },
+  {
+    "symbol":"CTAS",
+    "name":"Cintas",
+    "sector":"Industrials",
+    "subSector":"Diversified Support Services",
+    "marketCap":81329877750.0,
+    "weight":0.0011274806
+  },
+  {
+    "symbol":"ELV",
+    "name":"Elevance Health",
+    "sector":"Health Care",
+    "subSector":"Managed Health Care",
+    "marketCap":80237302296.7971801758,
+    "weight":0.0011123342
+  },
+  {
+    "symbol":"DASH",
+    "name":"DoorDash",
+    "sector":"Consumer Discretionary",
+    "subSector":"Specialized Consumer Services",
+    "marketCap":80100354184.2276306152,
+    "weight":0.0011104356
+  },
+  {
+    "symbol":"INTU",
+    "name":"Intuit",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":79670389291.259765625,
+    "weight":0.001104475
+  },
+  {
+    "symbol":"ITW",
+    "name":"Illinois Tool Works",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":79379308053.5888671875,
+    "weight":0.0011004397
+  },
+  {
+    "symbol":"AMT",
+    "name":"American Tower",
+    "sector":"Real Estate",
+    "subSector":"Telecom Tower REITs",
+    "marketCap":79157561319.7278747559,
+    "weight":0.0010973657
+  },
+  {
+    "symbol":"ICE",
+    "name":"Intercontinental Exchange",
+    "sector":"Financials",
+    "subSector":"Financial Exchanges & Data",
+    "marketCap":79007754473.2257843018,
+    "weight":0.0010952889
+  },
+  {
+    "symbol":"AON",
+    "name":"Aon plc",
+    "sector":"Financials",
+    "subSector":"Insurance Brokers",
+    "marketCap":78539716211.9464111328,
+    "weight":0.0010888004
+  },
+  {
+    "symbol":"MDLZ",
+    "name":"Mondelez International",
+    "sector":"Consumer Staples",
+    "subSector":"Packaged Foods & Meats",
+    "marketCap":78155013848.346496582,
+    "weight":0.0010834673
+  },
+  {
+    "symbol":"EMR",
+    "name":"Emerson Electric",
+    "sector":"Industrials",
+    "subSector":"Electrical Components & Equipment",
+    "marketCap":77971576039.1235351562,
+    "weight":0.0010809243
+  },
+  {
+    "symbol":"TRV",
+    "name":"Travelers Companies (The)",
+    "sector":"Financials",
+    "subSector":"Property & Casualty Insurance",
+    "marketCap":77642957793.3941650391,
+    "weight":0.0010763686
+  },
+  {
+    "symbol":"RCL",
+    "name":"Royal Caribbean Group",
+    "sector":"Consumer Discretionary",
+    "subSector":"Hotels, Resorts & Cruise Lines",
+    "marketCap":76773497021.3715820312,
+    "weight":0.0010643152
+  },
+  {
+    "symbol":"ECL",
+    "name":"Ecolab",
+    "sector":"Materials",
+    "subSector":"Specialty Chemicals",
+    "marketCap":76680459390.0585327148,
+    "weight":0.0010630255
+  },
+  {
+    "symbol":"NSC",
+    "name":"Norfolk Southern",
+    "sector":"Industrials",
+    "subSector":"Rail Transportation",
+    "marketCap":76213727476.8522033691,
+    "weight":0.0010565551
+  },
+  {
+    "symbol":"FDX",
+    "name":"FedEx",
+    "sector":"Industrials",
+    "subSector":"Air Freight & Logistics",
+    "marketCap":74858100181.2921142578,
+    "weight":0.001037762
+  },
+  {
+    "symbol":"NOC",
+    "name":"Northrop Grumman",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":74824655144.7985839844,
+    "weight":0.0010372983
+  },
+  {
+    "symbol":"ROST",
+    "name":"Ross Stores",
+    "sector":"Consumer Discretionary",
+    "subSector":"Apparel Retail",
+    "marketCap":74568771080.6415405273,
+    "weight":0.001033751
+  },
+  {
+    "symbol":"CI",
+    "name":"Cigna",
+    "sector":"Health Care",
+    "subSector":"Health Care Services",
+    "marketCap":74509521833.0687255859,
+    "weight":0.0010329296
+  },
+  {
+    "symbol":"EOG",
+    "name":"EOG Resources",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Exploration & Production",
+    "marketCap":74456138632.7027893066,
+    "weight":0.0010321896
+  },
+  {
+    "symbol":"CL",
+    "name":"Colgate-Palmolive",
+    "sector":"Consumer Staples",
+    "subSector":"Household Products",
+    "marketCap":74225562104.98878479,
+    "weight":0.0010289931
+  },
+  {
+    "symbol":"SPG",
+    "name":"Simon Property Group",
+    "sector":"Real Estate",
+    "subSector":"Retail REITs",
+    "marketCap":73855404424.9931640625,
+    "weight":0.0010238616
+  },
+  {
+    "symbol":"HLT",
+    "name":"Hilton Worldwide",
+    "sector":"Consumer Discretionary",
+    "subSector":"Hotels, Resorts & Cruise Lines",
+    "marketCap":72731376147.1513671875,
+    "weight":0.0010082791
+  },
+  {
+    "symbol":"AEP",
+    "name":"American Electric Power",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":72017742367.6153564453,
+    "weight":0.000998386
+  },
+  {
+    "symbol":"KMI",
+    "name":"Kinder Morgan",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Storage & Transportation",
+    "marketCap":71617138062.4967803955,
+    "weight":0.0009928324
+  },
+  {
+    "symbol":"HON",
+    "name":"Honeywell Technologies",
+    "sector":"Industrials",
+    "subSector":"Industrial Conglomerates",
+    "marketCap":71425380234.4623413086,
+    "weight":0.000990174
+  },
+  {
+    "symbol":"SNPS",
+    "name":"Synopsys",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":71334667703.2585144043,
+    "weight":0.0009889164
+  },
+  {
+    "symbol":"ORLY",
+    "name":"O\u2019Reilly Automotive",
+    "sector":"Consumer Discretionary",
+    "subSector":"Automotive Retail",
+    "marketCap":70933868198.6200866699,
+    "weight":0.0009833601
+  },
+  {
+    "symbol":"REGN",
+    "name":"Regeneron Pharmaceuticals",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":70595983173.0,
+    "weight":0.000978676
+  },
+  {
+    "symbol":"SLB",
+    "name":"Schlumberger",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Equipment & Services",
+    "marketCap":69946272441.75730896,
+    "weight":0.000969669
+  },
+  {
+    "symbol":"GM",
+    "name":"General Motors",
+    "sector":"Consumer Discretionary",
+    "subSector":"Automobile Manufacturers",
+    "marketCap":69022473428.9138031006,
+    "weight":0.0009568624
+  },
+  {
+    "symbol":"APO",
+    "name":"Apollo Global Management",
+    "sector":"Financials",
+    "subSector":"Asset Management & Custody Banks",
+    "marketCap":69000497135.8915405273,
+    "weight":0.0009565577
+  },
+  {
+    "symbol":"MSI",
+    "name":"Motorola Solutions",
+    "sector":"Information Technology",
+    "subSector":"Communications Equipment",
+    "marketCap":68757028601.8007202148,
+    "weight":0.0009531825
+  },
+  {
+    "symbol":"CRH",
+    "name":"CRH plc",
+    "sector":"Materials",
+    "subSector":"Construction Materials",
+    "marketCap":68717707766.4177246094,
+    "weight":0.0009526374
+  },
+  {
+    "symbol":"RSG",
+    "name":"Republic Services",
+    "sector":"Industrials",
+    "subSector":"Environmental & Facilities Services",
+    "marketCap":68176823734.3315124512,
+    "weight":0.0009451391
+  },
+  {
+    "symbol":"TDG",
+    "name":"TransDigm Group",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":67866035187.8002929688,
+    "weight":0.0009408306
+  },
+  {
+    "symbol":"WBD",
+    "name":"Warner Bros. Discovery",
+    "sector":"Communication Services",
+    "subSector":"Broadcasting",
+    "marketCap":67592403190.5677947998,
+    "weight":0.0009370372
+  },
+  {
+    "symbol":"NXPI",
+    "name":"NXP Semiconductors",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":67388320208.630645752,
+    "weight":0.000934208
+  },
+  {
+    "symbol":"HONA",
+    "name":"Honeywell Aerospace",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":66757021090.0573730469,
+    "weight":0.0009254563
+  },
+  {
+    "symbol":"PCAR",
+    "name":"Paccar",
+    "sector":"Industrials",
+    "subSector":"Construction Machinery & Heavy Transportation Equipment",
+    "marketCap":66422584480.2605667114,
+    "weight":0.00092082
+  },
+  {
+    "symbol":"APD",
+    "name":"Air Products",
+    "sector":"Materials",
+    "subSector":"Industrial Gases",
+    "marketCap":65999217294.7260742188,
+    "weight":0.0009149508
+  },
+  {
+    "symbol":"URI",
+    "name":"United Rentals",
+    "sector":"Industrials",
+    "subSector":"Trading Companies & Distributors",
+    "marketCap":65675830040.1694335938,
+    "weight":0.0009104677
+  },
+  {
+    "symbol":"GWW",
+    "name":"W. W. Grainger",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":65590825570.75,
+    "weight":0.0009092892
+  },
+  {
+    "symbol":"TFC",
+    "name":"Truist Financial",
+    "sector":"Financials",
+    "subSector":"Diversified Banks",
+    "marketCap":65564396846.875,
+    "weight":0.0009089229
+  },
+  {
+    "symbol":"AJG",
+    "name":"Arthur J. Gallagher & Co.",
+    "sector":"Financials",
+    "subSector":"Insurance Brokers",
+    "marketCap":65372469134.1247558594,
+    "weight":0.0009062622
+  },
+  {
+    "symbol":"BSX",
+    "name":"Boston Scientific",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":65258422319.5965881348,
+    "weight":0.0009046811
+  },
+  {
+    "symbol":"NKE",
+    "name":"Nike, Inc.",
+    "sector":"Consumer Discretionary",
+    "subSector":"Apparel, Accessories & Luxury Goods",
+    "marketCap":64776972224.6786270142,
+    "weight":0.0008980068
+  },
+  {
+    "symbol":"DLR",
+    "name":"Digital Realty",
+    "sector":"Real Estate",
+    "subSector":"Data Center REITs",
+    "marketCap":64372126620.3188781738,
+    "weight":0.0008923944
+  },
+  {
+    "symbol":"MPWR",
+    "name":"Monolithic Power Systems",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":64151523930.1459960938,
+    "weight":0.0008893361
+  },
+  {
+    "symbol":"ALL",
+    "name":"Allstate",
+    "sector":"Financials",
+    "subSector":"Property & Casualty Insurance",
+    "marketCap":64057911640.0845336914,
+    "weight":0.0008880384
+  },
+  {
+    "symbol":"AFL",
+    "name":"Aflac",
+    "sector":"Financials",
+    "subSector":"Life & Health Insurance",
+    "marketCap":63327900823.7008056641,
+    "weight":0.0008779182
+  },
+  {
+    "symbol":"TGT",
+    "name":"Target Corporation",
+    "sector":"Consumer Staples",
+    "subSector":"Consumer Staples Merchandise Retail",
+    "marketCap":63146189746.9274902344,
+    "weight":0.0008753991
+  },
+  {
+    "symbol":"D",
+    "name":"Dominion Energy",
+    "sector":"Utilities",
+    "subSector":"Multi-Utilities",
+    "marketCap":62704840936.344543457,
+    "weight":0.0008692807
+  },
+  {
+    "symbol":"HPE",
+    "name":"Hewlett Packard Enterprise",
+    "sector":"Information Technology",
+    "subSector":"Technology Hardware, Storage & Peripherals",
+    "marketCap":61138741865.9651184082,
+    "weight":0.0008475698
+  },
+  {
+    "symbol":"O",
+    "name":"Realty Income",
+    "sector":"Real Estate",
+    "subSector":"Retail REITs",
+    "marketCap":61101574451.1206817627,
+    "weight":0.0008470545
+  },
+  {
+    "symbol":"TRGP",
+    "name":"Targa Resources",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Storage & Transportation",
+    "marketCap":60529580646.0,
+    "weight":0.0008391249
+  },
+  {
+    "symbol":"MET",
+    "name":"MetLife",
+    "sector":"Financials",
+    "subSector":"Life & Health Insurance",
+    "marketCap":60470190650.3945388794,
+    "weight":0.0008383016
+  },
+  {
+    "symbol":"SRE",
+    "name":"Sempra",
+    "sector":"Utilities",
+    "subSector":"Multi-Utilities",
+    "marketCap":60389487908.9189987183,
+    "weight":0.0008371828
+  },
+  {
+    "symbol":"COR",
+    "name":"Cencora",
+    "sector":"Health Care",
+    "subSector":"Health Care Distributors",
+    "marketCap":59812931495.4870605469,
+    "weight":0.00082919
+  },
+  {
+    "symbol":"TEL",
+    "name":"TE Connectivity",
+    "sector":"Information Technology",
+    "subSector":"Electronic Manufacturing Services",
+    "marketCap":58955655784.6155700684,
+    "weight":0.0008173055
+  },
+  {
+    "symbol":"OKE",
+    "name":"Oneok",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Storage & Transportation",
+    "marketCap":58725361558.1076965332,
+    "weight":0.0008141129
+  },
+  {
+    "symbol":"CTVA",
+    "name":"Corteva",
+    "sector":"Materials",
+    "subSector":"Fertilizers & Agricultural Chemicals",
+    "marketCap":58371266520.5383300781,
+    "weight":0.0008092041
+  },
+  {
+    "symbol":"FIX",
+    "name":"Comfort Systems USA",
+    "sector":"Industrials",
+    "subSector":"Construction & Engineering",
+    "marketCap":58281536968.9731445312,
+    "weight":0.0008079602
+  },
+  {
+    "symbol":"F",
+    "name":"Ford Motor Company",
+    "sector":"Consumer Discretionary",
+    "subSector":"Automobile Manufacturers",
+    "marketCap":57120569003.0539627075,
+    "weight":0.0007918656
+  },
+  {
+    "symbol":"LITE",
+    "name":"Lumentum",
+    "sector":"Information Technology",
+    "subSector":"Communications Equipment",
+    "marketCap":57027400000.0,
+    "weight":0.000790574
+  },
+  {
+    "symbol":"CARR",
+    "name":"Carrier Global",
+    "sector":"Industrials",
+    "subSector":"Building Products",
+    "marketCap":56965357551.0359115601,
+    "weight":0.0007897139
+  },
+  {
+    "symbol":"PSA",
+    "name":"Public Storage",
+    "sector":"Real Estate",
+    "subSector":"Self-Storage REITs",
+    "marketCap":55974792189.4936523438,
+    "weight":0.0007759816
+  },
+  {
+    "symbol":"BKR",
+    "name":"Baker Hughes",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Equipment & Services",
+    "marketCap":55645133366.1076660156,
+    "weight":0.0007714116
+  },
+  {
+    "symbol":"DAL",
+    "name":"Delta Air Lines",
+    "sector":"Industrials",
+    "subSector":"Passenger Airlines",
+    "marketCap":55529690258.7249755859,
+    "weight":0.0007698112
+  },
+  {
+    "symbol":"FANG",
+    "name":"Diamondback Energy",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Exploration & Production",
+    "marketCap":54746380900.870010376,
+    "weight":0.0007589521
+  },
+  {
+    "symbol":"OXY",
+    "name":"Occidental Petroleum",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Exploration & Production",
+    "marketCap":54426412052.8736877441,
+    "weight":0.0007545164
+  },
+  {
+    "symbol":"COHR",
+    "name":"Coherent Corp.",
+    "sector":"Information Technology",
+    "subSector":"Electronic Components",
+    "marketCap":54170574457.5003662109,
+    "weight":0.0007509697
+  },
+  {
+    "symbol":"AME",
+    "name":"Ametek",
+    "sector":"Industrials",
+    "subSector":"Electrical Components & Equipment",
+    "marketCap":54091908472.0,
+    "weight":0.0007498791
+  },
+  {
+    "symbol":"KEYS",
+    "name":"Keysight Technologies",
+    "sector":"Information Technology",
+    "subSector":"Electronic Equipment & Instruments",
+    "marketCap":53881602037.0075683594,
+    "weight":0.0007469636
+  },
+  {
+    "symbol":"NUE",
+    "name":"Nucor",
+    "sector":"Materials",
+    "subSector":"Steel",
+    "marketCap":53770776026.7356872559,
+    "weight":0.0007454272
+  },
+  {
+    "symbol":"CAH",
+    "name":"Cardinal Health",
+    "sector":"Health Care",
+    "subSector":"Health Care Distributors",
+    "marketCap":53607378008.0020904541,
+    "weight":0.000743162
+  },
+  {
+    "symbol":"CIEN",
+    "name":"Ciena",
+    "sector":"Information Technology",
+    "subSector":"Communications Equipment",
+    "marketCap":53262824861.5795288086,
+    "weight":0.0007383855
+  },
+  {
+    "symbol":"ETR",
+    "name":"Entergy",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":52984205587.3435211182,
+    "weight":0.000734523
+  },
+  {
+    "symbol":"LHX",
+    "name":"L3Harris",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":52733580759.6366577148,
+    "weight":0.0007310486
+  },
+  {
+    "symbol":"EA",
+    "name":"Electronic Arts",
+    "sector":"Communication Services",
+    "subSector":"Interactive Home Entertainment",
+    "marketCap":52402044054.9940795898,
+    "weight":0.0007264524
+  },
+  {
+    "symbol":"VST",
+    "name":"Vistra Corp.",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":52396471055.4589233398,
+    "weight":0.0007263752
+  },
+  {
+    "symbol":"FITB",
+    "name":"Fifth Third Bancorp",
+    "sector":"Financials",
+    "subSector":"Regional Banks",
+    "marketCap":52257923719.3878326416,
+    "weight":0.0007244545
+  },
+  {
+    "symbol":"FAST",
+    "name":"Fastenal",
+    "sector":"Industrials",
+    "subSector":"Trading Companies & Distributors",
+    "marketCap":52056086062.5062713623,
+    "weight":0.0007216564
+  },
+  {
+    "symbol":"NDAQ",
+    "name":"Nasdaq, Inc.",
+    "sector":"Financials",
+    "subSector":"Financial Exchanges & Data",
+    "marketCap":51786570700.2706451416,
+    "weight":0.0007179201
+  },
+  {
+    "symbol":"ROK",
+    "name":"Rockwell Automation",
+    "sector":"Industrials",
+    "subSector":"Electrical Components & Equipment",
+    "marketCap":51081977505.6099243164,
+    "weight":0.0007081523
+  },
+  {
+    "symbol":"STT",
+    "name":"State Street Corporation",
+    "sector":"Financials",
+    "subSector":"Asset Management & Custody Banks",
+    "marketCap":50521052345.6428985596,
+    "weight":0.0007003761
+  },
+  {
+    "symbol":"TER",
+    "name":"Teradyne",
+    "sector":"Information Technology",
+    "subSector":"Semiconductor Materials & Equipment",
+    "marketCap":50512240212.4349365234,
+    "weight":0.000700254
+  },
+  {
+    "symbol":"DVN",
+    "name":"Devon Energy",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Exploration & Production",
+    "marketCap":50444085588.6263885498,
+    "weight":0.0006993092
+  },
+  {
+    "symbol":"PYPL",
+    "name":"PayPal",
+    "sector":"Financials",
+    "subSector":"Transaction & Payment Processing Services",
+    "marketCap":50182980958.3755340576,
+    "weight":0.0006956894
+  },
+  {
+    "symbol":"EBAY",
+    "name":"eBay Inc.",
+    "sector":"Consumer Discretionary",
+    "subSector":"Broadline Retail",
+    "marketCap":49557059051.513671875,
+    "weight":0.0006870123
+  },
+  {
+    "symbol":"EW",
+    "name":"Edwards Lifesciences",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":49507285932.9223632812,
+    "weight":0.0006863222
+  },
+  {
+    "symbol":"XEL",
+    "name":"Xcel Energy",
+    "sector":"Utilities",
+    "subSector":"Multi-Utilities",
+    "marketCap":49329778535.5685424805,
+    "weight":0.0006838615
+  },
+  {
+    "symbol":"AZO",
+    "name":"AutoZone",
+    "sector":"Consumer Discretionary",
+    "subSector":"Automotive Retail",
+    "marketCap":49266003464.2272949219,
+    "weight":0.0006829773
+  },
+  {
+    "symbol":"ODFL",
+    "name":"Old Dominion",
+    "sector":"Industrials",
+    "subSector":"Cargo Ground Transportation",
+    "marketCap":48731129595.7651977539,
+    "weight":0.0006755623
+  },
+  {
+    "symbol":"CVNA",
+    "name":"Carvana",
+    "sector":"Consumer Discretionary",
+    "subSector":"Automotive Retail",
+    "marketCap":48370953764.6745300293,
+    "weight":0.0006705692
+  },
+  {
+    "symbol":"GRMN",
+    "name":"Garmin",
+    "sector":"Consumer Discretionary",
+    "subSector":"Consumer Electronics",
+    "marketCap":48022160516.7106933594,
+    "weight":0.0006657339
+  },
+  {
+    "symbol":"HUM",
+    "name":"Humana",
+    "sector":"Health Care",
+    "subSector":"Managed Health Care",
+    "marketCap":47770070206.2377929688,
+    "weight":0.0006622391
+  },
+  {
+    "symbol":"XYZ",
+    "name":"Block, Inc.",
+    "sector":"Financials",
+    "subSector":"Transaction & Payment Processing Services",
+    "marketCap":47644240866.3482666016,
+    "weight":0.0006604947
+  },
+  {
+    "symbol":"AMP",
+    "name":"Ameriprise Financial",
+    "sector":"Financials",
+    "subSector":"Asset Management & Custody Banks",
+    "marketCap":47468359898.2236328125,
+    "weight":0.0006580565
+  },
+  {
+    "symbol":"EXC",
+    "name":"Exelon",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":47446160451.6357955933,
+    "weight":0.0006577487
+  },
+  {
+    "symbol":"VTR",
+    "name":"Ventas",
+    "sector":"Real Estate",
+    "subSector":"Health Care REITs",
+    "marketCap":46506997482.5867004395,
+    "weight":0.0006447291
+  },
+  {
+    "symbol":"ADSK",
+    "name":"Autodesk",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":45964210205.6813354492,
+    "weight":0.0006372044
+  },
+  {
+    "symbol":"MSCI",
+    "name":"MSCI Inc.",
+    "sector":"Financials",
+    "subSector":"Financial Exchanges & Data",
+    "marketCap":45691109674.0,
+    "weight":0.0006334184
+  },
+  {
+    "symbol":"WAB",
+    "name":"Wabtec",
+    "sector":"Industrials",
+    "subSector":"Construction Machinery & Heavy Transportation Equipment",
+    "marketCap":44558965347.5520019531,
+    "weight":0.0006177234
+  },
+  {
+    "symbol":"IDXX",
+    "name":"Idexx Laboratories",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":44482518734.3103027344,
+    "weight":0.0006166636
+  },
+  {
+    "symbol":"CMG",
+    "name":"Chipotle Mexican Grill",
+    "sector":"Consumer Discretionary",
+    "subSector":"Restaurants",
+    "marketCap":44183772238.5406494141,
+    "weight":0.0006125221
+  },
+  {
+    "symbol":"TTWO",
+    "name":"Take-Two Interactive",
+    "sector":"Communication Services",
+    "subSector":"Interactive Home Entertainment",
+    "marketCap":44095832462.5,
+    "weight":0.000611303
+  },
+  {
+    "symbol":"MCHP",
+    "name":"Microchip Technology",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":43875077953.1300354004,
+    "weight":0.0006082426
+  },
+  {
+    "symbol":"BDX",
+    "name":"Becton Dickinson",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":43509210789.0819396973,
+    "weight":0.0006031706
+  },
+  {
+    "symbol":"FLEX",
+    "name":"Flex Ltd.",
+    "sector":"Information Technology",
+    "subSector":"Electronic Manufacturing Services",
+    "marketCap":43325564760.5,
+    "weight":0.0006006247
+  },
+  {
+    "symbol":"AIG",
+    "name":"American International Group",
+    "sector":"Financials",
+    "subSector":"Multi-line Insurance",
+    "marketCap":42469517493.0695114136,
+    "weight":0.0005887573
+  },
+  {
+    "symbol":"DHI",
+    "name":"D. R. Horton",
+    "sector":"Consumer Discretionary",
+    "subSector":"Homebuilding",
+    "marketCap":42419258314.5208587646,
+    "weight":0.0005880605
+  },
+  {
+    "symbol":"KDP",
+    "name":"Keurig Dr Pepper",
+    "sector":"Consumer Staples",
+    "subSector":"Soft Drinks & Non-alcoholic Beverages",
+    "marketCap":41993667761.0076522827,
+    "weight":0.0005821605
+  },
+  {
+    "symbol":"LYV",
+    "name":"Live Nation Entertainment",
+    "sector":"Communication Services",
+    "subSector":"Movies & Entertainment",
+    "marketCap":41681189570.9266204834,
+    "weight":0.0005778286
+  },
+  {
+    "symbol":"COIN",
+    "name":"Coinbase",
+    "sector":"Financials",
+    "subSector":"Financial Exchanges & Data",
+    "marketCap":41358069921.0541687012,
+    "weight":0.0005733492
+  },
+  {
+    "symbol":"PRU",
+    "name":"Prudential Financial",
+    "sector":"Financials",
+    "subSector":"Life & Health Insurance",
+    "marketCap":41272643100.7812652588,
+    "weight":0.0005721649
+  },
+  {
+    "symbol":"ED",
+    "name":"Consolidated Edison",
+    "sector":"Utilities",
+    "subSector":"Multi-Utilities",
+    "marketCap":41138969956.9529342651,
+    "weight":0.0005703118
+  },
+  {
+    "symbol":"CBRE",
+    "name":"CBRE Group",
+    "sector":"Real Estate",
+    "subSector":"Real Estate Services",
+    "marketCap":41124626582.3076782227,
+    "weight":0.000570113
+  },
+  {
+    "symbol":"YUM",
+    "name":"Yum! Brands",
+    "sector":"Consumer Discretionary",
+    "subSector":"Restaurants",
+    "marketCap":41053777196.7708435059,
+    "weight":0.0005691308
+  },
+  {
+    "symbol":"AXON",
+    "name":"Axon Enterprise",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":40990992082.3375854492,
+    "weight":0.0005682604
+  },
+  {
+    "symbol":"ADM",
+    "name":"Archer Daniels Midland",
+    "sector":"Consumer Staples",
+    "subSector":"Agricultural Products & Services",
+    "marketCap":40889189985.7024841309,
+    "weight":0.0005668491
+  },
+  {
+    "symbol":"PAYX",
+    "name":"Paychex",
+    "sector":"Industrials",
+    "subSector":"Human Resource & Employment Services",
+    "marketCap":40483282434.08203125,
+    "weight":0.000561222
+  },
+  {
+    "symbol":"IBKR",
+    "name":"Interactive Brokers",
+    "sector":"Financials",
+    "subSector":"Investment Banking & Brokerage",
+    "marketCap":40285187344.4711608887,
+    "weight":0.0005584758
+  },
+  {
+    "symbol":"PEG",
+    "name":"Public Service Enterprise Group",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":39280182991.8937683105,
+    "weight":0.0005445434
+  },
+  {
+    "symbol":"SYY",
+    "name":"Sysco",
+    "sector":"Consumer Staples",
+    "subSector":"Food Distributors",
+    "marketCap":39043610672.8487548828,
+    "weight":0.0005412637
+  },
+  {
+    "symbol":"HIG",
+    "name":"Hartford (The)",
+    "sector":"Financials",
+    "subSector":"Property & Casualty Insurance",
+    "marketCap":38386538389.9676513672,
+    "weight":0.0005321547
+  },
+  {
+    "symbol":"PCG",
+    "name":"PG&E Corporation",
+    "sector":"Utilities",
+    "subSector":"Multi-Utilities",
+    "marketCap":38263654649.0,
+    "weight":0.0005304512
+  },
+  {
+    "symbol":"UAL",
+    "name":"United Airlines Holdings",
+    "sector":"Industrials",
+    "subSector":"Passenger Airlines",
+    "marketCap":37603026926.9990234375,
+    "weight":0.0005212928
+  },
+  {
+    "symbol":"VMC",
+    "name":"Vulcan Materials Company",
+    "sector":"Materials",
+    "subSector":"Construction Materials",
+    "marketCap":37427798162.1719360352,
+    "weight":0.0005188636
+  },
+  {
+    "symbol":"A",
+    "name":"Agilent Technologies",
+    "sector":"Health Care",
+    "subSector":"Life Sciences Tools & Services",
+    "marketCap":37327615982.5494384766,
+    "weight":0.0005174748
+  },
+  {
+    "symbol":"IRM",
+    "name":"Iron Mountain",
+    "sector":"Real Estate",
+    "subSector":"Other Specialized REITs",
+    "marketCap":37035873289.6505966187,
+    "weight":0.0005134304
+  },
+  {
+    "symbol":"HBAN",
+    "name":"Huntington Bancshares",
+    "sector":"Financials",
+    "subSector":"Regional Banks",
+    "marketCap":36964727491.207321167,
+    "weight":0.0005124441
+  },
+  {
+    "symbol":"WEC",
+    "name":"WEC Energy Group",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":36930776477.0077056885,
+    "weight":0.0005119734
+  },
+  {
+    "symbol":"ROP",
+    "name":"Roper Technologies",
+    "sector":"Information Technology",
+    "subSector":"Electronic Equipment & Instruments",
+    "marketCap":36622403885.5937805176,
+    "weight":0.0005076984
+  },
+  {
+    "symbol":"WAT",
+    "name":"Waters Corporation",
+    "sector":"Health Care",
+    "subSector":"Life Sciences Tools & Services",
+    "marketCap":36409279470.2346801758,
+    "weight":0.0005047439
+  },
+  {
+    "symbol":"KVUE",
+    "name":"Kenvue",
+    "sector":"Consumer Staples",
+    "subSector":"Personal Care Products",
+    "marketCap":36249762040.5046005249,
+    "weight":0.0005025325
+  },
+  {
+    "symbol":"MTB",
+    "name":"M&T Bank",
+    "sector":"Financials",
+    "subSector":"Regional Banks",
+    "marketCap":36143392247.6806640625,
+    "weight":0.0005010578
+  },
+  {
+    "symbol":"KR",
+    "name":"Kroger",
+    "sector":"Consumer Staples",
+    "subSector":"Food Retail",
+    "marketCap":36097176733.6493225098,
+    "weight":0.0005004172
+  },
+  {
+    "symbol":"CCL",
+    "name":"Carnival Corporation",
+    "sector":"Consumer Discretionary",
+    "subSector":"Hotels, Resorts & Cruise Lines",
+    "marketCap":36069708294.9137802124,
+    "weight":0.0005000364
+  },
+  {
+    "symbol":"KMB",
+    "name":"Kimberly-Clark",
+    "sector":"Consumer Staples",
+    "subSector":"Household Products",
+    "marketCap":35828093250.3662109375,
+    "weight":0.0004966868
+  },
+  {
+    "symbol":"WDAY",
+    "name":"Workday, Inc.",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":35739533804.2371368408,
+    "weight":0.0004954591
+  },
+  {
+    "symbol":"ACGL",
+    "name":"Arch Capital Group",
+    "sector":"Financials",
+    "subSector":"Property & Casualty Insurance",
+    "marketCap":35386177046.1390380859,
+    "weight":0.0004905605
+  },
+  {
+    "symbol":"HSY",
+    "name":"Hershey Company (The)",
+    "sector":"Consumer Staples",
+    "subSector":"Packaged Foods & Meats",
+    "marketCap":34716641879.7423095703,
+    "weight":0.0004812787
+  },
+  {
+    "symbol":"CCI",
+    "name":"Crown Castle",
+    "sector":"Real Estate",
+    "subSector":"Telecom Tower REITs",
+    "marketCap":34536444216.0388259888,
+    "weight":0.0004787806
+  },
+  {
+    "symbol":"IQV",
+    "name":"IQVIA",
+    "sector":"Health Care",
+    "subSector":"Life Sciences Tools & Services",
+    "marketCap":34471524879.4555664062,
+    "weight":0.0004778807
+  },
+  {
+    "symbol":"NTRS",
+    "name":"Northern Trust",
+    "sector":"Financials",
+    "subSector":"Asset Management & Custody Banks",
+    "marketCap":34011686585.1194152832,
+    "weight":0.0004715059
+  },
+  {
+    "symbol":"ON",
+    "name":"ON Semiconductor",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":33979793960.4598388672,
+    "weight":0.0004710638
+  },
+  {
+    "symbol":"STLD",
+    "name":"Steel Dynamics",
+    "sector":"Materials",
+    "subSector":"Steel",
+    "marketCap":33926056730.25,
+    "weight":0.0004703188
+  },
+  {
+    "symbol":"MLM",
+    "name":"Martin Marietta Materials",
+    "sector":"Materials",
+    "subSector":"Construction Materials",
+    "marketCap":33870692298.1750488281,
+    "weight":0.0004695513
+  },
+  {
+    "symbol":"EME",
+    "name":"Emcor",
+    "sector":"Industrials",
+    "subSector":"Construction & Engineering",
+    "marketCap":32840987838.3187866211,
+    "weight":0.0004552764
+  },
+  {
+    "symbol":"RJF",
+    "name":"Raymond James Financial",
+    "sector":"Financials",
+    "subSector":"Investment Banking & Brokerage",
+    "marketCap":32805636836.808807373,
+    "weight":0.0004547864
+  },
+  {
+    "symbol":"CNC",
+    "name":"Centene Corporation",
+    "sector":"Health Care",
+    "subSector":"Managed Health Care",
+    "marketCap":32506657414.1693115234,
+    "weight":0.0004506416
+  },
+  {
+    "symbol":"IR",
+    "name":"Ingersoll Rand",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":32132667678.5930480957,
+    "weight":0.000445457
+  },
+  {
+    "symbol":"ZTS",
+    "name":"Zoetis",
+    "sector":"Health Care",
+    "subSector":"Pharmaceuticals",
+    "marketCap":32070951027.0,
+    "weight":0.0004446014
+  },
+  {
+    "symbol":"NTAP",
+    "name":"NetApp",
+    "sector":"Information Technology",
+    "subSector":"Technology Hardware, Storage & Peripherals",
+    "marketCap":31972173365.4501342773,
+    "weight":0.000443232
+  },
+  {
+    "symbol":"EXPE",
+    "name":"Expedia Group",
+    "sector":"Consumer Discretionary",
+    "subSector":"Hotels, Resorts & Cruise Lines",
+    "marketCap":31853257806.813079834,
+    "weight":0.0004415835
+  },
+  {
+    "symbol":"VEEV",
+    "name":"Veeva Systems",
+    "sector":"Health Care",
+    "subSector":"Health Care Technology",
+    "marketCap":31767409591.369934082,
+    "weight":0.0004403934
+  },
+  {
+    "symbol":"CASY",
+    "name":"Casey's",
+    "sector":"Consumer Staples",
+    "subSector":"Food Retail",
+    "marketCap":31683052202.7459716797,
+    "weight":0.0004392239
+  },
+  {
+    "symbol":"JBL",
+    "name":"Jabil",
+    "sector":"Information Technology",
+    "subSector":"Electronic Manufacturing Services",
+    "marketCap":31446606048.4696350098,
+    "weight":0.000435946
+  },
+  {
+    "symbol":"EXR",
+    "name":"Extra Space Storage",
+    "sector":"Real Estate",
+    "subSector":"Self-Storage REITs",
+    "marketCap":31314153528.0344238281,
+    "weight":0.0004341098
+  },
+  {
+    "symbol":"EQT",
+    "name":"EQT Corporation",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Exploration & Production",
+    "marketCap":31080000961.0366821289,
+    "weight":0.0004308638
+  },
+  {
+    "symbol":"AEE",
+    "name":"Ameren",
+    "sector":"Utilities",
+    "subSector":"Multi-Utilities",
+    "marketCap":30946365616.662109375,
+    "weight":0.0004290112
+  },
+  {
+    "symbol":"DTE",
+    "name":"DTE Energy",
+    "sector":"Utilities",
+    "subSector":"Multi-Utilities",
+    "marketCap":30808994425.0040588379,
+    "weight":0.0004271068
+  },
+  {
+    "symbol":"KHC",
+    "name":"Kraft Heinz",
+    "sector":"Consumer Staples",
+    "subSector":"Packaged Foods & Meats",
+    "marketCap":30753142408.2564201355,
+    "weight":0.0004263325
+  },
+  {
+    "symbol":"CFG",
+    "name":"Citizens Financial Group",
+    "sector":"Financials",
+    "subSector":"Regional Banks",
+    "marketCap":30439043604.74659729,
+    "weight":0.0004219781
+  },
+  {
+    "symbol":"BIIB",
+    "name":"Biogen",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":30191790426.5,
+    "weight":0.0004185505
+  },
+  {
+    "symbol":"LVS",
+    "name":"Las Vegas Sands",
+    "sector":"Consumer Discretionary",
+    "subSector":"Casinos & Gaming",
+    "marketCap":29844523451.335144043,
+    "weight":0.0004137363
+  },
+  {
+    "symbol":"EL",
+    "name":"Est\u00e9e Lauder Companies (The)",
+    "sector":"Consumer Staples",
+    "subSector":"Personal Care Products",
+    "marketCap":29829989637.639541626,
+    "weight":0.0004135348
+  },
+  {
+    "symbol":"EIX",
+    "name":"Edison International",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":29783051620.5489578247,
+    "weight":0.0004128841
+  },
+  {
+    "symbol":"ATO",
+    "name":"Atmos Energy",
+    "sector":"Utilities",
+    "subSector":"Gas Utilities",
+    "marketCap":29636614905.4988708496,
+    "weight":0.000410854
+  },
+  {
+    "symbol":"VICI",
+    "name":"Vici Properties",
+    "sector":"Real Estate",
+    "subSector":"Hotel & Resort REITs",
+    "marketCap":29508948171.5424842834,
+    "weight":0.0004090842
+  },
+  {
+    "symbol":"DXCM",
+    "name":"Dexcom",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":29480696031.5954360962,
+    "weight":0.0004086925
+  },
+  {
+    "symbol":"TDY",
+    "name":"Teledyne Technologies",
+    "sector":"Information Technology",
+    "subSector":"Electronic Equipment & Instruments",
+    "marketCap":29439851307.6412353516,
+    "weight":0.0004081263
+  },
+  {
+    "symbol":"HAL",
+    "name":"Halliburton",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Equipment & Services",
+    "marketCap":29368406354.1523742676,
+    "weight":0.0004071358
+  },
+  {
+    "symbol":"XYL",
+    "name":"Xylem Inc.",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":29357523828.1980819702,
+    "weight":0.000406985
+  },
+  {
+    "symbol":"CBOE",
+    "name":"Cboe Global Markets",
+    "sector":"Financials",
+    "subSector":"Financial Exchanges & Data",
+    "marketCap":28926305258.8439941406,
+    "weight":0.000401007
+  },
+  {
+    "symbol":"RMD",
+    "name":"ResMed",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":28866220416.0,
+    "weight":0.000400174
+  },
+  {
+    "symbol":"FICO",
+    "name":"Fair Isaac",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":28810989367.3820800781,
+    "weight":0.0003994083
+  },
+  {
+    "symbol":"DOV",
+    "name":"Dover Corporation",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":28802729758.2691955566,
+    "weight":0.0003992938
+  },
+  {
+    "symbol":"TPR",
+    "name":"Tapestry, Inc.",
+    "sector":"Consumer Discretionary",
+    "subSector":"Apparel, Accessories & Luxury Goods",
+    "marketCap":28716616187.3664550781,
+    "weight":0.0003981
+  },
+  {
+    "symbol":"Q",
+    "name":"Qnity Electronics",
+    "sector":"Information Technology",
+    "subSector":"Semiconductor Materials & Equipment",
+    "marketCap":28621904354.7801208496,
+    "weight":0.000396787
+  },
+  {
+    "symbol":"GEHC",
+    "name":"GE HealthCare",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":28576301857.6980438232,
+    "weight":0.0003961549
+  },
+  {
+    "symbol":"CNP",
+    "name":"CenterPoint Energy",
+    "sector":"Utilities",
+    "subSector":"Multi-Utilities",
+    "marketCap":28269934178.0183410645,
+    "weight":0.0003919077
+  },
+  {
+    "symbol":"TPL",
+    "name":"Texas Pacific Land Corporation",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Exploration & Production",
+    "marketCap":28182261692.5180969238,
+    "weight":0.0003906923
+  },
+  {
+    "symbol":"FE",
+    "name":"FirstEnergy",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":28129108658.0811500549,
+    "weight":0.0003899554
+  },
+  {
+    "symbol":"ARES",
+    "name":"Ares Management",
+    "sector":"Financials",
+    "subSector":"Asset Management & Custody Banks",
+    "marketCap":28121008339.9172668457,
+    "weight":0.0003898431
+  },
+  {
+    "symbol":"ES",
+    "name":"Eversource Energy",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":28051807687.5038146973,
+    "weight":0.0003888838
+  },
+  {
+    "symbol":"OTIS",
+    "name":"Otis Worldwide",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":28049644570.0957336426,
+    "weight":0.0003888538
+  },
+  {
+    "symbol":"CINF",
+    "name":"Cincinnati Financial",
+    "sector":"Financials",
+    "subSector":"Property & Casualty Insurance",
+    "marketCap":27767816206.7003479004,
+    "weight":0.0003849468
+  },
+  {
+    "symbol":"WTW",
+    "name":"Willis Towers Watson",
+    "sector":"Financials",
+    "subSector":"Insurance Brokers",
+    "marketCap":27765817022.1164550781,
+    "weight":0.0003849191
+  },
+  {
+    "symbol":"DG",
+    "name":"Dollar General",
+    "sector":"Consumer Staples",
+    "subSector":"Consumer Staples Merchandise Retail",
+    "marketCap":27668183200.5277023315,
+    "weight":0.0003835656
+  },
+  {
+    "symbol":"NRG",
+    "name":"NRG Energy",
+    "sector":"Utilities",
+    "subSector":"Independent Power Producers & Energy Traders",
+    "marketCap":27330133164.1055297852,
+    "weight":0.0003788791
+  },
+  {
+    "symbol":"AVB",
+    "name":"AvalonBay Communities",
+    "sector":"Real Estate",
+    "subSector":"Multi-Family Residential REITs",
+    "marketCap":27271966166.8075866699,
+    "weight":0.0003780728
+  },
+  {
+    "symbol":"JBHT",
+    "name":"J.B. Hunt",
+    "sector":"Industrials",
+    "subSector":"Cargo Ground Transportation",
+    "marketCap":27238510739.1357421875,
+    "weight":0.000377609
+  },
+  {
+    "symbol":"FISV",
+    "name":"Fiserv",
+    "sector":"Financials",
+    "subSector":"Transaction & Payment Processing Services",
+    "marketCap":27115964374.4189910889,
+    "weight":0.0003759101
+  },
+  {
+    "symbol":"RF",
+    "name":"Regions Financial Corporation",
+    "sector":"Financials",
+    "subSector":"Regional Banks",
+    "marketCap":27009377412.162197113,
+    "weight":0.0003744325
+  },
+  {
+    "symbol":"PPL",
+    "name":"PPL Corporation",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":26986806681.3431167603,
+    "weight":0.0003741196
+  },
+  {
+    "symbol":"WRB",
+    "name":"W. R. Berkley Corporation",
+    "sector":"Financials",
+    "subSector":"Property & Casualty Insurance",
+    "marketCap":26718299805.9317321777,
+    "weight":0.0003703973
+  },
+  {
+    "symbol":"WSM",
+    "name":"Williams-Sonoma, Inc.",
+    "sector":"Consumer Discretionary",
+    "subSector":"Homefurnishing Retail",
+    "marketCap":26714351678.6146240234,
+    "weight":0.0003703425
+  },
+  {
+    "symbol":"ECHO",
+    "name":"EchoStar",
+    "sector":"Communication Services",
+    "subSector":"Wireless Telecommunication Services",
+    "marketCap":26683127751.7159423828,
+    "weight":0.0003699097
+  },
+  {
+    "symbol":"CPRT",
+    "name":"Copart",
+    "sector":"Industrials",
+    "subSector":"Diversified Support Services",
+    "marketCap":26678825511.6816101074,
+    "weight":0.00036985
+  },
+  {
+    "symbol":"MTD",
+    "name":"Mettler Toledo",
+    "sector":"Health Care",
+    "subSector":"Life Sciences Tools & Services",
+    "marketCap":26452154255.6997070312,
+    "weight":0.0003667077
+  },
+  {
+    "symbol":"AWK",
+    "name":"American Water Works",
+    "sector":"Utilities",
+    "subSector":"Water Utilities",
+    "marketCap":26414619553.8752288818,
+    "weight":0.0003661873
+  },
+  {
+    "symbol":"VRSK",
+    "name":"Verisk Analytics",
+    "sector":"Industrials",
+    "subSector":"Research & Consulting Services",
+    "marketCap":26206333247.6306152344,
+    "weight":0.0003632998
+  },
+  {
+    "symbol":"PPG",
+    "name":"PPG Industries",
+    "sector":"Materials",
+    "subSector":"Specialty Chemicals",
+    "marketCap":26158430248.2604980469,
+    "weight":0.0003626358
+  },
+  {
+    "symbol":"EQR",
+    "name":"Equity Residential",
+    "sector":"Real Estate",
+    "subSector":"Multi-Family Residential REITs",
+    "marketCap":25813289347.516418457,
+    "weight":0.0003578511
+  },
+  {
+    "symbol":"HUBB",
+    "name":"Hubbell Incorporated",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":25613995145.7471008301,
+    "weight":0.0003550882
+  },
+  {
+    "symbol":"WST",
+    "name":"West Pharmaceutical Services",
+    "sector":"Health Care",
+    "subSector":"Health Care Supplies",
+    "marketCap":25421123160.2128601074,
+    "weight":0.0003524144
+  },
+  {
+    "symbol":"KEY",
+    "name":"KeyCorp",
+    "sector":"Financials",
+    "subSector":"Regional Banks",
+    "marketCap":25392902493.1103668213,
+    "weight":0.0003520232
+  },
+  {
+    "symbol":"VRSN",
+    "name":"Verisign",
+    "sector":"Information Technology",
+    "subSector":"Internet Services & Infrastructure",
+    "marketCap":25056850555.419921875,
+    "weight":0.0003473645
+  },
+  {
+    "symbol":"TROW",
+    "name":"T. Rowe Price",
+    "sector":"Financials",
+    "subSector":"Asset Management & Custody Banks",
+    "marketCap":25022053987.1240844727,
+    "weight":0.0003468821
+  },
+  {
+    "symbol":"SYF",
+    "name":"Synchrony Financial",
+    "sector":"Financials",
+    "subSector":"Consumer Finance",
+    "marketCap":24686211855.0758972168,
+    "weight":0.0003422263
+  },
+  {
+    "symbol":"PFG",
+    "name":"Principal Financial Group",
+    "sector":"Financials",
+    "subSector":"Life & Health Insurance",
+    "marketCap":24569248094.7077636719,
+    "weight":0.0003406048
+  },
+  {
+    "symbol":"MRNA",
+    "name":"Moderna",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":24551149775.625,
+    "weight":0.0003403539
+  },
+  {
+    "symbol":"CHRW",
+    "name":"C.H. Robinson",
+    "sector":"Industrials",
+    "subSector":"Air Freight & Logistics",
+    "marketCap":24419757895.308013916,
+    "weight":0.0003385325
+  },
+  {
+    "symbol":"DLTR",
+    "name":"Dollar Tree",
+    "sector":"Consumer Staples",
+    "subSector":"Consumer Staples Merchandise Retail",
+    "marketCap":24337470612.6721801758,
+    "weight":0.0003373917
+  },
+  {
+    "symbol":"FOXA",
+    "name":"Fox Corporation (Class A)",
+    "sector":"Communication Services",
+    "subSector":"Broadcasting",
+    "marketCap":24064506942.7657928467,
+    "weight":0.0003336076
+  },
+  {
+    "symbol":"PHM",
+    "name":"PulteGroup",
+    "sector":"Consumer Discretionary",
+    "subSector":"Homebuilding",
+    "marketCap":23957467977.3599624634,
+    "weight":0.0003321237
+  },
+  {
+    "symbol":"CPAY",
+    "name":"Corpay",
+    "sector":"Financials",
+    "subSector":"Transaction & Payment Processing Services",
+    "marketCap":23891742172.2825012207,
+    "weight":0.0003312125
+  },
+  {
+    "symbol":"EXPD",
+    "name":"Expeditors International",
+    "sector":"Industrials",
+    "subSector":"Air Freight & Logistics",
+    "marketCap":23877883515.4592895508,
+    "weight":0.0003310204
+  },
+  {
+    "symbol":"L",
+    "name":"Loews Corporation",
+    "sector":"Financials",
+    "subSector":"Multi-line Insurance",
+    "marketCap":23552305015.1929702759,
+    "weight":0.0003265069
+  },
+  {
+    "symbol":"BRO",
+    "name":"Brown & Brown",
+    "sector":"Financials",
+    "subSector":"Insurance Brokers",
+    "marketCap":23465360170.2553939819,
+    "weight":0.0003253016
+  },
+  {
+    "symbol":"LUV",
+    "name":"Southwest Airlines",
+    "sector":"Industrials",
+    "subSector":"Passenger Airlines",
+    "marketCap":23424479822.6202507019,
+    "weight":0.0003247349
+  },
+  {
+    "symbol":"INCY",
+    "name":"Incyte",
+    "sector":"Health Care",
+    "subSector":"Biotechnology",
+    "marketCap":23414467956.3132476807,
+    "weight":0.0003245961
+  },
+  {
+    "symbol":"DGX",
+    "name":"Quest Diagnostics",
+    "sector":"Health Care",
+    "subSector":"Health Care Services",
+    "marketCap":23334807571.0186920166,
+    "weight":0.0003234917
+  },
+  {
+    "symbol":"OMC",
+    "name":"Omnicom Group",
+    "sector":"Communication Services",
+    "subSector":"Advertising",
+    "marketCap":23296405852.2010803223,
+    "weight":0.0003229594
+  },
+  {
+    "symbol":"LH",
+    "name":"Labcorp",
+    "sector":"Health Care",
+    "subSector":"Health Care Services",
+    "marketCap":23199848999.0234375,
+    "weight":0.0003216208
+  },
+  {
+    "symbol":"FFIV",
+    "name":"F5, Inc.",
+    "sector":"Information Technology",
+    "subSector":"Communications Equipment",
+    "marketCap":23183232991.3834533691,
+    "weight":0.0003213904
+  },
+  {
+    "symbol":"SW",
+    "name":"Smurfit Westrock",
+    "sector":"Materials",
+    "subSector":"Paper & Plastic Packaging Products & Materials",
+    "marketCap":23113131757.4062652588,
+    "weight":0.0003204186
+  },
+  {
+    "symbol":"CHD",
+    "name":"Church & Dwight",
+    "sector":"Consumer Staples",
+    "subSector":"Household Products",
+    "marketCap":23085415215.1694488525,
+    "weight":0.0003200344
+  },
+  {
+    "symbol":"VLTO",
+    "name":"Veralto",
+    "sector":"Industrials",
+    "subSector":"Environmental & Facilities Services",
+    "marketCap":23049490739.3452606201,
+    "weight":0.0003195364
+  },
+  {
+    "symbol":"BG",
+    "name":"Bunge Global",
+    "sector":"Consumer Staples",
+    "subSector":"Agricultural Products & Services",
+    "marketCap":22960103018.5844421387,
+    "weight":0.0003182972
+  },
+  {
+    "symbol":"HPQ",
+    "name":"HP Inc.",
+    "sector":"Information Technology",
+    "subSector":"Technology Hardware, Storage & Peripherals",
+    "marketCap":22821913659.1774559021,
+    "weight":0.0003163815
+  },
+  {
+    "symbol":"CMS",
+    "name":"CMS Energy",
+    "sector":"Utilities",
+    "subSector":"Multi-Utilities",
+    "marketCap":22813712136.3260955811,
+    "weight":0.0003162678
+  },
+  {
+    "symbol":"FSLR",
+    "name":"First Solar",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":22796768096.0963439941,
+    "weight":0.0003160329
+  },
+  {
+    "symbol":"DRI",
+    "name":"Darden Restaurants",
+    "sector":"Consumer Discretionary",
+    "subSector":"Restaurants",
+    "marketCap":22758104746.56690979,
+    "weight":0.0003154969
+  },
+  {
+    "symbol":"STZ",
+    "name":"Constellation Brands",
+    "sector":"Consumer Staples",
+    "subSector":"Distillers & Vintners",
+    "marketCap":22747686887.625579834,
+    "weight":0.0003153524
+  },
+  {
+    "symbol":"FDXF",
+    "name":"FedEx Freight",
+    "sector":"Industrials",
+    "subSector":"Cargo Ground Transportation",
+    "marketCap":22685854232.5010681152,
+    "weight":0.0003144953
+  },
+  {
+    "symbol":"RL",
+    "name":"Ralph Lauren Corporation",
+    "sector":"Consumer Discretionary",
+    "subSector":"Apparel, Accessories & Luxury Goods",
+    "marketCap":22680786206.8474731445,
+    "weight":0.000314425
+  },
+  {
+    "symbol":"NI",
+    "name":"NiSource",
+    "sector":"Utilities",
+    "subSector":"Multi-Utilities",
+    "marketCap":22025438256.8903923035,
+    "weight":0.0003053399
+  },
+  {
+    "symbol":"ROL",
+    "name":"Rollins, Inc.",
+    "sector":"Industrials",
+    "subSector":"Environmental & Facilities Services",
+    "marketCap":21745231670.7916259766,
+    "weight":0.0003014554
+  },
+  {
+    "symbol":"FIS",
+    "name":"Fidelity National Information Services",
+    "sector":"Financials",
+    "subSector":"Transaction & Payment Processing Services",
+    "marketCap":21696001574.5300064087,
+    "weight":0.0003007729
+  },
+  {
+    "symbol":"FOX",
+    "name":"Fox Corporation (Class B)",
+    "sector":"Communication Services",
+    "subSector":"Broadcasting",
+    "marketCap":21599688962.2342071533,
+    "weight":0.0002994377
+  },
+  {
+    "symbol":"DOW",
+    "name":"Dow Inc.",
+    "sector":"Materials",
+    "subSector":"Commodity Chemicals",
+    "marketCap":21571791459.2928314209,
+    "weight":0.0002990509
+  },
+  {
+    "symbol":"GPN",
+    "name":"Global Payments",
+    "sector":"Financials",
+    "subSector":"Transaction & Payment Processing Services",
+    "marketCap":21495049280.9331207275,
+    "weight":0.0002979871
+  },
+  {
+    "symbol":"EFX",
+    "name":"Equifax",
+    "sector":"Industrials",
+    "subSector":"Research & Consulting Services",
+    "marketCap":21262753364.2816772461,
+    "weight":0.0002947667
+  },
+  {
+    "symbol":"SNA",
+    "name":"Snap-on",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":21258729803.5380859375,
+    "weight":0.0002947109
+  },
+  {
+    "symbol":"CTSH",
+    "name":"Cognizant",
+    "sector":"Information Technology",
+    "subSector":"IT Consulting & Other Services",
+    "marketCap":21249524639.1296386719,
+    "weight":0.0002945833
+  },
+  {
+    "symbol":"STE",
+    "name":"Steris",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":21210201651.4489746094,
+    "weight":0.0002940382
+  },
+  {
+    "symbol":"EXE",
+    "name":"Expand Energy",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Exploration & Production",
+    "marketCap":21029411679.3175964355,
+    "weight":0.0002915319
+  },
+  {
+    "symbol":"ULTA",
+    "name":"Ulta Beauty",
+    "sector":"Consumer Discretionary",
+    "subSector":"Other Specialty Retail",
+    "marketCap":20673344241.0503234863,
+    "weight":0.0002865957
+  },
+  {
+    "symbol":"PKG",
+    "name":"Packaging Corporation of America",
+    "sector":"Materials",
+    "subSector":"Paper & Plastic Packaging Products & Materials",
+    "marketCap":20506498991.5220031738,
+    "weight":0.0002842827
+  },
+  {
+    "symbol":"GIS",
+    "name":"General Mills",
+    "sector":"Consumer Staples",
+    "subSector":"Packaged Foods & Meats",
+    "marketCap":20256903147.4292602539,
+    "weight":0.0002808226
+  },
+  {
+    "symbol":"TSN",
+    "name":"Tyson Foods",
+    "sector":"Consumer Staples",
+    "subSector":"Packaged Foods & Meats",
+    "marketCap":20236877162.7854614258,
+    "weight":0.0002805449
+  },
+  {
+    "symbol":"LEN",
+    "name":"Lennar",
+    "sector":"Consumer Discretionary",
+    "subSector":"Homebuilding",
+    "marketCap":20180990888.6268157959,
+    "weight":0.0002797702
+  },
+  {
+    "symbol":"VTRS",
+    "name":"Viatris",
+    "sector":"Health Care",
+    "subSector":"Pharmaceuticals",
+    "marketCap":20129292446.6933670044,
+    "weight":0.0002790535
+  },
+  {
+    "symbol":"AMCR",
+    "name":"Amcor",
+    "sector":"Materials",
+    "subSector":"Paper & Plastic Packaging Products & Materials",
+    "marketCap":20058866984.6181106567,
+    "weight":0.0002780772
+  },
+  {
+    "symbol":"IFF",
+    "name":"International Flavors & Fragrances",
+    "sector":"Materials",
+    "subSector":"Specialty Chemicals",
+    "marketCap":19883033776.0280685425,
+    "weight":0.0002756396
+  },
+  {
+    "symbol":"SBAC",
+    "name":"SBA Communications",
+    "sector":"Real Estate",
+    "subSector":"Telecom Tower REITs",
+    "marketCap":19791359619.5572814941,
+    "weight":0.0002743687
+  },
+  {
+    "symbol":"EVRG",
+    "name":"Evergy",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":19752661675.0259399414,
+    "weight":0.0002738322
+  },
+  {
+    "symbol":"IP",
+    "name":"International Paper",
+    "sector":"Materials",
+    "subSector":"Paper & Plastic Packaging Products & Materials",
+    "marketCap":19671556392.0787811279,
+    "weight":0.0002727079
+  },
+  {
+    "symbol":"LNT",
+    "name":"Alliant Energy",
+    "sector":"Utilities",
+    "subSector":"Electric Utilities",
+    "marketCap":19386273766.6608276367,
+    "weight":0.000268753
+  },
+  {
+    "symbol":"LYB",
+    "name":"LyondellBasell",
+    "sector":"Materials",
+    "subSector":"Specialty Chemicals",
+    "marketCap":19115314651.0843811035,
+    "weight":0.0002649967
+  },
+  {
+    "symbol":"LII",
+    "name":"Lennox International",
+    "sector":"Industrials",
+    "subSector":"Building Products",
+    "marketCap":18873587625.4296875,
+    "weight":0.0002616456
+  },
+  {
+    "symbol":"FTV",
+    "name":"Fortive",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":18857178314.4006996155,
+    "weight":0.0002614181
+  },
+  {
+    "symbol":"ESS",
+    "name":"Essex Property Trust",
+    "sector":"Real Estate",
+    "subSector":"Multi-Family Residential REITs",
+    "marketCap":18777600581.6054382324,
+    "weight":0.0002603149
+  },
+  {
+    "symbol":"CHTR",
+    "name":"Charter Communications",
+    "sector":"Communication Services",
+    "subSector":"Cable & Satellite",
+    "marketCap":18737193438.7368774414,
+    "weight":0.0002597548
+  },
+  {
+    "symbol":"CF",
+    "name":"CF Industries",
+    "sector":"Materials",
+    "subSector":"Fertilizers & Agricultural Chemicals",
+    "marketCap":18725872114.0921325684,
+    "weight":0.0002595978
+  },
+  {
+    "symbol":"DD",
+    "name":"DuPont",
+    "sector":"Materials",
+    "subSector":"Specialty Chemicals",
+    "marketCap":18183062485.4420928955,
+    "weight":0.0002520728
+  },
+  {
+    "symbol":"BBY",
+    "name":"Best Buy",
+    "sector":"Consumer Discretionary",
+    "subSector":"Computer & Electronics Retail",
+    "marketCap":17901505332.2418212891,
+    "weight":0.0002481696
+  },
+  {
+    "symbol":"INVH",
+    "name":"Invitation Homes",
+    "sector":"Real Estate",
+    "subSector":"Single-Family Residential REITs",
+    "marketCap":17815318124.4745864868,
+    "weight":0.0002469747
+  },
+  {
+    "symbol":"ZBH",
+    "name":"Zimmer Biomet",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":17688274788.3000640869,
+    "weight":0.0002452135
+  },
+  {
+    "symbol":"NVR",
+    "name":"NVR, Inc.",
+    "sector":"Consumer Discretionary",
+    "subSector":"Homebuilding",
+    "marketCap":17684385177.7265625,
+    "weight":0.0002451596
+  },
+  {
+    "symbol":"WY",
+    "name":"Weyerhaeuser",
+    "sector":"Real Estate",
+    "subSector":"Timber REITs",
+    "marketCap":17575413594.375,
+    "weight":0.0002436489
+  },
+  {
+    "symbol":"NWS",
+    "name":"News Corp (Class B)",
+    "sector":"Communication Services",
+    "subSector":"Publishing",
+    "marketCap":17520405643.705039978,
+    "weight":0.0002428864
+  },
+  {
+    "symbol":"KIM",
+    "name":"Kimco Realty",
+    "sector":"Real Estate",
+    "subSector":"Retail REITs",
+    "marketCap":17517275104.4592895508,
+    "weight":0.000242843
+  },
+  {
+    "symbol":"BR",
+    "name":"Broadridge Financial Solutions",
+    "sector":"Industrials",
+    "subSector":"Data Processing & Outsourced Services",
+    "marketCap":17426235397.2133331299,
+    "weight":0.0002415809
+  },
+  {
+    "symbol":"AKAM",
+    "name":"Akamai Technologies",
+    "sector":"Information Technology",
+    "subSector":"Internet Services & Infrastructure",
+    "marketCap":17248529817.9037628174,
+    "weight":0.0002391173
+  },
+  {
+    "symbol":"GPC",
+    "name":"Genuine Parts Company",
+    "sector":"Consumer Discretionary",
+    "subSector":"Distributors",
+    "marketCap":17220534358.4132080078,
+    "weight":0.0002387292
+  },
+  {
+    "symbol":"CDW",
+    "name":"CDW Corporation",
+    "sector":"Information Technology",
+    "subSector":"Technology Distributors",
+    "marketCap":16986099702.6797027588,
+    "weight":0.0002354792
+  },
+  {
+    "symbol":"BEN",
+    "name":"Franklin Resources",
+    "sector":"Financials",
+    "subSector":"Asset Management & Custody Banks",
+    "marketCap":16901199486.9533843994,
+    "weight":0.0002343023
+  },
+  {
+    "symbol":"IEX",
+    "name":"IDEX Corporation",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":16671150719.0568237305,
+    "weight":0.0002311131
+  },
+  {
+    "symbol":"BALL",
+    "name":"Ball Corporation",
+    "sector":"Materials",
+    "subSector":"Metal, Glass & Plastic Containers",
+    "marketCap":16592482484.2680130005,
+    "weight":0.0002300225
+  },
+  {
+    "symbol":"HST",
+    "name":"Host Hotels & Resorts",
+    "sector":"Real Estate",
+    "subSector":"Hotel & Resort REITs",
+    "marketCap":16231639482.2214241028,
+    "weight":0.0002250201
+  },
+  {
+    "symbol":"NDSN",
+    "name":"Nordson Corporation",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":16136752965.8994140625,
+    "weight":0.0002237047
+  },
+  {
+    "symbol":"GEN",
+    "name":"Gen Digital",
+    "sector":"Information Technology",
+    "subSector":"Systems Software",
+    "marketCap":16087996025.1079444885,
+    "weight":0.0002230288
+  },
+  {
+    "symbol":"MAS",
+    "name":"Masco",
+    "sector":"Industrials",
+    "subSector":"Building Products",
+    "marketCap":15995372100.5123901367,
+    "weight":0.0002217447
+  },
+  {
+    "symbol":"TSCO",
+    "name":"Tractor Supply",
+    "sector":"Consumer Discretionary",
+    "subSector":"Other Specialty Retail",
+    "marketCap":15946677176.8818054199,
+    "weight":0.0002210697
+  },
+  {
+    "symbol":"TXT",
+    "name":"Textron",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":15924753198.3802337646,
+    "weight":0.0002207657
+  },
+  {
+    "symbol":"SMCI",
+    "name":"Supermicro",
+    "sector":"Information Technology",
+    "subSector":"Technology Hardware, Storage & Peripherals",
+    "marketCap":15848389161.5,
+    "weight":0.0002197071
+  },
+  {
+    "symbol":"J",
+    "name":"Jacobs Solutions",
+    "sector":"Industrials",
+    "subSector":"Construction & Engineering",
+    "marketCap":15493392926.3693389893,
+    "weight":0.0002147858
+  },
+  {
+    "symbol":"NWSA",
+    "name":"News Corp (Class A)",
+    "sector":"Communication Services",
+    "subSector":"Publishing",
+    "marketCap":15405921818.4466400146,
+    "weight":0.0002135731
+  },
+  {
+    "symbol":"DOC",
+    "name":"Healthpeak Properties",
+    "sector":"Real Estate",
+    "subSector":"Health Care REITs",
+    "marketCap":15398188412.987411499,
+    "weight":0.0002134659
+  },
+  {
+    "symbol":"MAA",
+    "name":"Mid-America Apartment Communities",
+    "sector":"Real Estate",
+    "subSector":"Multi-Family Residential REITs",
+    "marketCap":15397709659.7782287598,
+    "weight":0.0002134593
+  },
+  {
+    "symbol":"DVA",
+    "name":"DaVita",
+    "sector":"Health Care",
+    "subSector":"Health Care Services",
+    "marketCap":15135464693.2983398438,
+    "weight":0.0002098238
+  },
+  {
+    "symbol":"EG",
+    "name":"Everest Group",
+    "sector":"Financials",
+    "subSector":"Reinsurance",
+    "marketCap":15061346857.5578613281,
+    "weight":0.0002087963
+  },
+  {
+    "symbol":"REG",
+    "name":"Regency Centers",
+    "sector":"Real Estate",
+    "subSector":"Retail REITs",
+    "marketCap":15054218297.3068237305,
+    "weight":0.0002086975
+  },
+  {
+    "symbol":"DECK",
+    "name":"Deckers Brands",
+    "sector":"Consumer Discretionary",
+    "subSector":"Footwear",
+    "marketCap":14842902279.375,
+    "weight":0.000205768
+  },
+  {
+    "symbol":"PTC",
+    "name":"PTC Inc.",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":14446309245.1204299927,
+    "weight":0.00020027
+  },
+  {
+    "symbol":"GL",
+    "name":"Globe Life",
+    "sector":"Financials",
+    "subSector":"Life & Health Insurance",
+    "marketCap":14354963792.8048095703,
+    "weight":0.0001990037
+  },
+  {
+    "symbol":"ALB",
+    "name":"Albemarle Corporation",
+    "sector":"Materials",
+    "subSector":"Specialty Chemicals",
+    "marketCap":14252402393.3960037231,
+    "weight":0.0001975818
+  },
+  {
+    "symbol":"SOLV",
+    "name":"Solventum",
+    "sector":"Health Care",
+    "subSector":"Health Care Technology",
+    "marketCap":14053128143.0436401367,
+    "weight":0.0001948193
+  },
+  {
+    "symbol":"COO",
+    "name":"Cooper Companies (The)",
+    "sector":"Health Care",
+    "subSector":"Health Care Supplies",
+    "marketCap":14028553275.4186248779,
+    "weight":0.0001944786
+  },
+  {
+    "symbol":"MKC",
+    "name":"McCormick & Company",
+    "sector":"Consumer Staples",
+    "subSector":"Packaged Foods & Meats",
+    "marketCap":13939952560.9650878906,
+    "weight":0.0001932503
+  },
+  {
+    "symbol":"HRL",
+    "name":"Hormel Foods",
+    "sector":"Consumer Staples",
+    "subSector":"Packaged Foods & Meats",
+    "marketCap":13924942026.0684127808,
+    "weight":0.0001930422
+  },
+  {
+    "symbol":"SWK",
+    "name":"Stanley Black & Decker",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":13912496127.1514587402,
+    "weight":0.0001928697
+  },
+  {
+    "symbol":"TKO",
+    "name":"TKO Group Holdings",
+    "sector":"Communication Services",
+    "subSector":"Movies & Entertainment",
+    "marketCap":13789553954.6465454102,
+    "weight":0.0001911654
+  },
+  {
+    "symbol":"AIZ",
+    "name":"Assurant",
+    "sector":"Financials",
+    "subSector":"Multi-line Insurance",
+    "marketCap":13724199488.7663574219,
+    "weight":0.0001902593
+  },
+  {
+    "symbol":"LDOS",
+    "name":"Leidos",
+    "sector":"Industrials",
+    "subSector":"Diversified Support Services",
+    "marketCap":13342064340.2333221436,
+    "weight":0.0001849618
+  },
+  {
+    "symbol":"LULU",
+    "name":"Lululemon Athletica",
+    "sector":"Consumer Discretionary",
+    "subSector":"Apparel, Accessories & Luxury Goods",
+    "marketCap":13215404664.9548492432,
+    "weight":0.0001832059
+  },
+  {
+    "symbol":"PNW",
+    "name":"Pinnacle West Capital",
+    "sector":"Utilities",
+    "subSector":"Multi-Utilities",
+    "marketCap":13063976864.6338806152,
+    "weight":0.0001811066
+  },
+  {
+    "symbol":"TYL",
+    "name":"Tyler Technologies",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":13054309406.6091918945,
+    "weight":0.0001809726
+  },
+  {
+    "symbol":"IVZ",
+    "name":"Invesco",
+    "sector":"Financials",
+    "subSector":"Asset Management & Custody Banks",
+    "marketCap":13044002970.1165122986,
+    "weight":0.0001808297
+  },
+  {
+    "symbol":"UDR",
+    "name":"UDR, Inc.",
+    "sector":"Real Estate",
+    "subSector":"Multi-Family Residential REITs",
+    "marketCap":12876407675.4373588562,
+    "weight":0.0001785064
+  },
+  {
+    "symbol":"ZBRA",
+    "name":"Zebra Technologies",
+    "sector":"Information Technology",
+    "subSector":"Electronic Equipment & Instruments",
+    "marketCap":12756221796.1376953125,
+    "weight":0.0001768402
+  },
+  {
+    "symbol":"ALGN",
+    "name":"Align Technology",
+    "sector":"Health Care",
+    "subSector":"Health Care Supplies",
+    "marketCap":12680705391.7710571289,
+    "weight":0.0001757933
+  },
+  {
+    "symbol":"GNRC",
+    "name":"Generac",
+    "sector":"Industrials",
+    "subSector":"Heavy Electrical Equipment",
+    "marketCap":12671483585.25,
+    "weight":0.0001756655
+  },
+  {
+    "symbol":"TRMB",
+    "name":"Trimble Inc.",
+    "sector":"Information Technology",
+    "subSector":"Application Software",
+    "marketCap":12460976674.9849395752,
+    "weight":0.0001727472
+  },
+  {
+    "symbol":"GDDY",
+    "name":"GoDaddy",
+    "sector":"Information Technology",
+    "subSector":"Internet Services & Infrastructure",
+    "marketCap":12382968446.9489364624,
+    "weight":0.0001716658
+  },
+  {
+    "symbol":"APA",
+    "name":"APA Corporation",
+    "sector":"Energy",
+    "subSector":"Oil & Gas Exploration & Production",
+    "marketCap":12371457945.0,
+    "weight":0.0001715062
+  },
+  {
+    "symbol":"AVY",
+    "name":"Avery Dennison",
+    "sector":"Materials",
+    "subSector":"Paper & Plastic Packaging Products & Materials",
+    "marketCap":12263703567.1080780029,
+    "weight":0.0001700124
+  },
+  {
+    "symbol":"RVTY",
+    "name":"Revvity",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":12248705072.2629547119,
+    "weight":0.0001698045
+  },
+  {
+    "symbol":"APTV",
+    "name":"Aptiv",
+    "sector":"Consumer Discretionary",
+    "subSector":"Automotive Parts & Equipment",
+    "marketCap":12242226175.0683135986,
+    "weight":0.0001697147
+  },
+  {
+    "symbol":"CSGP",
+    "name":"CoStar Group",
+    "sector":"Real Estate",
+    "subSector":"Real Estate Services",
+    "marketCap":12124081396.4354801178,
+    "weight":0.0001680768
+  },
+  {
+    "symbol":"SJM",
+    "name":"J.M. Smucker Company (The)",
+    "sector":"Consumer Staples",
+    "subSector":"Packaged Foods & Meats",
+    "marketCap":11988806801.5956115723,
+    "weight":0.0001662015
+  },
+  {
+    "symbol":"ERIE",
+    "name":"Erie Indemnity",
+    "sector":"Financials",
+    "subSector":"Insurance Brokers",
+    "marketCap":11945097573.5808105469,
+    "weight":0.0001655955
+  },
+  {
+    "symbol":"MGM",
+    "name":"MGM Resorts",
+    "sector":"Consumer Discretionary",
+    "subSector":"Casinos & Gaming",
+    "marketCap":11870218164.9444007874,
+    "weight":0.0001645575
+  },
+  {
+    "symbol":"BF.B",
+    "name":"Brown\u2013Forman",
+    "sector":"Consumer Staples",
+    "subSector":"Distillers & Vintners",
+    "marketCap":11836403750.6835651398,
+    "weight":0.0001640887
+  },
+  {
+    "symbol":"ALLE",
+    "name":"Allegion",
+    "sector":"Industrials",
+    "subSector":"Building Products",
+    "marketCap":11759462904.5334777832,
+    "weight":0.0001630221
+  },
+  {
+    "symbol":"BAX",
+    "name":"Baxter International",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":11744505123.7096252441,
+    "weight":0.0001628147
+  },
+  {
+    "symbol":"CLX",
+    "name":"Clorox",
+    "sector":"Consumer Staples",
+    "subSector":"Household Products",
+    "marketCap":11613274667.5097808838,
+    "weight":0.0001609955
+  },
+  {
+    "symbol":"HAS",
+    "name":"Hasbro",
+    "sector":"Consumer Discretionary",
+    "subSector":"Leisure Products",
+    "marketCap":11405564768.4790649414,
+    "weight":0.000158116
+  },
+  {
+    "symbol":"PODD",
+    "name":"Insulet Corporation",
+    "sector":"Health Care",
+    "subSector":"Health Care Equipment",
+    "marketCap":11329623233.4896240234,
+    "weight":0.0001570632
+  },
+  {
+    "symbol":"TECH",
+    "name":"Bio-Techne",
+    "sector":"Health Care",
+    "subSector":"Life Sciences Tools & Services",
+    "marketCap":11202786116.5481872559,
+    "weight":0.0001553048
+  },
+  {
+    "symbol":"CPT",
+    "name":"Camden Property Trust",
+    "sector":"Real Estate",
+    "subSector":"Multi-Family Residential REITs",
+    "marketCap":11137287204.7794494629,
+    "weight":0.0001543968
+  },
+  {
+    "symbol":"BXP",
+    "name":"BXP, Inc.",
+    "sector":"Real Estate",
+    "subSector":"Office REITs",
+    "marketCap":11102018233.784538269,
+    "weight":0.0001539079
+  },
+  {
+    "symbol":"FRT",
+    "name":"Federal Realty Investment Trust",
+    "sector":"Real Estate",
+    "subSector":"Retail REITs",
+    "marketCap":10857826014.0338745117,
+    "weight":0.0001505226
+  },
+  {
+    "symbol":"CRL",
+    "name":"Charles River Laboratories",
+    "sector":"Health Care",
+    "subSector":"Life Sciences Tools & Services",
+    "marketCap":10853634689.0977478027,
+    "weight":0.0001504645
+  },
+  {
+    "symbol":"JKHY",
+    "name":"Jack Henry & Associates",
+    "sector":"Financials",
+    "subSector":"Transaction & Payment Processing Services",
+    "marketCap":10766324606.6680908203,
+    "weight":0.0001492542
+  },
+  {
+    "symbol":"DPZ",
+    "name":"Domino's",
+    "sector":"Consumer Discretionary",
+    "subSector":"Restaurants",
+    "marketCap":10636896927.4008178711,
+    "weight":0.0001474599
+  },
+  {
+    "symbol":"HII",
+    "name":"Huntington Ingalls Industries",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":10619385815.5,
+    "weight":0.0001472171
+  },
+  {
+    "symbol":"AES",
+    "name":"AES Corporation",
+    "sector":"Utilities",
+    "subSector":"Independent Power Producers & Energy Traders",
+    "marketCap":10544036677.8857688904,
+    "weight":0.0001461726
+  },
+  {
+    "symbol":"PNR",
+    "name":"Pentair",
+    "sector":"Industrials",
+    "subSector":"Industrial Machinery & Supplies & Components",
+    "marketCap":10160140190.0566596985,
+    "weight":0.0001408506
+  },
+  {
+    "symbol":"HSIC",
+    "name":"Henry Schein",
+    "sector":"Health Care",
+    "subSector":"Health Care Distributors",
+    "marketCap":9987081877.6021881104,
+    "weight":0.0001384515
+  },
+  {
+    "symbol":"WYNN",
+    "name":"Wynn Resorts",
+    "sector":"Consumer Discretionary",
+    "subSector":"Casinos & Gaming",
+    "marketCap":9961450597.8251571655,
+    "weight":0.0001380961
+  },
+  {
+    "symbol":"PSKY",
+    "name":"Paramount Skydance Corporation",
+    "sector":"Communication Services",
+    "subSector":"Movies & Entertainment",
+    "marketCap":9831935143.7577438354,
+    "weight":0.0001363007
+  },
+  {
+    "symbol":"IT",
+    "name":"Gartner",
+    "sector":"Information Technology",
+    "subSector":"IT Consulting & Other Services",
+    "marketCap":9442893975.0539093018,
+    "weight":0.0001309074
+  },
+  {
+    "symbol":"UHS",
+    "name":"Universal Health Services",
+    "sector":"Health Care",
+    "subSector":"Health Care Facilities",
+    "marketCap":9186694241.5926513672,
+    "weight":0.0001273557
+  },
+  {
+    "symbol":"FDS",
+    "name":"FactSet",
+    "sector":"Financials",
+    "subSector":"Financial Exchanges & Data",
+    "marketCap":9150302859.6250305176,
+    "weight":0.0001268512
+  },
+  {
+    "symbol":"NCLH",
+    "name":"Norwegian Cruise Line Holdings",
+    "sector":"Consumer Discretionary",
+    "subSector":"Hotels, Resorts & Cruise Lines",
+    "marketCap":8931987738.6726760864,
+    "weight":0.0001238246
+  },
+  {
+    "symbol":"SWKS",
+    "name":"Skyworks Solutions",
+    "sector":"Information Technology",
+    "subSector":"Semiconductors",
+    "marketCap":8881472000.399356842,
+    "weight":0.0001231243
+  },
+  {
+    "symbol":"ARE",
+    "name":"Alexandria Real Estate Equities",
+    "sector":"Real Estate",
+    "subSector":"Office REITs",
+    "marketCap":8709988530.6257629395,
+    "weight":0.0001207471
+  },
+  {
+    "symbol":"TTD",
+    "name":"Trade Desk (The)",
+    "sector":"Communication Services",
+    "subSector":"Advertising",
+    "marketCap":8704056016.9836273193,
+    "weight":0.0001206648
+  },
+  {
+    "symbol":"AOS",
+    "name":"A. O. Smith",
+    "sector":"Industrials",
+    "subSector":"Building Products",
+    "marketCap":8107768911.9548950195,
+    "weight":0.0001123984
+  },
+  {
+    "symbol":"BLDR",
+    "name":"Builders FirstSource",
+    "sector":"Industrials",
+    "subSector":"Building Products",
+    "marketCap":7962119985.0233459473,
+    "weight":0.0001103793
+  },
+  {
+    "symbol":"TAP",
+    "name":"Molson Coors Beverage Company",
+    "sector":"Consumer Staples",
+    "subSector":"Brewers",
+    "marketCap":7698045227.783203125,
+    "weight":0.0001067184
+  },
+  {
+    "symbol":"MOS",
+    "name":"Mosaic Company (The)",
+    "sector":"Materials",
+    "subSector":"Fertilizers & Agricultural Chemicals",
+    "marketCap":7046660121.7297744751,
+    "weight":0.0000976882
+  }
+]

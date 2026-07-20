@@ -1,0 +1,322 @@
+[
+  {
+    "symbol":"MC.PA",
+    "name":"LVMH",
+    "sector":"Consumer Cyclical",
+    "subSector":"Apparel, Accessories & Luxury Goods",
+    "marketCap":244133430297.3388366699,
+    "weight":0.0979326545
+  },
+  {
+    "symbol":"OR.PA",
+    "name":"L'Or\u00e9al",
+    "sector":"Consumer Defensive",
+    "subSector":"Personal Products",
+    "marketCap":203243396127.0,
+    "weight":0.0815298637
+  },
+  {
+    "symbol":"RMS.PA",
+    "name":"Herm\u00e8s",
+    "sector":"Consumer Cyclical",
+    "subSector":"Apparel, Accessories & Luxury Goods",
+    "marketCap":176067622291.0,
+    "weight":0.0706284657
+  },
+  {
+    "symbol":"TTE.PA",
+    "name":"TotalEnergies",
+    "sector":"Energy",
+    "subSector":"Integrated Oil & Gas",
+    "marketCap":156655694832.0130004883,
+    "weight":0.062841488
+  },
+  {
+    "symbol":"AIR.PA",
+    "name":"Airbus",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":152974175015.8309936523,
+    "weight":0.0613646685
+  },
+  {
+    "symbol":"SU.PA",
+    "name":"Schneider Electric",
+    "sector":"Industrials",
+    "subSector":"Electrical Components & Equipment",
+    "marketCap":147941574603.7838745117,
+    "weight":0.0593458712
+  },
+  {
+    "symbol":"SAF.PA",
+    "name":"Safran",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":136549475275.5,
+    "weight":0.0547759992
+  },
+  {
+    "symbol":"BNP.PA",
+    "name":"BNP Paribas",
+    "sector":"Financial Services",
+    "subSector":"Diversified Banks",
+    "marketCap":112297168567.0346069336,
+    "weight":0.0450473325
+  },
+  {
+    "symbol":"AI.PA",
+    "name":"Air Liquide",
+    "sector":"Basic Materials",
+    "subSector":"Industrial Gases",
+    "marketCap":112205429657.2993164062,
+    "weight":0.045010532
+  },
+  {
+    "symbol":"SAN.PA",
+    "name":"Sanofi",
+    "sector":"Healthcare",
+    "subSector":"Pharmaceuticals",
+    "marketCap":92567043852.2980041504,
+    "weight":0.0371327119
+  },
+  {
+    "symbol":"CS.PA",
+    "name":"Axa",
+    "sector":"Financial Services",
+    "subSector":"Life & Health Insurance",
+    "marketCap":91140510691.0863342285,
+    "weight":0.0365604667
+  },
+  {
+    "symbol":"EL.PA",
+    "name":"EssilorLuxottica",
+    "sector":"Healthcare",
+    "subSector":"Apparel, Accessories & Luxury Goods",
+    "marketCap":76613914149.9378204346,
+    "weight":0.03073321
+  },
+  {
+    "symbol":"ENGI.PA",
+    "name":"Engie",
+    "sector":"Utilities",
+    "subSector":"Gas Utilities",
+    "marketCap":68249263596.6179199219,
+    "weight":0.0273777808
+  },
+  {
+    "symbol":"DG.PA",
+    "name":"Vinci",
+    "sector":"Industrials",
+    "subSector":"Construction & Engineering",
+    "marketCap":65428338036.0017852783,
+    "weight":0.0262461835
+  },
+  {
+    "symbol":"GLE.PA",
+    "name":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+    "sector":"Financial Services",
+    "subSector":"Diversified Banks",
+    "marketCap":54424111477.8900146484,
+    "weight":0.0218319044
+  },
+  {
+    "symbol":"ACA.PA",
+    "name":"Cr\u00e9dit Agricole",
+    "sector":"Financial Services",
+    "subSector":"Regional Banks",
+    "marketCap":53808251792.8576126099,
+    "weight":0.021584856
+  },
+  {
+    "symbol":"STMPA.PA",
+    "name":"STMicroelectronics",
+    "sector":"Technology",
+    "subSector":"Semiconductors",
+    "marketCap":48011109473.7529754639,
+    "weight":0.0192593673
+  },
+  {
+    "symbol":"BN.PA",
+    "name":"Danone",
+    "sector":"Consumer Defensive",
+    "subSector":"Packaged Foods & Meats",
+    "marketCap":46861602730.4196166992,
+    "weight":0.0187982496
+  },
+  {
+    "symbol":"HO.PA",
+    "name":"Thales",
+    "sector":"Industrials",
+    "subSector":"Aerospace & Defense",
+    "marketCap":45844253580.1959228516,
+    "weight":0.0183901461
+  },
+  {
+    "symbol":"ORA.PA",
+    "name":"Orange",
+    "sector":"Communication Services",
+    "subSector":"Integrated Telecommunication Services",
+    "marketCap":43760172522.783416748,
+    "weight":0.0175541295
+  },
+  {
+    "symbol":"MT.AS",
+    "name":"ArcelorMittal",
+    "sector":"Basic Materials",
+    "subSector":"Steel",
+    "marketCap":43719337304.8671035767,
+    "weight":0.0175377487
+  },
+  {
+    "symbol":"SGO.PA",
+    "name":"Saint-Gobain",
+    "sector":"Industrials",
+    "subSector":"Building Products",
+    "marketCap":37221648196.0195541382,
+    "weight":0.0149312399
+  },
+  {
+    "symbol":"LR.PA",
+    "name":"Legrand",
+    "sector":"Industrials",
+    "subSector":"Electrical Components & Equipment",
+    "marketCap":35493224986.0482788086,
+    "weight":0.0142378933
+  },
+  {
+    "symbol":"KER.PA",
+    "name":"Kering",
+    "sector":"Consumer Cyclical",
+    "subSector":"Apparel, Accessories & Luxury Goods",
+    "marketCap":30936862631.5045623779,
+    "weight":0.012410136
+  },
+  {
+    "symbol":"VIE.PA",
+    "name":"Veolia",
+    "sector":"Industrials",
+    "subSector":"Multi-Utilities",
+    "marketCap":27470412949.1263771057,
+    "weight":0.0110195906
+  },
+  {
+    "symbol":"DSY.PA",
+    "name":"Dassault Syst\u00e8mes",
+    "sector":"Technology",
+    "subSector":"Application Software",
+    "marketCap":23500852384.5502471924,
+    "weight":0.0094272253
+  },
+  {
+    "symbol":"PUB.PA",
+    "name":"Publicis",
+    "sector":"Communication Services",
+    "subSector":"Advertising",
+    "marketCap":21900537866.2117462158,
+    "weight":0.0087852688
+  },
+  {
+    "symbol":"EN.PA",
+    "name":"Bouygues",
+    "sector":"Industrials",
+    "subSector":"Construction & Engineering",
+    "marketCap":18441039322.8607177734,
+    "weight":0.0073975118
+  },
+  {
+    "symbol":"RI.PA",
+    "name":"Pernod Ricard",
+    "sector":"Consumer Defensive",
+    "subSector":"Distillers & Vintners",
+    "marketCap":16428251006.9503326416,
+    "weight":0.0065900939
+  },
+  {
+    "symbol":"CAP.PA",
+    "name":"Capgemini",
+    "sector":"Technology",
+    "subSector":"IT Consulting & Other Services",
+    "marketCap":15132656691.9092559814,
+    "weight":0.006070374
+  },
+  {
+    "symbol":"URW.PA",
+    "name":"Unibail-Rodamco-Westfield",
+    "sector":"Real Estate",
+    "subSector":"Retail REITs",
+    "marketCap":14974586350.5977096558,
+    "weight":0.0060069651
+  },
+  {
+    "symbol":"STLAP.PA",
+    "name":"Stellantis",
+    "sector":"Consumer Cyclical",
+    "subSector":"Automobile Manufacturers",
+    "marketCap":14730929797.8003330231,
+    "weight":0.0059092237
+  },
+  {
+    "symbol":"BVI.PA",
+    "name":"Bureau Veritas",
+    "sector":"Inspection and certification",
+    "subSector":"Consulting",
+    "marketCap":12168115588.9924163818,
+    "weight":0.0048811662
+  },
+  {
+    "symbol":"ERF.PA",
+    "name":"Eurofins Scientific",
+    "sector":"Healthcare",
+    "subSector":"Biotechnologies",
+    "marketCap":12150239799.6807861328,
+    "weight":0.0048739955
+  },
+  {
+    "symbol":"CA.PA",
+    "name":"Carrefour",
+    "sector":"Consumer Defensive",
+    "subSector":"Hypermarkets & Super Centers",
+    "marketCap":11875609860.4320449829,
+    "weight":0.0047638293
+  },
+  {
+    "symbol":"AC.PA",
+    "name":"Accor",
+    "sector":"Consumer Services",
+    "subSector":"Hotels, Restaurants & Leisure",
+    "marketCap":11053226291.7446403503,
+    "weight":0.0044339351
+  },
+  {
+    "symbol":"RNO.PA",
+    "name":"Renault",
+    "sector":"Consumer Cyclical",
+    "subSector":"Automobile Manufacturers",
+    "marketCap":7576426232.2754974365,
+    "weight":0.0030392377
+  },
+  {
+    "symbol":"EDEN.PA",
+    "name":"Edenred",
+    "sector":"Industrials",
+    "subSector":"Transaction Processing Services",
+    "marketCap":6130843784.3243789673,
+    "weight":0.002459351
+  },
+  {
+    "symbol":"TEP.PA",
+    "name":"Teleperformance",
+    "sector":"Communication Services",
+    "subSector":"Outsourcing",
+    "marketCap":3189211032.1419525146,
+    "weight":0.0012793328
+  },
+  {
+    "symbol":"ML.PA",
+    "name":"Michelin",
+    "sector":"Industrials",
+    "subSector":"Tires & Rubber",
+    "marketCap":0.0,
+    "weight":0.0
+  }
+]

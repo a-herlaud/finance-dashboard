@@ -1,0 +1,212 @@
+[
+  {
+    "symbol":"GS",
+    "name":"Goldman Sachs",
+    "sector":"Financials",
+    "price":1065.2199707031,
+    "weight":0.1214127903
+  },
+  {
+    "symbol":"CAT",
+    "name":"Caterpillar",
+    "sector":"Industrials",
+    "price":880.2800292969,
+    "weight":0.1003335062
+  },
+  {
+    "symbol":"UNH",
+    "name":"UnitedHealth Group",
+    "sector":"Health Care",
+    "price":426.0899963379,
+    "weight":0.048565345
+  },
+  {
+    "symbol":"MSFT",
+    "name":"Microsoft",
+    "sector":"Information Technology",
+    "price":393.8200073242,
+    "weight":0.0448872414
+  },
+  {
+    "symbol":"TRV",
+    "name":"Travelers Companies, Inc.",
+    "sector":"Financials",
+    "price":368.9800109863,
+    "weight":0.0420560015
+  },
+  {
+    "symbol":"AMGN",
+    "name":"Amgen",
+    "sector":"Health Care",
+    "price":366.2900085449,
+    "weight":0.0417493975
+  },
+  {
+    "symbol":"V",
+    "name":"Visa",
+    "sector":"Financials",
+    "price":358.5599975586,
+    "weight":0.040868338
+  },
+  {
+    "symbol":"AXP",
+    "name":"American Express",
+    "sector":"Financials",
+    "price":355.3500061035,
+    "weight":0.0405024661
+  },
+  {
+    "symbol":"GOOGL",
+    "name":"Alphabet",
+    "sector":"Communication Services",
+    "price":346.7699890137,
+    "weight":0.0395245237
+  },
+  {
+    "symbol":"JPM",
+    "name":"JPMorgan Chase",
+    "sector":"Financials",
+    "price":341.1000061035,
+    "weight":0.0388782642
+  },
+  {
+    "symbol":"HD",
+    "name":"Home Depot",
+    "sector":"Consumer Discretionary",
+    "price":338.8699951172,
+    "weight":0.0386240897
+  },
+  {
+    "symbol":"AAPL",
+    "name":"Apple",
+    "sector":"Information Technology",
+    "price":333.7399902344,
+    "weight":0.0380393764
+  },
+  {
+    "symbol":"SHW",
+    "name":"Sherwin-Williams",
+    "sector":"Materials",
+    "price":331.3200073242,
+    "weight":0.037763549
+  },
+  {
+    "symbol":"MCD",
+    "name":"McDonald's",
+    "sector":"Consumer Discretionary",
+    "price":267.7099914551,
+    "weight":0.030513338
+  },
+  {
+    "symbol":"JNJ",
+    "name":"Johnson & Johnson",
+    "sector":"Health Care",
+    "price":253.0399932861,
+    "weight":0.0288412652
+  },
+  {
+    "symbol":"AMZN",
+    "name":"Amazon",
+    "sector":"Consumer Discretionary",
+    "price":247.2299957275,
+    "weight":0.028179047
+  },
+  {
+    "symbol":"HON",
+    "name":"Honeywell Technologies",
+    "sector":"Industrials",
+    "price":225.0200042725,
+    "weight":0.0256475726
+  },
+  {
+    "symbol":"BA",
+    "name":"Boeing",
+    "sector":"Industrials",
+    "price":214.0299987793,
+    "weight":0.024394942
+  },
+  {
+    "symbol":"IBM",
+    "name":"IBM",
+    "sector":"Information Technology",
+    "price":212.6699981689,
+    "weight":0.0242399303
+  },
+  {
+    "symbol":"NVDA",
+    "name":"Nvidia",
+    "sector":"Information Technology",
+    "price":202.8099975586,
+    "weight":0.0231160966
+  },
+  {
+    "symbol":"CVX",
+    "name":"Chevron",
+    "sector":"Energy",
+    "price":187.3800048828,
+    "weight":0.0213574002
+  },
+  {
+    "symbol":"CRM",
+    "name":"Salesforce",
+    "sector":"Information Technology",
+    "price":170.7700042725,
+    "weight":0.0194642077
+  },
+  {
+    "symbol":"MMM",
+    "name":"3M",
+    "sector":"Industrials",
+    "price":159.8399963379,
+    "weight":0.0182184154
+  },
+  {
+    "symbol":"PG",
+    "name":"Procter & Gamble",
+    "sector":"Consumer Staples",
+    "price":149.9799957275,
+    "weight":0.0170945817
+  },
+  {
+    "symbol":"MRK",
+    "name":"Merck",
+    "sector":"Health Care",
+    "price":127.5,
+    "weight":0.0145323325
+  },
+  {
+    "symbol":"WMT",
+    "name":"Walmart",
+    "sector":"Consumer Staples",
+    "price":114.2399978638,
+    "weight":0.0130209696
+  },
+  {
+    "symbol":"CSCO",
+    "name":"Cisco",
+    "sector":"Information Technology",
+    "price":111.9400024414,
+    "weight":0.0127588183
+  },
+  {
+    "symbol":"DIS",
+    "name":"Disney",
+    "sector":"Communication Services",
+    "price":97.6699981689,
+    "weight":0.0111323364
+  },
+  {
+    "symbol":"KO",
+    "name":"Coca-Cola",
+    "sector":"Consumer Staples",
+    "price":81.5599975586,
+    "weight":0.0092961333
+  },
+  {
+    "symbol":"NKE",
+    "name":"Nike",
+    "sector":"Consumer Discretionary",
+    "price":43.7599983215,
+    "weight":0.0049877243
+  }
+]
